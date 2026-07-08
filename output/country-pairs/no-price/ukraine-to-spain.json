@@ -1,0 +1,234 @@
+{
+  "metadata": {
+    "report_key": "country-pair-no-price-ukraine-to-spain",
+    "report_type": "country_pair_no_price",
+    "generated_at": "2026-07-08T09:11:33.734Z",
+    "period": {
+      "date_from": "2026-01-01",
+      "date_to": "2027-01-01"
+    },
+    "filters": {
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Spain",
+      "has_price": false,
+      "limit": 30
+    }
+  },
+  "summary": {
+    "rows": 30,
+    "searches_total": 383215,
+    "searches_without_price": 221386
+  },
+  "data": [
+    {
+      "origin_city_name": "Kyiv",
+      "destination_city_name": "Valencia",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Spain",
+      "count": 11474
+    },
+    {
+      "origin_city_name": "Kyiv",
+      "destination_city_name": "Barcelona",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Spain",
+      "count": 10678
+    },
+    {
+      "origin_city_name": "Lviv",
+      "destination_city_name": "Barcelona",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Spain",
+      "count": 7168
+    },
+    {
+      "origin_city_name": "Kyiv",
+      "destination_city_name": "Alicante",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Spain",
+      "count": 6242
+    },
+    {
+      "origin_city_name": "Lviv",
+      "destination_city_name": "Madrid",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Spain",
+      "count": 5637
+    },
+    {
+      "origin_city_name": "Kyiv",
+      "destination_city_name": "Madrid",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Spain",
+      "count": 5497
+    },
+    {
+      "origin_city_name": "Lviv",
+      "destination_city_name": "Valencia",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Spain",
+      "count": 4925
+    },
+    {
+      "origin_city_name": "Dnipro",
+      "destination_city_name": "Valencia",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Spain",
+      "count": 4727
+    },
+    {
+      "origin_city_name": "Kyiv",
+      "destination_city_name": "Málaga",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Spain",
+      "count": 3923
+    },
+    {
+      "origin_city_name": "Odesa",
+      "destination_city_name": "Barcelona",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Spain",
+      "count": 3577
+    },
+    {
+      "origin_city_name": "Kharkiv",
+      "destination_city_name": "Valencia",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Spain",
+      "count": 3368
+    },
+    {
+      "origin_city_name": "Kyiv",
+      "destination_city_name": "Torrevieja",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Spain",
+      "count": 3261
+    },
+    {
+      "origin_city_name": "Kharkiv",
+      "destination_city_name": "Barcelona",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Spain",
+      "count": 2792
+    },
+    {
+      "origin_city_name": "Lviv",
+      "destination_city_name": "Alicante",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Spain",
+      "count": 2651
+    },
+    {
+      "origin_city_name": "Odesa",
+      "destination_city_name": "Valencia",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Spain",
+      "count": 2631
+    },
+    {
+      "origin_city_name": "Kyiv",
+      "destination_city_name": "Girona",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Spain",
+      "count": 2329
+    },
+    {
+      "origin_city_name": "Lviv",
+      "destination_city_name": "Málaga",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Spain",
+      "count": 2170
+    },
+    {
+      "origin_city_name": "Kyiv",
+      "destination_city_name": "Benidorm",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Spain",
+      "count": 2132
+    },
+    {
+      "origin_city_name": "Dnipro",
+      "destination_city_name": "Barcelona",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Spain",
+      "count": 2119
+    },
+    {
+      "origin_city_name": "Lviv",
+      "destination_city_name": "Torrevieja",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Spain",
+      "count": 2082
+    },
+    {
+      "origin_city_name": "Dnipro",
+      "destination_city_name": "Alicante",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Spain",
+      "count": 2047
+    },
+    {
+      "origin_city_name": "Khmelnytskyi",
+      "destination_city_name": "Valencia",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Spain",
+      "count": 2036
+    },
+    {
+      "origin_city_name": "Kyiv",
+      "destination_city_name": "Zaragoza",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Spain",
+      "count": 1989
+    },
+    {
+      "origin_city_name": "Khmelnytskyi",
+      "destination_city_name": "Barcelona",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Spain",
+      "count": 1834
+    },
+    {
+      "origin_city_name": "Kharkiv",
+      "destination_city_name": "Málaga",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Spain",
+      "count": 1734
+    },
+    {
+      "origin_city_name": "Kharkiv",
+      "destination_city_name": "Torrevieja",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Spain",
+      "count": 1613
+    },
+    {
+      "origin_city_name": "Odesa",
+      "destination_city_name": "Madrid",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Spain",
+      "count": 1595
+    },
+    {
+      "origin_city_name": "Ternopil",
+      "destination_city_name": "Madrid",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Spain",
+      "count": 1587
+    },
+    {
+      "origin_city_name": "Dnipro",
+      "destination_city_name": "Girona",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Spain",
+      "count": 1576
+    },
+    {
+      "origin_city_name": "Khmelnytskyi",
+      "destination_city_name": "Madrid",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Spain",
+      "count": 1555
+    }
+  ]
+}

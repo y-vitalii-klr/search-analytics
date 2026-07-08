@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "report_key": "global-stats",
+    "report_type": "global_stats",
+    "generated_at": "2026-07-08T09:11:33.734Z",
+    "period": {
+      "date_from": "2026-01-01",
+      "date_to": "2027-01-01"
+    },
+    "filters": {}
+  },
+  "summary": {
+    "rows": 1,
+    "searches_total": 13975601,
+    "searches_without_price": 4988129
+  },
+  "data": [
+    {
+      "scope": "global",
+      "total_searches": 13975601,
+      "searches_without_price": 4988129,
+      "with_price_share": 13975600.643083,
+      "without_price_share": 0.356917
+    }
+  ]
+}

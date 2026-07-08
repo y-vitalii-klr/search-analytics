@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "report_key": "country-coverage",
+    "report_type": "country_coverage",
+    "generated_at": "2026-07-08T09:11:33.734Z",
+    "period": {
+      "date_from": "2026-01-01",
+      "date_to": "2027-01-01"
+    },
+    "filters": {
+      "countries_count": 5
+    }
+  },
+  "summary": {
+    "rows": 5,
+    "searches_total": 24629805,
+    "searches_without_price": 8019188
+  },
+  "data": [
+    {
+      "country_name": "Ukraine",
+      "total_searches": 13576358,
+      "searches_without_price": 4602946,
+      "with_price_share": 13576357.660959,
+      "without_price_share": 0.339041
+    },
+    {
+      "country_name": "Germany",
+      "total_searches": 6853586,
+      "searches_without_price": 1986923,
+      "with_price_share": 6853585.71009,
+      "without_price_share": 0.28991
+    },
+    {
+      "country_name": "Poland",
+      "total_searches": 2281677,
+      "searches_without_price": 687216,
+      "with_price_share": 2281676.698811,
+      "without_price_share": 0.301189
+    },
+    {
+      "country_name": "Czechia",
+      "total_searches": 1290101,
+      "searches_without_price": 365733,
+      "with_price_share": 1290100.716508,
+      "without_price_share": 0.283492
+    },
+    {
+      "country_name": "Spain",
+      "total_searches": 628083,
+      "searches_without_price": 376370,
+      "with_price_share": 628082.400764,
+      "without_price_share": 0.599236
+    }
+  ]
+}

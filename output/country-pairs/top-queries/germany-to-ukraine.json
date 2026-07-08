@@ -1,0 +1,233 @@
+{
+  "metadata": {
+    "report_key": "country-pair-top-queries-germany-to-ukraine",
+    "report_type": "country_pair_top_queries",
+    "generated_at": "2026-07-08T09:11:33.734Z",
+    "period": {
+      "date_from": "2026-01-01",
+      "date_to": "2027-01-01"
+    },
+    "filters": {
+      "origin_country_name": "Germany",
+      "destination_country_name": "Ukraine",
+      "limit": 30
+    }
+  },
+  "summary": {
+    "rows": 30,
+    "searches_total": 3228027,
+    "searches_without_price": 838779
+  },
+  "data": [
+    {
+      "origin_city_name": "Hanover",
+      "destination_city_name": "Kharkiv",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Ukraine",
+      "count": 30019
+    },
+    {
+      "origin_city_name": "Dortmund",
+      "destination_city_name": "Kharkiv",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Ukraine",
+      "count": 29782
+    },
+    {
+      "origin_city_name": "Berlin",
+      "destination_city_name": "Lviv",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Ukraine",
+      "count": 29158
+    },
+    {
+      "origin_city_name": "Berlin",
+      "destination_city_name": "Kharkiv",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Ukraine",
+      "count": 27189
+    },
+    {
+      "origin_city_name": "Essen",
+      "destination_city_name": "Kharkiv",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Ukraine",
+      "count": 26174
+    },
+    {
+      "origin_city_name": "Stuttgart",
+      "destination_city_name": "Kharkiv",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Ukraine",
+      "count": 25540
+    },
+    {
+      "origin_city_name": "Berlin",
+      "destination_city_name": "Dnipro",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Ukraine",
+      "count": 24621
+    },
+    {
+      "origin_city_name": "Stuttgart",
+      "destination_city_name": "Lviv",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Ukraine",
+      "count": 23704
+    },
+    {
+      "origin_city_name": "Nuremberg",
+      "destination_city_name": "Kharkiv",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Ukraine",
+      "count": 23332
+    },
+    {
+      "origin_city_name": "Stuttgart",
+      "destination_city_name": "Kyiv",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Ukraine",
+      "count": 23107
+    },
+    {
+      "origin_city_name": "Frankfurt am Main",
+      "destination_city_name": "Lviv",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Ukraine",
+      "count": 22913
+    },
+    {
+      "origin_city_name": "Munich",
+      "destination_city_name": "Kharkiv",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Ukraine",
+      "count": 22891
+    },
+    {
+      "origin_city_name": "Munich",
+      "destination_city_name": "Lviv",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Ukraine",
+      "count": 21751
+    },
+    {
+      "origin_city_name": "Hanover",
+      "destination_city_name": "Lviv",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Ukraine",
+      "count": 21698
+    },
+    {
+      "origin_city_name": "Frankfurt am Main",
+      "destination_city_name": "Kharkiv",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Ukraine",
+      "count": 21397
+    },
+    {
+      "origin_city_name": "Bielefeld",
+      "destination_city_name": "Kharkiv",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Ukraine",
+      "count": 20826
+    },
+    {
+      "origin_city_name": "Düsseldorf",
+      "destination_city_name": "Kharkiv",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Ukraine",
+      "count": 20416
+    },
+    {
+      "origin_city_name": "Stuttgart",
+      "destination_city_name": "Dnipro",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Ukraine",
+      "count": 20320
+    },
+    {
+      "origin_city_name": "Düsseldorf",
+      "destination_city_name": "Lviv",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Ukraine",
+      "count": 20092
+    },
+    {
+      "origin_city_name": "Leipzig",
+      "destination_city_name": "Kharkiv",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Ukraine",
+      "count": 19679
+    },
+    {
+      "origin_city_name": "Dortmund",
+      "destination_city_name": "Dnipro",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Ukraine",
+      "count": 19595
+    },
+    {
+      "origin_city_name": "Hamburg",
+      "destination_city_name": "Kharkiv",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Ukraine",
+      "count": 19067
+    },
+    {
+      "origin_city_name": "Berlin",
+      "destination_city_name": "Kyiv",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Ukraine",
+      "count": 19002
+    },
+    {
+      "origin_city_name": "Munich",
+      "destination_city_name": "Kyiv",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Ukraine",
+      "count": 18638
+    },
+    {
+      "origin_city_name": "Dortmund",
+      "destination_city_name": "Lviv",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Ukraine",
+      "count": 18555
+    },
+    {
+      "origin_city_name": "Nuremberg",
+      "destination_city_name": "Lviv",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Ukraine",
+      "count": 18242
+    },
+    {
+      "origin_city_name": "Hamburg",
+      "destination_city_name": "Lviv",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Ukraine",
+      "count": 17879
+    },
+    {
+      "origin_city_name": "Frankfurt am Main",
+      "destination_city_name": "Kyiv",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Ukraine",
+      "count": 17837
+    },
+    {
+      "origin_city_name": "Oldenburg",
+      "destination_city_name": "Kharkiv",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Ukraine",
+      "count": 17669
+    },
+    {
+      "origin_city_name": "Cologne",
+      "destination_city_name": "Lviv",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Ukraine",
+      "count": 17652
+    }
+  ]
+}

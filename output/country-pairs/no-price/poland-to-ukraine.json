@@ -1,0 +1,234 @@
+{
+  "metadata": {
+    "report_key": "country-pair-no-price-poland-to-ukraine",
+    "report_type": "country_pair_no_price",
+    "generated_at": "2026-07-08T09:11:33.734Z",
+    "period": {
+      "date_from": "2026-01-01",
+      "date_to": "2027-01-01"
+    },
+    "filters": {
+      "origin_country_name": "Poland",
+      "destination_country_name": "Ukraine",
+      "has_price": false,
+      "limit": 30
+    }
+  },
+  "summary": {
+    "rows": 30,
+    "searches_total": 798429,
+    "searches_without_price": 186669
+  },
+  "data": [
+    {
+      "origin_city_name": "Krakow",
+      "destination_city_name": "Lviv",
+      "origin_country_name": "Poland",
+      "destination_country_name": "Ukraine",
+      "count": 5394
+    },
+    {
+      "origin_city_name": "Warsaw",
+      "destination_city_name": "Kyiv",
+      "origin_country_name": "Poland",
+      "destination_country_name": "Ukraine",
+      "count": 5206
+    },
+    {
+      "origin_city_name": "Warsaw",
+      "destination_city_name": "Lviv",
+      "origin_country_name": "Poland",
+      "destination_country_name": "Ukraine",
+      "count": 4666
+    },
+    {
+      "origin_city_name": "Krakow",
+      "destination_city_name": "Kyiv",
+      "origin_country_name": "Poland",
+      "destination_country_name": "Ukraine",
+      "count": 4139
+    },
+    {
+      "origin_city_name": "Warsaw",
+      "destination_city_name": "Khmelnytskyi",
+      "origin_country_name": "Poland",
+      "destination_country_name": "Ukraine",
+      "count": 3343
+    },
+    {
+      "origin_city_name": "Krakow",
+      "destination_city_name": "Khmelnytskyi",
+      "origin_country_name": "Poland",
+      "destination_country_name": "Ukraine",
+      "count": 3115
+    },
+    {
+      "origin_city_name": "Legnica",
+      "destination_city_name": "Kryvyi Rih",
+      "origin_country_name": "Poland",
+      "destination_country_name": "Ukraine",
+      "count": 2192
+    },
+    {
+      "origin_city_name": "Krakow",
+      "destination_city_name": "Ternopil",
+      "origin_country_name": "Poland",
+      "destination_country_name": "Ukraine",
+      "count": 1789
+    },
+    {
+      "origin_city_name": "Warsaw",
+      "destination_city_name": "Dnipro",
+      "origin_country_name": "Poland",
+      "destination_country_name": "Ukraine",
+      "count": 1715
+    },
+    {
+      "origin_city_name": "Warsaw",
+      "destination_city_name": "Ternopil",
+      "origin_country_name": "Poland",
+      "destination_country_name": "Ukraine",
+      "count": 1581
+    },
+    {
+      "origin_city_name": "Krakow",
+      "destination_city_name": "Dnipro",
+      "origin_country_name": "Poland",
+      "destination_country_name": "Ukraine",
+      "count": 1537
+    },
+    {
+      "origin_city_name": "Krakow",
+      "destination_city_name": "Kharkiv",
+      "origin_country_name": "Poland",
+      "destination_country_name": "Ukraine",
+      "count": 1516
+    },
+    {
+      "origin_city_name": "Warsaw",
+      "destination_city_name": "Kharkiv",
+      "origin_country_name": "Poland",
+      "destination_country_name": "Ukraine",
+      "count": 1453
+    },
+    {
+      "origin_city_name": "Katowice",
+      "destination_city_name": "Khmelnytskyi",
+      "origin_country_name": "Poland",
+      "destination_country_name": "Ukraine",
+      "count": 1448
+    },
+    {
+      "origin_city_name": "Wroclaw",
+      "destination_city_name": "Lviv",
+      "origin_country_name": "Poland",
+      "destination_country_name": "Ukraine",
+      "count": 1407
+    },
+    {
+      "origin_city_name": "Katowice",
+      "destination_city_name": "Lviv",
+      "origin_country_name": "Poland",
+      "destination_country_name": "Ukraine",
+      "count": 1380
+    },
+    {
+      "origin_city_name": "Krakow",
+      "destination_city_name": "Vinnytsia",
+      "origin_country_name": "Poland",
+      "destination_country_name": "Ukraine",
+      "count": 1372
+    },
+    {
+      "origin_city_name": "Przemyśl",
+      "destination_city_name": "Lviv",
+      "origin_country_name": "Poland",
+      "destination_country_name": "Ukraine",
+      "count": 1339
+    },
+    {
+      "origin_city_name": "Bielsko-Biala",
+      "destination_city_name": "Lviv",
+      "origin_country_name": "Poland",
+      "destination_country_name": "Ukraine",
+      "count": 1240
+    },
+    {
+      "origin_city_name": "Warsaw",
+      "destination_city_name": "Vinnytsia",
+      "origin_country_name": "Poland",
+      "destination_country_name": "Ukraine",
+      "count": 1224
+    },
+    {
+      "origin_city_name": "Warsaw",
+      "destination_city_name": "Kryvyi Rih",
+      "origin_country_name": "Poland",
+      "destination_country_name": "Ukraine",
+      "count": 1189
+    },
+    {
+      "origin_city_name": "Wroclaw",
+      "destination_city_name": "Khmelnytskyi",
+      "origin_country_name": "Poland",
+      "destination_country_name": "Ukraine",
+      "count": 1125
+    },
+    {
+      "origin_city_name": "Wroclaw",
+      "destination_city_name": "Odesa",
+      "origin_country_name": "Poland",
+      "destination_country_name": "Ukraine",
+      "count": 1065
+    },
+    {
+      "origin_city_name": "Katowice",
+      "destination_city_name": "Kyiv",
+      "origin_country_name": "Poland",
+      "destination_country_name": "Ukraine",
+      "count": 1032
+    },
+    {
+      "origin_city_name": "Krakow",
+      "destination_city_name": "Kryvyi Rih",
+      "origin_country_name": "Poland",
+      "destination_country_name": "Ukraine",
+      "count": 926
+    },
+    {
+      "origin_city_name": "Krakow",
+      "destination_city_name": "Odesa",
+      "origin_country_name": "Poland",
+      "destination_country_name": "Ukraine",
+      "count": 918
+    },
+    {
+      "origin_city_name": "Bielsko-Biala",
+      "destination_city_name": "Kamianets-Podilskyi",
+      "origin_country_name": "Poland",
+      "destination_country_name": "Ukraine",
+      "count": 888
+    },
+    {
+      "origin_city_name": "Zgorzelec",
+      "destination_city_name": "Kyiv",
+      "origin_country_name": "Poland",
+      "destination_country_name": "Ukraine",
+      "count": 812
+    },
+    {
+      "origin_city_name": "Częstochowa",
+      "destination_city_name": "Lviv",
+      "origin_country_name": "Poland",
+      "destination_country_name": "Ukraine",
+      "count": 807
+    },
+    {
+      "origin_city_name": "Bielsko-Biala",
+      "destination_city_name": "Khmelnytskyi",
+      "origin_country_name": "Poland",
+      "destination_country_name": "Ukraine",
+      "count": 795
+    }
+  ]
+}

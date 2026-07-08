@@ -1,0 +1,173 @@
+{
+  "metadata": {
+    "report_key": "domestic-no-price-spain",
+    "report_type": "domestic_no_price",
+    "generated_at": "2026-07-08T09:11:33.734Z",
+    "period": {
+      "date_from": "2026-01-01",
+      "date_to": "2027-01-01"
+    },
+    "filters": {
+      "country_name": "Spain",
+      "has_price": false,
+      "limit": 30
+    }
+  },
+  "summary": {
+    "rows": 30,
+    "searches_total": 2769,
+    "searches_without_price": 2769
+  },
+  "data": [
+    {
+      "origin_city_name": "Barcelona",
+      "destination_city_name": "Madrid",
+      "count": 99
+    },
+    {
+      "origin_city_name": "Valencia",
+      "destination_city_name": "Barcelona",
+      "count": 95
+    },
+    {
+      "origin_city_name": "Barcelona",
+      "destination_city_name": "Valencia",
+      "count": 91
+    },
+    {
+      "origin_city_name": "Alicante",
+      "destination_city_name": "Torrevieja",
+      "count": 78
+    },
+    {
+      "origin_city_name": "Donostia-San Sebastian",
+      "destination_city_name": "Barcelona",
+      "count": 68
+    },
+    {
+      "origin_city_name": "Barcelona",
+      "destination_city_name": "Alicante",
+      "count": 67
+    },
+    {
+      "origin_city_name": "Alicante",
+      "destination_city_name": "Valencia",
+      "count": 62
+    },
+    {
+      "origin_city_name": "Málaga",
+      "destination_city_name": "Valencia",
+      "count": 61
+    },
+    {
+      "origin_city_name": "Barcelona",
+      "destination_city_name": "Torrevieja",
+      "count": 56
+    },
+    {
+      "origin_city_name": "Torrevieja",
+      "destination_city_name": "Torrevieja",
+      "count": 51
+    },
+    {
+      "origin_city_name": "Valencia",
+      "destination_city_name": "Madrid",
+      "count": 47
+    },
+    {
+      "origin_city_name": "Barcelona",
+      "destination_city_name": "Barcelona",
+      "count": 45
+    },
+    {
+      "origin_city_name": "Madrid",
+      "destination_city_name": "Barcelona",
+      "count": 44
+    },
+    {
+      "origin_city_name": "Málaga",
+      "destination_city_name": "Madrid",
+      "count": 44
+    },
+    {
+      "origin_city_name": "Madrid",
+      "destination_city_name": "Madrid",
+      "count": 42
+    },
+    {
+      "origin_city_name": "Torrevieja",
+      "destination_city_name": "Barcelona",
+      "count": 42
+    },
+    {
+      "origin_city_name": "Girona",
+      "destination_city_name": "Girona",
+      "count": 39
+    },
+    {
+      "origin_city_name": "Valencia",
+      "destination_city_name": "Alicante",
+      "count": 37
+    },
+    {
+      "origin_city_name": "Valencia",
+      "destination_city_name": "Donostia-San Sebastian",
+      "count": 36
+    },
+    {
+      "origin_city_name": "Alicante",
+      "destination_city_name": "A Coruña",
+      "count": 35
+    },
+    {
+      "origin_city_name": "Oviedo",
+      "destination_city_name": "Torrevieja",
+      "count": 34
+    },
+    {
+      "origin_city_name": "Alicante",
+      "destination_city_name": "Barcelona",
+      "count": 33
+    },
+    {
+      "origin_city_name": "Torrevieja",
+      "destination_city_name": "Málaga",
+      "count": 33
+    },
+    {
+      "origin_city_name": "Valencia",
+      "destination_city_name": "Seville",
+      "count": 32
+    },
+    {
+      "origin_city_name": "Valencia",
+      "destination_city_name": "Valencia",
+      "count": 31
+    },
+    {
+      "origin_city_name": "Manresa",
+      "destination_city_name": "Torrevieja",
+      "count": 30
+    },
+    {
+      "origin_city_name": "Valencia",
+      "destination_city_name": "Murcia",
+      "count": 30
+    },
+    {
+      "origin_city_name": "Madrid",
+      "destination_city_name": "Málaga",
+      "count": 29
+    },
+    {
+      "origin_city_name": "Benidorm",
+      "destination_city_name": "Benidorm",
+      "count": 28
+    },
+    {
+      "origin_city_name": "Figueres",
+      "destination_city_name": "Valencia",
+      "count": 28
+    }
+  ]
+}
