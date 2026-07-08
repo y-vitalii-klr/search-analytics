@@ -1,0 +1,374 @@
+{
+  "metadata": {
+    "report_key": "country-pair-no-price-germany-to-czechia",
+    "report_type": "country_pair_no_price",
+    "generated_at": "2026-07-08T09:27:17.020Z",
+    "period": {
+      "date_from": "2026-01-01",
+      "date_to": "2027-01-01"
+    },
+    "filters": {
+      "origin_country_name": "Germany",
+      "destination_country_name": "Czechia",
+      "has_price": false,
+      "limit": 50
+    }
+  },
+  "summary": {
+    "rows": 50,
+    "searches_total": 13610,
+    "searches_without_price": 11282
+  },
+  "data": [
+    {
+      "origin_city_name": "Munich",
+      "destination_city_name": "Prague",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Czechia",
+      "count": 1040
+    },
+    {
+      "origin_city_name": "Stuttgart",
+      "destination_city_name": "Prague",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Czechia",
+      "count": 832
+    },
+    {
+      "origin_city_name": "Nuremberg",
+      "destination_city_name": "Prague",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Czechia",
+      "count": 831
+    },
+    {
+      "origin_city_name": "Frankfurt am Main",
+      "destination_city_name": "Prague",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Czechia",
+      "count": 605
+    },
+    {
+      "origin_city_name": "Dresden",
+      "destination_city_name": "Prague",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Czechia",
+      "count": 385
+    },
+    {
+      "origin_city_name": "Berlin",
+      "destination_city_name": "Prague",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Czechia",
+      "count": 331
+    },
+    {
+      "origin_city_name": "Ulm",
+      "destination_city_name": "Prague",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Czechia",
+      "count": 323
+    },
+    {
+      "origin_city_name": "Leipzig",
+      "destination_city_name": "Prague",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Czechia",
+      "count": 260
+    },
+    {
+      "origin_city_name": "Cologne",
+      "destination_city_name": "Prague",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Czechia",
+      "count": 249
+    },
+    {
+      "origin_city_name": "Chemnitz",
+      "destination_city_name": "Prague",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Czechia",
+      "count": 245
+    },
+    {
+      "origin_city_name": "Hanover",
+      "destination_city_name": "Prague",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Czechia",
+      "count": 202
+    },
+    {
+      "origin_city_name": "Mannheim",
+      "destination_city_name": "Prague",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Czechia",
+      "count": 195
+    },
+    {
+      "origin_city_name": "Dortmund",
+      "destination_city_name": "Prague",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Czechia",
+      "count": 184
+    },
+    {
+      "origin_city_name": "Augsburg",
+      "destination_city_name": "Prague",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Czechia",
+      "count": 172
+    },
+    {
+      "origin_city_name": "Karlsruhe",
+      "destination_city_name": "Prague",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Czechia",
+      "count": 172
+    },
+    {
+      "origin_city_name": "Zwickau",
+      "destination_city_name": "Prague",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Czechia",
+      "count": 162
+    },
+    {
+      "origin_city_name": "Erfurt",
+      "destination_city_name": "Prague",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Czechia",
+      "count": 151
+    },
+    {
+      "origin_city_name": "Hamburg",
+      "destination_city_name": "Prague",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Czechia",
+      "count": 148
+    },
+    {
+      "origin_city_name": "Saarbrücken",
+      "destination_city_name": "Prague",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Czechia",
+      "count": 139
+    },
+    {
+      "origin_city_name": "Düsseldorf",
+      "destination_city_name": "Prague",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Czechia",
+      "count": 138
+    },
+    {
+      "origin_city_name": "Bielefeld",
+      "destination_city_name": "Prague",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Czechia",
+      "count": 134
+    },
+    {
+      "origin_city_name": "Bremen",
+      "destination_city_name": "Prague",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Czechia",
+      "count": 134
+    },
+    {
+      "origin_city_name": "Frankfurt am Main",
+      "destination_city_name": "Brno",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Czechia",
+      "count": 122
+    },
+    {
+      "origin_city_name": "Gera",
+      "destination_city_name": "Prague",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Czechia",
+      "count": 115
+    },
+    {
+      "origin_city_name": "Cologne",
+      "destination_city_name": "Brno",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Czechia",
+      "count": 108
+    },
+    {
+      "origin_city_name": "Magdeburg",
+      "destination_city_name": "Prague",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Czechia",
+      "count": 108
+    },
+    {
+      "origin_city_name": "Ingolstadt",
+      "destination_city_name": "Prague",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Czechia",
+      "count": 101
+    },
+    {
+      "origin_city_name": "Bonn",
+      "destination_city_name": "Prague",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Czechia",
+      "count": 92
+    },
+    {
+      "origin_city_name": "Hof",
+      "destination_city_name": "Prague",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Czechia",
+      "count": 89
+    },
+    {
+      "origin_city_name": "Fulda",
+      "destination_city_name": "Prague",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Czechia",
+      "count": 86
+    },
+    {
+      "origin_city_name": "Kaiserslautern",
+      "destination_city_name": "Prague",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Czechia",
+      "count": 76
+    },
+    {
+      "origin_city_name": "Regensburg",
+      "destination_city_name": "Prague",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Czechia",
+      "count": 76
+    },
+    {
+      "origin_city_name": "Essen",
+      "destination_city_name": "Prague",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Czechia",
+      "count": 73
+    },
+    {
+      "origin_city_name": "Oldenburg",
+      "destination_city_name": "Prague",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Czechia",
+      "count": 73
+    },
+    {
+      "origin_city_name": "Frankfurt (Oder)",
+      "destination_city_name": "Prague",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Czechia",
+      "count": 69
+    },
+    {
+      "origin_city_name": "Leipzig",
+      "destination_city_name": "Novy Jicin",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Czechia",
+      "count": 60
+    },
+    {
+      "origin_city_name": "Jena",
+      "destination_city_name": "Prague",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Czechia",
+      "count": 58
+    },
+    {
+      "origin_city_name": "Berlin",
+      "destination_city_name": "Hradec Kralove",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Czechia",
+      "count": 57
+    },
+    {
+      "origin_city_name": "Stuttgart",
+      "destination_city_name": "Pilsen",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Czechia",
+      "count": 53
+    },
+    {
+      "origin_city_name": "Stuttgart",
+      "destination_city_name": "Brno",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Czechia",
+      "count": 52
+    },
+    {
+      "origin_city_name": "Bayreuth",
+      "destination_city_name": "Prague",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Czechia",
+      "count": 50
+    },
+    {
+      "origin_city_name": "Munich",
+      "destination_city_name": "Brno",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Czechia",
+      "count": 49
+    },
+    {
+      "origin_city_name": "Heilbronn",
+      "destination_city_name": "Prague",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Czechia",
+      "count": 44
+    },
+    {
+      "origin_city_name": "Nuremberg",
+      "destination_city_name": "Pilsen",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Czechia",
+      "count": 44
+    },
+    {
+      "origin_city_name": "Heidelberg",
+      "destination_city_name": "Prague",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Czechia",
+      "count": 43
+    },
+    {
+      "origin_city_name": "Ludwigsburg",
+      "destination_city_name": "Prague",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Czechia",
+      "count": 43
+    },
+    {
+      "origin_city_name": "Nuremberg",
+      "destination_city_name": "Karlovy Vary",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Czechia",
+      "count": 43
+    },
+    {
+      "origin_city_name": "Bad Hersfeld",
+      "destination_city_name": "Prague",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Czechia",
+      "count": 41
+    },
+    {
+      "origin_city_name": "Berlin",
+      "destination_city_name": "Ostrava",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Czechia",
+      "count": 39
+    },
+    {
+      "origin_city_name": "Passau",
+      "destination_city_name": "Prague",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Czechia",
+      "count": 38
+    }
+  ]
+}

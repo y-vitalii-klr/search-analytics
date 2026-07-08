@@ -1,0 +1,234 @@
+{
+  "metadata": {
+    "report_key": "country-pair-missing-price-routes-any-to-italy",
+    "report_type": "country_pair_missing_price_routes",
+    "generated_at": "2026-07-08T09:28:24.458Z",
+    "period": {
+      "date_from": "2026-06-01",
+      "date_to": "2026-07-01"
+    },
+    "filters": {
+      "origin_country_name": "Any",
+      "destination_country_name": "Italy",
+      "no_price_route_only": true,
+      "limit": 30
+    }
+  },
+  "summary": {
+    "rows": 30,
+    "searches_total": 2595,
+    "searches_without_price": 2595
+  },
+  "data": [
+    {
+      "origin_city_name": "Kremenchuk",
+      "destination_city_name": "Rome",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Italy",
+      "count": 205
+    },
+    {
+      "origin_city_name": "Kremenchuk",
+      "destination_city_name": "Milan",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Italy",
+      "count": 157
+    },
+    {
+      "origin_city_name": "Rivne",
+      "destination_city_name": "Milan",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Italy",
+      "count": 151
+    },
+    {
+      "origin_city_name": "Kyiv",
+      "destination_city_name": "Savona",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Italy",
+      "count": 128
+    },
+    {
+      "origin_city_name": "Stuttgart",
+      "destination_city_name": "Rome",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Italy",
+      "count": 102
+    },
+    {
+      "origin_city_name": "Munich",
+      "destination_city_name": "Rome",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Italy",
+      "count": 100
+    },
+    {
+      "origin_city_name": "Nuremberg",
+      "destination_city_name": "Rome",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Italy",
+      "count": 91
+    },
+    {
+      "origin_city_name": "Dortmund",
+      "destination_city_name": "Rimini",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Italy",
+      "count": 90
+    },
+    {
+      "origin_city_name": "Karlsruhe",
+      "destination_city_name": "Milan",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Italy",
+      "count": 85
+    },
+    {
+      "origin_city_name": "Kyiv",
+      "destination_city_name": "Como",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Italy",
+      "count": 85
+    },
+    {
+      "origin_city_name": "Hanover",
+      "destination_city_name": "Venice",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Italy",
+      "count": 84
+    },
+    {
+      "origin_city_name": "Munich",
+      "destination_city_name": "Venice",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Italy",
+      "count": 83
+    },
+    {
+      "origin_city_name": "Berlin",
+      "destination_city_name": "Rome",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Italy",
+      "count": 81
+    },
+    {
+      "origin_city_name": "Odesa",
+      "destination_city_name": "Bolzano",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Italy",
+      "count": 80
+    },
+    {
+      "origin_city_name": "Prague",
+      "destination_city_name": "Rome",
+      "origin_country_name": "Czechia",
+      "destination_country_name": "Italy",
+      "count": 80
+    },
+    {
+      "origin_city_name": "Nuremberg",
+      "destination_city_name": "Milan",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Italy",
+      "count": 75
+    },
+    {
+      "origin_city_name": "Frankfurt am Main",
+      "destination_city_name": "Rome",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Italy",
+      "count": 74
+    },
+    {
+      "origin_city_name": "Kremenchuk",
+      "destination_city_name": "Bologna",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Italy",
+      "count": 72
+    },
+    {
+      "origin_city_name": "Cherkasy",
+      "destination_city_name": "Milan",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Italy",
+      "count": 70
+    },
+    {
+      "origin_city_name": "Krakow",
+      "destination_city_name": "Rome",
+      "origin_country_name": "Poland",
+      "destination_country_name": "Italy",
+      "count": 70
+    },
+    {
+      "origin_city_name": "Mykolaiv",
+      "destination_city_name": "Rome",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Italy",
+      "count": 67
+    },
+    {
+      "origin_city_name": "Prague",
+      "destination_city_name": "Milan",
+      "origin_country_name": "Czechia",
+      "destination_country_name": "Italy",
+      "count": 67
+    },
+    {
+      "origin_city_name": "Cherkasy",
+      "destination_city_name": "Florence",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Italy",
+      "count": 64
+    },
+    {
+      "origin_city_name": "Erfurt",
+      "destination_city_name": "Milan",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Italy",
+      "count": 64
+    },
+    {
+      "origin_city_name": "Bratislava",
+      "destination_city_name": "Rome",
+      "origin_country_name": "Slovakia",
+      "destination_country_name": "Italy",
+      "count": 63
+    },
+    {
+      "origin_city_name": "Cherkasy",
+      "destination_city_name": "Naples",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Italy",
+      "count": 62
+    },
+    {
+      "origin_city_name": "Kryvyi Rih",
+      "destination_city_name": "Como",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Italy",
+      "count": 62
+    },
+    {
+      "origin_city_name": "Uman",
+      "destination_city_name": "Como",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Italy",
+      "count": 62
+    },
+    {
+      "origin_city_name": "Stuttgart",
+      "destination_city_name": "Venice",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Italy",
+      "count": 61
+    },
+    {
+      "origin_city_name": "Lviv",
+      "destination_city_name": "Bolzano",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Italy",
+      "count": 60
+    }
+  ]
+}

@@ -1,0 +1,273 @@
+{
+  "metadata": {
+    "report_key": "domestic-missing-price-routes-italy",
+    "report_type": "domestic_missing_price_routes",
+    "generated_at": "2026-07-08T09:27:17.020Z",
+    "period": {
+      "date_from": "2026-01-01",
+      "date_to": "2027-01-01"
+    },
+    "filters": {
+      "country_name": "Italy",
+      "no_price_route_only": true,
+      "limit": 50
+    }
+  },
+  "summary": {
+    "rows": 50,
+    "searches_total": 920,
+    "searches_without_price": 920
+  },
+  "data": [
+    {
+      "origin_city_name": "Milan",
+      "destination_city_name": "Rome",
+      "count": 74
+    },
+    {
+      "origin_city_name": "Rome",
+      "destination_city_name": "Pescara",
+      "count": 55
+    },
+    {
+      "origin_city_name": "Rome",
+      "destination_city_name": "Venice",
+      "count": 50
+    },
+    {
+      "origin_city_name": "Pescara",
+      "destination_city_name": "Rome",
+      "count": 42
+    },
+    {
+      "origin_city_name": "Livorno",
+      "destination_city_name": "Livorno",
+      "count": 36
+    },
+    {
+      "origin_city_name": "Venice",
+      "destination_city_name": "Rome",
+      "count": 33
+    },
+    {
+      "origin_city_name": "Bologna",
+      "destination_city_name": "Ancona",
+      "count": 31
+    },
+    {
+      "origin_city_name": "Rome",
+      "destination_city_name": "Rimini",
+      "count": 28
+    },
+    {
+      "origin_city_name": "Florence",
+      "destination_city_name": "Trieste",
+      "count": 26
+    },
+    {
+      "origin_city_name": "Reggio Emilia",
+      "destination_city_name": "Reggio Emilia",
+      "count": 24
+    },
+    {
+      "origin_city_name": "Bergamo",
+      "destination_city_name": "Bergamo",
+      "count": 22
+    },
+    {
+      "origin_city_name": "Genoa",
+      "destination_city_name": "Venice",
+      "count": 21
+    },
+    {
+      "origin_city_name": "Genoa",
+      "destination_city_name": "Reggio Emilia",
+      "count": 20
+    },
+    {
+      "origin_city_name": "Rimini",
+      "destination_city_name": "Florence",
+      "count": 20
+    },
+    {
+      "origin_city_name": "Rome",
+      "destination_city_name": "Rome",
+      "count": 20
+    },
+    {
+      "origin_city_name": "Bologna",
+      "destination_city_name": "Milan",
+      "count": 19
+    },
+    {
+      "origin_city_name": "Bologna",
+      "destination_city_name": "Rome",
+      "count": 18
+    },
+    {
+      "origin_city_name": "Rome",
+      "destination_city_name": "Milan",
+      "count": 18
+    },
+    {
+      "origin_city_name": "Turin",
+      "destination_city_name": "Milan",
+      "count": 17
+    },
+    {
+      "origin_city_name": "Venice",
+      "destination_city_name": "Naples",
+      "count": 17
+    },
+    {
+      "origin_city_name": "Rimini",
+      "destination_city_name": "Venice",
+      "count": 16
+    },
+    {
+      "origin_city_name": "Milan",
+      "destination_city_name": "Genoa",
+      "count": 14
+    },
+    {
+      "origin_city_name": "Milan",
+      "destination_city_name": "Venice",
+      "count": 14
+    },
+    {
+      "origin_city_name": "San Benedetto del Tronto",
+      "destination_city_name": "Naples",
+      "count": 14
+    },
+    {
+      "origin_city_name": "Trieste",
+      "destination_city_name": "Rimini",
+      "count": 14
+    },
+    {
+      "origin_city_name": "Florence",
+      "destination_city_name": "Rome",
+      "count": 13
+    },
+    {
+      "origin_city_name": "Milan",
+      "destination_city_name": "Naples",
+      "count": 13
+    },
+    {
+      "origin_city_name": "Rome",
+      "destination_city_name": "Florence",
+      "count": 13
+    },
+    {
+      "origin_city_name": "Salerno",
+      "destination_city_name": "Amalfi",
+      "count": 13
+    },
+    {
+      "origin_city_name": "Bari",
+      "destination_city_name": "Rome",
+      "count": 12
+    },
+    {
+      "origin_city_name": "Bergamo",
+      "destination_city_name": "Milan",
+      "count": 12
+    },
+    {
+      "origin_city_name": "Salerno",
+      "destination_city_name": "Rome",
+      "count": 12
+    },
+    {
+      "origin_city_name": "Venice",
+      "destination_city_name": "Milan",
+      "count": 12
+    },
+    {
+      "origin_city_name": "Bergamo",
+      "destination_city_name": "Imola",
+      "count": 11
+    },
+    {
+      "origin_city_name": "Bologna",
+      "destination_city_name": "Rimini",
+      "count": 11
+    },
+    {
+      "origin_city_name": "Bergamo",
+      "destination_city_name": "Naples",
+      "count": 10
+    },
+    {
+      "origin_city_name": "Ferrara",
+      "destination_city_name": "Bologna",
+      "count": 10
+    },
+    {
+      "origin_city_name": "Forlì",
+      "destination_city_name": "Venice",
+      "count": 10
+    },
+    {
+      "origin_city_name": "Milan",
+      "destination_city_name": "Sanremo",
+      "count": 10
+    },
+    {
+      "origin_city_name": "Padua",
+      "destination_city_name": "Padua",
+      "count": 10
+    },
+    {
+      "origin_city_name": "Portogruaro",
+      "destination_city_name": "Venice",
+      "count": 10
+    },
+    {
+      "origin_city_name": "Rome",
+      "destination_city_name": "Naples",
+      "count": 10
+    },
+    {
+      "origin_city_name": "Naples",
+      "destination_city_name": "Rome",
+      "count": 9
+    },
+    {
+      "origin_city_name": "Verona",
+      "destination_city_name": "Como",
+      "count": 9
+    },
+    {
+      "origin_city_name": "Caserta",
+      "destination_city_name": "Rome",
+      "count": 8
+    },
+    {
+      "origin_city_name": "Naples",
+      "destination_city_name": "Milan",
+      "count": 8
+    },
+    {
+      "origin_city_name": "Naples",
+      "destination_city_name": "Naples",
+      "count": 8
+    },
+    {
+      "origin_city_name": "Rome",
+      "destination_city_name": "Bari",
+      "count": 8
+    },
+    {
+      "origin_city_name": "Sorrento",
+      "destination_city_name": "Amalfi",
+      "count": 8
+    },
+    {
+      "origin_city_name": "Milan",
+      "destination_city_name": "Milan",
+      "count": 7
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "metadata": {
+    "report_key": "domestic-top-queries-ukraine",
+    "report_type": "domestic_top_queries",
+    "generated_at": "2026-07-08T09:28:24.458Z",
+    "period": {
+      "date_from": "2026-06-01",
+      "date_to": "2026-07-01"
+    },
+    "filters": {
+      "country_name": "Ukraine",
+      "limit": 30
+    }
+  },
+  "summary": {
+    "rows": 30,
+    "searches_total": 374285,
+    "searches_without_price": 148866
+  },
+  "data": [
+    {
+      "origin_city_name": "Kharkiv",
+      "destination_city_name": "Lviv",
+      "count": 9674
+    },
+    {
+      "origin_city_name": "Kharkiv",
+      "destination_city_name": "Kyiv",
+      "count": 9309
+    },
+    {
+      "origin_city_name": "Lviv",
+      "destination_city_name": "Kharkiv",
+      "count": 7861
+    },
+    {
+      "origin_city_name": "Kyiv",
+      "destination_city_name": "Kharkiv",
+      "count": 6390
+    },
+    {
+      "origin_city_name": "Dnipro",
+      "destination_city_name": "Lviv",
+      "count": 5106
+    },
+    {
+      "origin_city_name": "Khmelnytskyi",
+      "destination_city_name": "Chernivtsi",
+      "count": 4629
+    },
+    {
+      "origin_city_name": "Kyiv",
+      "destination_city_name": "Lviv",
+      "count": 4431
+    },
+    {
+      "origin_city_name": "Kyiv",
+      "destination_city_name": "Odesa",
+      "count": 4426
+    },
+    {
+      "origin_city_name": "Khmelnytskyi",
+      "destination_city_name": "Lviv",
+      "count": 4414
+    },
+    {
+      "origin_city_name": "Kharkiv",
+      "destination_city_name": "Odesa",
+      "count": 4303
+    },
+    {
+      "origin_city_name": "Dnipro",
+      "destination_city_name": "Khmelnytskyi",
+      "count": 4170
+    },
+    {
+      "origin_city_name": "Kryvyi Rih",
+      "destination_city_name": "Lviv",
+      "count": 4094
+    },
+    {
+      "origin_city_name": "Lviv",
+      "destination_city_name": "Kyiv",
+      "count": 4086
+    },
+    {
+      "origin_city_name": "Lviv",
+      "destination_city_name": "Dnipro",
+      "count": 3828
+    },
+    {
+      "origin_city_name": "Chernivtsi",
+      "destination_city_name": "Khmelnytskyi",
+      "count": 3530
+    },
+    {
+      "origin_city_name": "Dnipro",
+      "destination_city_name": "Odesa",
+      "count": 3418
+    },
+    {
+      "origin_city_name": "Lviv",
+      "destination_city_name": "Kryvyi Rih",
+      "count": 3405
+    },
+    {
+      "origin_city_name": "Khmelnytskyi",
+      "destination_city_name": "Dnipro",
+      "count": 3271
+    },
+    {
+      "origin_city_name": "Poltava",
+      "destination_city_name": "Kyiv",
+      "count": 3115
+    },
+    {
+      "origin_city_name": "Kharkiv",
+      "destination_city_name": "Khmelnytskyi",
+      "count": 2836
+    },
+    {
+      "origin_city_name": "Khmelnytskyi",
+      "destination_city_name": "Odesa",
+      "count": 2782
+    },
+    {
+      "origin_city_name": "Khmelnytskyi",
+      "destination_city_name": "Kharkiv",
+      "count": 2591
+    },
+    {
+      "origin_city_name": "Lviv",
+      "destination_city_name": "Khmelnytskyi",
+      "count": 2500
+    },
+    {
+      "origin_city_name": "Lviv",
+      "destination_city_name": "Odesa",
+      "count": 2362
+    },
+    {
+      "origin_city_name": "Kryvyi Rih",
+      "destination_city_name": "Odesa",
+      "count": 2310
+    },
+    {
+      "origin_city_name": "Dnipro",
+      "destination_city_name": "Kyiv",
+      "count": 2250
+    },
+    {
+      "origin_city_name": "Kyiv",
+      "destination_city_name": "Poltava",
+      "count": 2106
+    },
+    {
+      "origin_city_name": "Kharkiv",
+      "destination_city_name": "Vinnytsia",
+      "count": 2053
+    },
+    {
+      "origin_city_name": "Dnipro",
+      "destination_city_name": "Vinnytsia",
+      "count": 2024
+    },
+    {
+      "origin_city_name": "Kryvyi Rih",
+      "destination_city_name": "Dnipro",
+      "count": 2011
+    }
+  ]
+}

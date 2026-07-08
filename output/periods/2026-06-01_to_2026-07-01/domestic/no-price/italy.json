@@ -1,0 +1,173 @@
+{
+  "metadata": {
+    "report_key": "domestic-no-price-italy",
+    "report_type": "domestic_no_price",
+    "generated_at": "2026-07-08T09:28:24.458Z",
+    "period": {
+      "date_from": "2026-06-01",
+      "date_to": "2026-07-01"
+    },
+    "filters": {
+      "country_name": "Italy",
+      "has_price": false,
+      "limit": 30
+    }
+  },
+  "summary": {
+    "rows": 30,
+    "searches_total": 392,
+    "searches_without_price": 392
+  },
+  "data": [
+    {
+      "origin_city_name": "Rome",
+      "destination_city_name": "Pescara",
+      "count": 45
+    },
+    {
+      "origin_city_name": "Pescara",
+      "destination_city_name": "Rome",
+      "count": 36
+    },
+    {
+      "origin_city_name": "Reggio Emilia",
+      "destination_city_name": "Reggio Emilia",
+      "count": 24
+    },
+    {
+      "origin_city_name": "Milan",
+      "destination_city_name": "Rome",
+      "count": 20
+    },
+    {
+      "origin_city_name": "Rimini",
+      "destination_city_name": "Florence",
+      "count": 20
+    },
+    {
+      "origin_city_name": "Bologna",
+      "destination_city_name": "Ancona",
+      "count": 18
+    },
+    {
+      "origin_city_name": "Rimini",
+      "destination_city_name": "Venice",
+      "count": 14
+    },
+    {
+      "origin_city_name": "Milan",
+      "destination_city_name": "Venice",
+      "count": 13
+    },
+    {
+      "origin_city_name": "Bari",
+      "destination_city_name": "Rome",
+      "count": 12
+    },
+    {
+      "origin_city_name": "Genoa",
+      "destination_city_name": "Reggio Emilia",
+      "count": 12
+    },
+    {
+      "origin_city_name": "Rome",
+      "destination_city_name": "Venice",
+      "count": 10
+    },
+    {
+      "origin_city_name": "Rome",
+      "destination_city_name": "Rome",
+      "count": 9
+    },
+    {
+      "origin_city_name": "Bologna",
+      "destination_city_name": "Rimini",
+      "count": 8
+    },
+    {
+      "origin_city_name": "Naples",
+      "destination_city_name": "Milan",
+      "count": 8
+    },
+    {
+      "origin_city_name": "Naples",
+      "destination_city_name": "Rome",
+      "count": 7
+    },
+    {
+      "origin_city_name": "Genoa",
+      "destination_city_name": "Venice",
+      "count": 6
+    },
+    {
+      "origin_city_name": "Milan",
+      "destination_city_name": "Genoa",
+      "count": 6
+    },
+    {
+      "origin_city_name": "Naples",
+      "destination_city_name": "Venice",
+      "count": 6
+    },
+    {
+      "origin_city_name": "Trento",
+      "destination_city_name": "Brescia",
+      "count": 6
+    },
+    {
+      "origin_city_name": "Rome",
+      "destination_city_name": "Genoa",
+      "count": 5
+    },
+    {
+      "origin_city_name": "Ancona",
+      "destination_city_name": "Ancona",
+      "count": 4
+    },
+    {
+      "origin_city_name": "Ancona",
+      "destination_city_name": "Bologna",
+      "count": 4
+    },
+    {
+      "origin_city_name": "Bologna",
+      "destination_city_name": "Florence",
+      "count": 4
+    },
+    {
+      "origin_city_name": "Bologna",
+      "destination_city_name": "Foggia",
+      "count": 4
+    },
+    {
+      "origin_city_name": "Naples",
+      "destination_city_name": "Salerno",
+      "count": 4
+    },
+    {
+      "origin_city_name": "Rimini",
+      "destination_city_name": "Milan",
+      "count": 4
+    },
+    {
+      "origin_city_name": "Rome",
+      "destination_city_name": "Milan",
+      "count": 4
+    },
+    {
+      "origin_city_name": "Salerno",
+      "destination_city_name": "Rome",
+      "count": 4
+    },
+    {
+      "origin_city_name": "Terni",
+      "destination_city_name": "Milan",
+      "count": 4
+    },
+    {
+      "origin_city_name": "Trieste",
+      "destination_city_name": "Milan",
+      "count": 4
+    }
+  ]
+}

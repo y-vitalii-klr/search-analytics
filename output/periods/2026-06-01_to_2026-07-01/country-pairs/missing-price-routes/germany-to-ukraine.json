@@ -1,0 +1,234 @@
+{
+  "metadata": {
+    "report_key": "country-pair-missing-price-routes-germany-to-ukraine",
+    "report_type": "country_pair_missing_price_routes",
+    "generated_at": "2026-07-08T09:28:24.458Z",
+    "period": {
+      "date_from": "2026-06-01",
+      "date_to": "2026-07-01"
+    },
+    "filters": {
+      "origin_country_name": "Germany",
+      "destination_country_name": "Ukraine",
+      "no_price_route_only": true,
+      "limit": 30
+    }
+  },
+  "summary": {
+    "rows": 30,
+    "searches_total": 3037,
+    "searches_without_price": 3037
+  },
+  "data": [
+    {
+      "origin_city_name": "Wismar",
+      "destination_city_name": "Kyiv",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Ukraine",
+      "count": 236
+    },
+    {
+      "origin_city_name": "Mainz",
+      "destination_city_name": "Kyiv",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Ukraine",
+      "count": 155
+    },
+    {
+      "origin_city_name": "Rostock",
+      "destination_city_name": "Kyiv",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Ukraine",
+      "count": 127
+    },
+    {
+      "origin_city_name": "Giessen",
+      "destination_city_name": "Kharkiv",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Ukraine",
+      "count": 126
+    },
+    {
+      "origin_city_name": "Giessen",
+      "destination_city_name": "Lviv",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Ukraine",
+      "count": 120
+    },
+    {
+      "origin_city_name": "Stuttgart",
+      "destination_city_name": "Mariupol",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Ukraine",
+      "count": 119
+    },
+    {
+      "origin_city_name": "Hamburg",
+      "destination_city_name": "Sumy",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Ukraine",
+      "count": 118
+    },
+    {
+      "origin_city_name": "Stuttgart",
+      "destination_city_name": "Uzhhorod",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Ukraine",
+      "count": 117
+    },
+    {
+      "origin_city_name": "Hamburg",
+      "destination_city_name": "Chernihiv",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Ukraine",
+      "count": 115
+    },
+    {
+      "origin_city_name": "Schwerin",
+      "destination_city_name": "Cherkasy",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Ukraine",
+      "count": 115
+    },
+    {
+      "origin_city_name": "Leipzig",
+      "destination_city_name": "Sumy",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Ukraine",
+      "count": 110
+    },
+    {
+      "origin_city_name": "Schwerin",
+      "destination_city_name": "Odesa",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Ukraine",
+      "count": 108
+    },
+    {
+      "origin_city_name": "Munich",
+      "destination_city_name": "Uzhhorod",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Ukraine",
+      "count": 97
+    },
+    {
+      "origin_city_name": "Giessen",
+      "destination_city_name": "Kyiv",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Ukraine",
+      "count": 94
+    },
+    {
+      "origin_city_name": "Halle",
+      "destination_city_name": "Odesa",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Ukraine",
+      "count": 94
+    },
+    {
+      "origin_city_name": "Schwerin",
+      "destination_city_name": "Vinnytsia",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Ukraine",
+      "count": 91
+    },
+    {
+      "origin_city_name": "Frankfurt (Oder)",
+      "destination_city_name": "Rakhiv",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Ukraine",
+      "count": 90
+    },
+    {
+      "origin_city_name": "Dresden",
+      "destination_city_name": "Uzhhorod",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Ukraine",
+      "count": 86
+    },
+    {
+      "origin_city_name": "Lübeck",
+      "destination_city_name": "Kharkiv",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Ukraine",
+      "count": 85
+    },
+    {
+      "origin_city_name": "Marburg an der Lahn",
+      "destination_city_name": "Dnipro",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Ukraine",
+      "count": 82
+    },
+    {
+      "origin_city_name": "Schwerin",
+      "destination_city_name": "Dnipro",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Ukraine",
+      "count": 81
+    },
+    {
+      "origin_city_name": "Münster",
+      "destination_city_name": "Kharkiv",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Ukraine",
+      "count": 77
+    },
+    {
+      "origin_city_name": "Duisburg",
+      "destination_city_name": "Dnipro",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Ukraine",
+      "count": 76
+    },
+    {
+      "origin_city_name": "Duisburg",
+      "destination_city_name": "Kharkiv",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Ukraine",
+      "count": 76
+    },
+    {
+      "origin_city_name": "Saarbrücken",
+      "destination_city_name": "Reni",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Ukraine",
+      "count": 76
+    },
+    {
+      "origin_city_name": "Schwerin",
+      "destination_city_name": "Khmelnytskyi",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Ukraine",
+      "count": 75
+    },
+    {
+      "origin_city_name": "Osnabrück",
+      "destination_city_name": "Kyiv",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Ukraine",
+      "count": 73
+    },
+    {
+      "origin_city_name": "Rostock",
+      "destination_city_name": "Kropyvnytskyi",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Ukraine",
+      "count": 73
+    },
+    {
+      "origin_city_name": "Wiesbaden",
+      "destination_city_name": "Odesa",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Ukraine",
+      "count": 73
+    },
+    {
+      "origin_city_name": "Chemnitz",
+      "destination_city_name": "Sumy",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Ukraine",
+      "count": 72
+    }
+  ]
+}

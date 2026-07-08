@@ -1,6 +1,6 @@
 import { useMemo, useState } from 'react';
 
-import { Layout, Menu, Space, Tag, Typography } from 'antd';
+import { Layout, Menu, Select, Space, Tag, Typography } from 'antd';
 
 import { OverviewPage } from './pages/overview-page';
 import { MissingPriceRoutesPage } from './pages/missing-price-routes-page';
@@ -12,23 +12,35 @@ import type { PageKey } from './types';
 const { Header, Content } = Layout;
 
 export default function App() {
+  const default_period_slug = reports_store.get_default_period_slug();
   const [active_page, set_active_page] = useState<PageKey>('overview');
-  const period = reports_store.manifest.metadata.period;
+  const [selected_period_slug, set_selected_period_slug] = useState<string>(
+    default_period_slug ?? '',
+  );
+  const period_manifest = reports_store.get_manifest(selected_period_slug);
+  const period = period_manifest?.metadata.period ?? {
+    date_from: null,
+    date_to: null,
+  };
+  const period_options = reports_store.get_periods().map((period_entry) => ({
+    label: period_entry.label,
+    value: period_entry.period_slug,
+  }));
   const page = useMemo(() => {
     if (active_page === 'no_price') {
-      return <NoPricePage />;
+      return <NoPricePage period_slug={selected_period_slug} />;
     }
 
     if (active_page === 'missing_price_routes') {
-      return <MissingPriceRoutesPage />;
+      return <MissingPriceRoutesPage period_slug={selected_period_slug} />;
     }
 
     if (active_page === 'top_queries') {
-      return <TopQueriesPage />;
+      return <TopQueriesPage period_slug={selected_period_slug} />;
     }
 
-    return <OverviewPage />;
-  }, [active_page]);
+    return <OverviewPage period_slug={selected_period_slug} />;
+  }, [active_page, selected_period_slug]);
 
   return (
     <Layout style={{ minHeight: '100vh', background: '#f5f7fb' }}>
@@ -57,12 +69,22 @@ export default function App() {
                 Візуалізація аналітики
               </Typography.Title>
               <Typography.Text type="secondary">
-                Країни: {reports_store.manifest.countries.join(', ')}
+                Країни:{' '}
+                {period_manifest?.countries.join(', ') ?? 'Немає даних'}
               </Typography.Text>
             </div>
-            <Tag color="blue">
-              Період: {period.date_from ?? '...'} - {period.date_to ?? '...'}
-            </Tag>
+            <Space wrap>
+              <Select
+                style={{ minWidth: 240 }}
+                value={selected_period_slug}
+                options={period_options}
+                onChange={set_selected_period_slug}
+                placeholder="Оберіть період"
+              />
+              <Tag color="blue">
+                Період: {period.date_from ?? '...'} - {period.date_to ?? '...'}
+              </Tag>
+            </Space>
           </Space>
           <Menu
             mode="horizontal"

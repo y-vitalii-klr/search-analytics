@@ -1,0 +1,173 @@
+{
+  "metadata": {
+    "report_key": "domestic-missing-price-routes-germany",
+    "report_type": "domestic_missing_price_routes",
+    "generated_at": "2026-07-08T09:28:24.458Z",
+    "period": {
+      "date_from": "2026-06-01",
+      "date_to": "2026-07-01"
+    },
+    "filters": {
+      "country_name": "Germany",
+      "no_price_route_only": true,
+      "limit": 30
+    }
+  },
+  "summary": {
+    "rows": 30,
+    "searches_total": 2301,
+    "searches_without_price": 2301
+  },
+  "data": [
+    {
+      "origin_city_name": "Berlin",
+      "destination_city_name": "Düsseldorf",
+      "count": 237
+    },
+    {
+      "origin_city_name": "Hamburg",
+      "destination_city_name": "Berlin",
+      "count": 141
+    },
+    {
+      "origin_city_name": "Düsseldorf",
+      "destination_city_name": "Berlin",
+      "count": 106
+    },
+    {
+      "origin_city_name": "Nuremberg",
+      "destination_city_name": "Berlin",
+      "count": 105
+    },
+    {
+      "origin_city_name": "Karlsruhe",
+      "destination_city_name": "Munich",
+      "count": 104
+    },
+    {
+      "origin_city_name": "Hanover",
+      "destination_city_name": "Berlin",
+      "count": 97
+    },
+    {
+      "origin_city_name": "Berlin",
+      "destination_city_name": "Berlin",
+      "count": 94
+    },
+    {
+      "origin_city_name": "Berlin",
+      "destination_city_name": "Cologne",
+      "count": 93
+    },
+    {
+      "origin_city_name": "Berlin",
+      "destination_city_name": "Hamburg",
+      "count": 93
+    },
+    {
+      "origin_city_name": "Berlin",
+      "destination_city_name": "Bonn",
+      "count": 80
+    },
+    {
+      "origin_city_name": "Cologne",
+      "destination_city_name": "Berlin",
+      "count": 79
+    },
+    {
+      "origin_city_name": "Leipzig",
+      "destination_city_name": "Berlin",
+      "count": 67
+    },
+    {
+      "origin_city_name": "Munich",
+      "destination_city_name": "Berlin",
+      "count": 67
+    },
+    {
+      "origin_city_name": "Bonn",
+      "destination_city_name": "Berlin",
+      "count": 64
+    },
+    {
+      "origin_city_name": "Berlin",
+      "destination_city_name": "Bremen",
+      "count": 63
+    },
+    {
+      "origin_city_name": "Bielefeld",
+      "destination_city_name": "Berlin",
+      "count": 62
+    },
+    {
+      "origin_city_name": "Frankfurt am Main",
+      "destination_city_name": "Berlin",
+      "count": 62
+    },
+    {
+      "origin_city_name": "Mannheim",
+      "destination_city_name": "Nuremberg",
+      "count": 62
+    },
+    {
+      "origin_city_name": "Dortmund",
+      "destination_city_name": "Dortmund",
+      "count": 61
+    },
+    {
+      "origin_city_name": "Oldenburg",
+      "destination_city_name": "Berlin",
+      "count": 59
+    },
+    {
+      "origin_city_name": "Frankfurt am Main",
+      "destination_city_name": "Cologne",
+      "count": 55
+    },
+    {
+      "origin_city_name": "Hamburg",
+      "destination_city_name": "Cologne",
+      "count": 54
+    },
+    {
+      "origin_city_name": "Stuttgart",
+      "destination_city_name": "Berlin",
+      "count": 54
+    },
+    {
+      "origin_city_name": "Oldenburg",
+      "destination_city_name": "Oldenburg",
+      "count": 51
+    },
+    {
+      "origin_city_name": "Bremen",
+      "destination_city_name": "Berlin",
+      "count": 50
+    },
+    {
+      "origin_city_name": "Chemnitz",
+      "destination_city_name": "Cologne",
+      "count": 49
+    },
+    {
+      "origin_city_name": "Stuttgart",
+      "destination_city_name": "Frankfurt am Main",
+      "count": 49
+    },
+    {
+      "origin_city_name": "Berlin",
+      "destination_city_name": "Rostock",
+      "count": 48
+    },
+    {
+      "origin_city_name": "Cologne",
+      "destination_city_name": "Leipzig",
+      "count": 48
+    },
+    {
+      "origin_city_name": "Berlin",
+      "destination_city_name": "Munich",
+      "count": 47
+    }
+  ]
+}

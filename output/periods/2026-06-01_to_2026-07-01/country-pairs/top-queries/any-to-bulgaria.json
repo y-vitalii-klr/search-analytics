@@ -1,0 +1,233 @@
+{
+  "metadata": {
+    "report_key": "country-pair-top-queries-any-to-bulgaria",
+    "report_type": "country_pair_top_queries",
+    "generated_at": "2026-07-08T09:28:24.458Z",
+    "period": {
+      "date_from": "2026-06-01",
+      "date_to": "2026-07-01"
+    },
+    "filters": {
+      "origin_country_name": "Any",
+      "destination_country_name": "Bulgaria",
+      "limit": 30
+    }
+  },
+  "summary": {
+    "rows": 30,
+    "searches_total": 34584,
+    "searches_without_price": 12996
+  },
+  "data": [
+    {
+      "origin_city_name": "Kyiv",
+      "destination_city_name": "Sunny Beach",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Bulgaria",
+      "count": 1822
+    },
+    {
+      "origin_city_name": "Odesa",
+      "destination_city_name": "Varna",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Bulgaria",
+      "count": 1039
+    },
+    {
+      "origin_city_name": "Kyiv",
+      "destination_city_name": "Varna",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Bulgaria",
+      "count": 938
+    },
+    {
+      "origin_city_name": "Dnipro",
+      "destination_city_name": "Sunny Beach",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Bulgaria",
+      "count": 934
+    },
+    {
+      "origin_city_name": "Dnipro",
+      "destination_city_name": "Varna",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Bulgaria",
+      "count": 909
+    },
+    {
+      "origin_city_name": "Kyiv",
+      "destination_city_name": "Sofia",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Bulgaria",
+      "count": 865
+    },
+    {
+      "origin_city_name": "Kyiv",
+      "destination_city_name": "Burgas",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Bulgaria",
+      "count": 831
+    },
+    {
+      "origin_city_name": "Khmelnytskyi",
+      "destination_city_name": "Sunny Beach",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Bulgaria",
+      "count": 822
+    },
+    {
+      "origin_city_name": "Kyiv",
+      "destination_city_name": "Sveti Vlas",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Bulgaria",
+      "count": 822
+    },
+    {
+      "origin_city_name": "Kharkiv",
+      "destination_city_name": "Sunny Beach",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Bulgaria",
+      "count": 795
+    },
+    {
+      "origin_city_name": "Khmelnytskyi",
+      "destination_city_name": "Varna",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Bulgaria",
+      "count": 671
+    },
+    {
+      "origin_city_name": "Kharkiv",
+      "destination_city_name": "Varna",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Bulgaria",
+      "count": 654
+    },
+    {
+      "origin_city_name": "Vinnytsia",
+      "destination_city_name": "Sunny Beach",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Bulgaria",
+      "count": 637
+    },
+    {
+      "origin_city_name": "Kyiv",
+      "destination_city_name": "Nessebar",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Bulgaria",
+      "count": 614
+    },
+    {
+      "origin_city_name": "Odesa",
+      "destination_city_name": "Sunny Beach",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Bulgaria",
+      "count": 540
+    },
+    {
+      "origin_city_name": "Mykolaiv",
+      "destination_city_name": "Sunny Beach",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Bulgaria",
+      "count": 494
+    },
+    {
+      "origin_city_name": "Odesa",
+      "destination_city_name": "Sofia",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Bulgaria",
+      "count": 478
+    },
+    {
+      "origin_city_name": "Lviv",
+      "destination_city_name": "Sunny Beach",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Bulgaria",
+      "count": 468
+    },
+    {
+      "origin_city_name": "Kryvyi Rih",
+      "destination_city_name": "Sunny Beach",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Bulgaria",
+      "count": 457
+    },
+    {
+      "origin_city_name": "Lviv",
+      "destination_city_name": "Burgas",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Bulgaria",
+      "count": 389
+    },
+    {
+      "origin_city_name": "Kyiv",
+      "destination_city_name": "Golden Sands",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Bulgaria",
+      "count": 388
+    },
+    {
+      "origin_city_name": "Khmelnytskyi",
+      "destination_city_name": "Sveti Vlas",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Bulgaria",
+      "count": 365
+    },
+    {
+      "origin_city_name": "Dnipro",
+      "destination_city_name": "Sveti Vlas",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Bulgaria",
+      "count": 351
+    },
+    {
+      "origin_city_name": "Khmelnytskyi",
+      "destination_city_name": "Burgas",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Bulgaria",
+      "count": 318
+    },
+    {
+      "origin_city_name": "Lviv",
+      "destination_city_name": "Varna",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Bulgaria",
+      "count": 316
+    },
+    {
+      "origin_city_name": "Dnipro",
+      "destination_city_name": "Burgas",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Bulgaria",
+      "count": 309
+    },
+    {
+      "origin_city_name": "Uman",
+      "destination_city_name": "Varna",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Bulgaria",
+      "count": 281
+    },
+    {
+      "origin_city_name": "Kharkiv",
+      "destination_city_name": "Sveti Vlas",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Bulgaria",
+      "count": 270
+    },
+    {
+      "origin_city_name": "Chernivtsi",
+      "destination_city_name": "Sunny Beach",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Bulgaria",
+      "count": 267
+    },
+    {
+      "origin_city_name": "Zaporizhzhya",
+      "destination_city_name": "Varna",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Bulgaria",
+      "count": 267
+    }
+  ]
+}

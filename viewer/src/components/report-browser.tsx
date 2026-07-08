@@ -22,6 +22,7 @@ import { reports_store } from '../store/reports-store';
 import type { ManifestEntry, ReportMode, RouteRow } from '../types';
 
 interface ReportBrowserProps {
+  period_slug: string;
   title: string;
   description: string;
   domestic_report_type: string;
@@ -49,6 +50,7 @@ function get_route_label(row: RouteRow): string {
 }
 
 export function ReportBrowser({
+  period_slug,
   title,
   description,
   domestic_report_type,
@@ -58,12 +60,18 @@ export function ReportBrowser({
   const [report_mode, set_report_mode] = useState<ReportMode>('international');
   const [search_value, set_search_value] = useState('');
   const international_reports = useMemo(
-    () => sort_entries(reports_store.get_reports_by_type(international_report_type)),
-    [international_report_type],
+    () =>
+      sort_entries(
+        reports_store.get_reports_by_type(period_slug, international_report_type),
+      ),
+    [international_report_type, period_slug],
   );
   const domestic_reports = useMemo(
-    () => sort_entries(reports_store.get_reports_by_type(domestic_report_type)),
-    [domestic_report_type],
+    () =>
+      sort_entries(
+        reports_store.get_reports_by_type(period_slug, domestic_report_type),
+      ),
+    [domestic_report_type, period_slug],
   );
   const available_reports = report_mode === 'international'
     ? international_reports
@@ -104,7 +112,7 @@ export function ReportBrowser({
   }, [filtered_reports, selected_report_key]);
 
   const selected_report = selected_report_key
-    ? reports_store.get_route_report(selected_report_key)
+    ? reports_store.get_route_report(period_slug, selected_report_key)
     : null;
   const selected_entry = filtered_reports.find(
     (entry) => entry.report_key === selected_report_key,

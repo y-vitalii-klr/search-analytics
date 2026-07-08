@@ -13,14 +13,18 @@ import type { CountryCoverageRow } from '../types';
 
 const COUNTRY_DISTRIBUTION_LIMIT = 10;
 
-export function OverviewPage() {
-  const global_report = reports_store.get_global_stats();
-  const country_coverage_report = reports_store.get_country_coverage();
-  const top_countries_report = reports_store.get_top_countries();
+interface OverviewPageProps {
+  period_slug: string;
+}
+
+export function OverviewPage({ period_slug }: OverviewPageProps) {
+  const global_report = reports_store.get_global_stats(period_slug);
+  const country_coverage_report = reports_store.get_country_coverage(period_slug);
+  const top_countries_report = reports_store.get_top_countries(period_slug);
   const origin_country_distribution_report =
-    reports_store.get_origin_country_distribution();
+    reports_store.get_origin_country_distribution(period_slug);
   const destination_country_distribution_report =
-    reports_store.get_destination_country_distribution();
+    reports_store.get_destination_country_distribution(period_slug);
   const global_row = global_report?.data[0];
   const total_searches = global_row?.total_searches ?? 0;
   const without_price_searches = global_row?.searches_without_price ?? 0;

@@ -1,8 +1,13 @@
 import { ReportBrowser } from '../components/report-browser';
 
-export function NoPricePage() {
+interface NoPricePageProps {
+  period_slug: string;
+}
+
+export function NoPricePage({ period_slug }: NoPricePageProps) {
   return (
     <ReportBrowser
+      period_slug={period_slug}
       title="Топ без цін"
       description="Цей розділ показує пошуки, які завершилися без ціни. Це не обов'язково означає, що маршруту не існує: причина може бути в тому, що на конкретну дату не було доступної ціни або дані про ціну не повернулися."
       domestic_report_type="domestic_no_price"

@@ -1,0 +1,227 @@
+{
+  "metadata": {
+    "report_key": "country-pair-missing-price-routes-spain-to-poland",
+    "report_type": "country_pair_missing_price_routes",
+    "generated_at": "2026-07-08T09:28:24.458Z",
+    "period": {
+      "date_from": "2026-06-01",
+      "date_to": "2026-07-01"
+    },
+    "filters": {
+      "origin_country_name": "Spain",
+      "destination_country_name": "Poland",
+      "no_price_route_only": true,
+      "limit": 30
+    }
+  },
+  "summary": {
+    "rows": 29,
+    "searches_total": 141,
+    "searches_without_price": 141
+  },
+  "data": [
+    {
+      "origin_city_name": "Alicante",
+      "destination_city_name": "Poznan",
+      "origin_country_name": "Spain",
+      "destination_country_name": "Poland",
+      "count": 25
+    },
+    {
+      "origin_city_name": "Valencia",
+      "destination_city_name": "Poznan",
+      "origin_country_name": "Spain",
+      "destination_country_name": "Poland",
+      "count": 20
+    },
+    {
+      "origin_city_name": "Málaga",
+      "destination_city_name": "Szczecin",
+      "origin_country_name": "Spain",
+      "destination_country_name": "Poland",
+      "count": 12
+    },
+    {
+      "origin_city_name": "Girona",
+      "destination_city_name": "Rzeszów",
+      "origin_country_name": "Spain",
+      "destination_country_name": "Poland",
+      "count": 10
+    },
+    {
+      "origin_city_name": "Seville",
+      "destination_city_name": "Krakow",
+      "origin_country_name": "Spain",
+      "destination_country_name": "Poland",
+      "count": 10
+    },
+    {
+      "origin_city_name": "Cartagena",
+      "destination_city_name": "Katowice",
+      "origin_country_name": "Spain",
+      "destination_country_name": "Poland",
+      "count": 7
+    },
+    {
+      "origin_city_name": "Torrevieja",
+      "destination_city_name": "Katowice",
+      "origin_country_name": "Spain",
+      "destination_country_name": "Poland",
+      "count": 7
+    },
+    {
+      "origin_city_name": "Valencia",
+      "destination_city_name": "Polkowice",
+      "origin_country_name": "Spain",
+      "destination_country_name": "Poland",
+      "count": 6
+    },
+    {
+      "origin_city_name": "Málaga",
+      "destination_city_name": "Rzeszów",
+      "origin_country_name": "Spain",
+      "destination_country_name": "Poland",
+      "count": 5
+    },
+    {
+      "origin_city_name": "Barcelona",
+      "destination_city_name": "Przemyśl",
+      "origin_country_name": "Spain",
+      "destination_country_name": "Poland",
+      "count": 4
+    },
+    {
+      "origin_city_name": "Cartagena",
+      "destination_city_name": "Warsaw",
+      "origin_country_name": "Spain",
+      "destination_country_name": "Poland",
+      "count": 4
+    },
+    {
+      "origin_city_name": "Valencia",
+      "destination_city_name": "Gdańsk",
+      "origin_country_name": "Spain",
+      "destination_country_name": "Poland",
+      "count": 4
+    },
+    {
+      "origin_city_name": "Logroño",
+      "destination_city_name": "Legnica",
+      "origin_country_name": "Spain",
+      "destination_country_name": "Poland",
+      "count": 3
+    },
+    {
+      "origin_city_name": "Oviedo",
+      "destination_city_name": "Katowice",
+      "origin_country_name": "Spain",
+      "destination_country_name": "Poland",
+      "count": 3
+    },
+    {
+      "origin_city_name": "Alicante",
+      "destination_city_name": "Krakow",
+      "origin_country_name": "Spain",
+      "destination_country_name": "Poland",
+      "count": 2
+    },
+    {
+      "origin_city_name": "Cáceres",
+      "destination_city_name": "Przemyśl",
+      "origin_country_name": "Spain",
+      "destination_country_name": "Poland",
+      "count": 2
+    },
+    {
+      "origin_city_name": "Girona",
+      "destination_city_name": "Przemyśl",
+      "origin_country_name": "Spain",
+      "destination_country_name": "Poland",
+      "count": 2
+    },
+    {
+      "origin_city_name": "Madrid",
+      "destination_city_name": "Katowice",
+      "origin_country_name": "Spain",
+      "destination_country_name": "Poland",
+      "count": 2
+    },
+    {
+      "origin_city_name": "Madrid",
+      "destination_city_name": "Poznan",
+      "origin_country_name": "Spain",
+      "destination_country_name": "Poland",
+      "count": 2
+    },
+    {
+      "origin_city_name": "Murcia",
+      "destination_city_name": "Wroclaw",
+      "origin_country_name": "Spain",
+      "destination_country_name": "Poland",
+      "count": 2
+    },
+    {
+      "origin_city_name": "Alicante",
+      "destination_city_name": "Zgorzelec",
+      "origin_country_name": "Spain",
+      "destination_country_name": "Poland",
+      "count": 1
+    },
+    {
+      "origin_city_name": "Barcelona",
+      "destination_city_name": "Gdańsk",
+      "origin_country_name": "Spain",
+      "destination_country_name": "Poland",
+      "count": 1
+    },
+    {
+      "origin_city_name": "Benidorm",
+      "destination_city_name": "Przemyśl",
+      "origin_country_name": "Spain",
+      "destination_country_name": "Poland",
+      "count": 1
+    },
+    {
+      "origin_city_name": "Madrid",
+      "destination_city_name": "Lubin",
+      "origin_country_name": "Spain",
+      "destination_country_name": "Poland",
+      "count": 1
+    },
+    {
+      "origin_city_name": "Manresa",
+      "destination_city_name": "Krakow",
+      "origin_country_name": "Spain",
+      "destination_country_name": "Poland",
+      "count": 1
+    },
+    {
+      "origin_city_name": "Murcia",
+      "destination_city_name": "Szczecin",
+      "origin_country_name": "Spain",
+      "destination_country_name": "Poland",
+      "count": 1
+    },
+    {
+      "origin_city_name": "Málaga",
+      "destination_city_name": "Gliwice",
+      "origin_country_name": "Spain",
+      "destination_country_name": "Poland",
+      "count": 1
+    },
+    {
+      "origin_city_name": "Salamanca",
+      "destination_city_name": "Warsaw",
+      "origin_country_name": "Spain",
+      "destination_country_name": "Poland",
+      "count": 1
+    },
+    {
+      "origin_city_name": "Torrevieja",
+      "destination_city_name": "Warsaw",
+      "origin_country_name": "Spain",
+      "destination_country_name": "Poland",
+      "count": 1
+    }
+  ]
+}

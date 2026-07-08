@@ -51,6 +51,7 @@ export interface ManifestEntry {
 }
 
 export interface ManifestFile {
+  period_slug?: string;
   metadata: {
     generated_at: string;
     period: {
@@ -62,6 +63,22 @@ export interface ManifestFile {
   };
   countries: string[];
   reports: ManifestEntry[];
+}
+
+export interface PeriodCatalogEntry {
+  period_slug: string;
+  label: string;
+  date_from: string | null;
+  date_to: string | null;
+  generated_at: string;
+  top_countries_limit: number;
+  top_rows_limit: number;
+  manifest_path: string;
+}
+
+export interface PeriodCatalogFile {
+  periods: PeriodCatalogEntry[];
+  default_period_slug: string | null;
 }
 
 export interface CountryCoverageRow {

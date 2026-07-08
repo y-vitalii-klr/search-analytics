@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "report_key": "domestic-missing-price-routes-moldova",
+    "report_type": "domestic_missing_price_routes",
+    "generated_at": "2026-07-08T09:28:24.458Z",
+    "period": {
+      "date_from": "2026-06-01",
+      "date_to": "2026-07-01"
+    },
+    "filters": {
+      "country_name": "Moldova",
+      "no_price_route_only": true,
+      "limit": 30
+    }
+  },
+  "summary": {
+    "rows": 3,
+    "searches_total": 8,
+    "searches_without_price": 8
+  },
+  "data": [
+    {
+      "origin_city_name": "Bălţi",
+      "destination_city_name": "Chisinau",
+      "count": 4
+    },
+    {
+      "origin_city_name": "Chisinau",
+      "destination_city_name": "Chisinau",
+      "count": 3
+    },
+    {
+      "origin_city_name": "Chisinau",
+      "destination_city_name": "Donduşeni",
+      "count": 1
+    }
+  ]
+}

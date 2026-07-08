@@ -1,0 +1,294 @@
+{
+  "metadata": {
+    "report_key": "destination-country-distribution",
+    "report_type": "destination_country_distribution",
+    "generated_at": "2026-07-08T09:27:17.020Z",
+    "period": {
+      "date_from": "2026-01-01",
+      "date_to": "2027-01-01"
+    },
+    "filters": {
+      "direction": "destination"
+    }
+  },
+  "summary": {
+    "rows": 39,
+    "searches_total": 13977608,
+    "searches_without_price": 1190497
+  },
+  "data": [
+    {
+      "country_name": "Ukraine",
+      "total_searches": 6470835,
+      "searches_without_price": 429750,
+      "with_price_share": 6470834.933587,
+      "without_price_share": 0.066413
+    },
+    {
+      "country_name": "Germany",
+      "total_searches": 3489777,
+      "searches_without_price": 214005,
+      "with_price_share": 3489776.938677,
+      "without_price_share": 0.061323
+    },
+    {
+      "country_name": "Poland",
+      "total_searches": 1400995,
+      "searches_without_price": 155726,
+      "with_price_share": 1400994.888846,
+      "without_price_share": 0.111154
+    },
+    {
+      "country_name": "Czechia",
+      "total_searches": 718364,
+      "searches_without_price": 42626,
+      "with_price_share": 718363.940662,
+      "without_price_share": 0.059338
+    },
+    {
+      "country_name": "Spain",
+      "total_searches": 408747,
+      "searches_without_price": 36249,
+      "with_price_share": 408746.911317,
+      "without_price_share": 0.088683
+    },
+    {
+      "country_name": "Italy",
+      "total_searches": 222259,
+      "searches_without_price": 37655,
+      "with_price_share": 222258.830581,
+      "without_price_share": 0.169419
+    },
+    {
+      "country_name": "Moldova",
+      "total_searches": 194765,
+      "searches_without_price": 17732,
+      "with_price_share": 194764.908957,
+      "without_price_share": 0.091043
+    },
+    {
+      "country_name": "Slovakia",
+      "total_searches": 112440,
+      "searches_without_price": 20573,
+      "with_price_share": 112439.817031,
+      "without_price_share": 0.182969
+    },
+    {
+      "country_name": "Bulgaria",
+      "total_searches": 109944,
+      "searches_without_price": 18960,
+      "with_price_share": 109943.827549,
+      "without_price_share": 0.172451
+    },
+    {
+      "country_name": "Austria",
+      "total_searches": 106102,
+      "searches_without_price": 12691,
+      "with_price_share": 106101.880389,
+      "without_price_share": 0.119611
+    },
+    {
+      "country_name": "France",
+      "total_searches": 95244,
+      "searches_without_price": 26020,
+      "with_price_share": 95243.726807,
+      "without_price_share": 0.273193
+    },
+    {
+      "country_name": "Romania",
+      "total_searches": 87675,
+      "searches_without_price": 18980,
+      "with_price_share": 87674.783519,
+      "without_price_share": 0.216481
+    },
+    {
+      "country_name": "The Netherlands",
+      "total_searches": 70772,
+      "searches_without_price": 17339,
+      "with_price_share": 70771.755002,
+      "without_price_share": 0.244998
+    },
+    {
+      "country_name": "Switzerland",
+      "total_searches": 69429,
+      "searches_without_price": 10584,
+      "with_price_share": 69428.847556,
+      "without_price_share": 0.152444
+    },
+    {
+      "country_name": "Hungary",
+      "total_searches": 61848,
+      "searches_without_price": 7255,
+      "with_price_share": 61847.882696,
+      "without_price_share": 0.117304
+    },
+    {
+      "country_name": "Türkiye",
+      "total_searches": 53614,
+      "searches_without_price": 9003,
+      "with_price_share": 53613.832077,
+      "without_price_share": 0.167923
+    },
+    {
+      "country_name": "Belgium",
+      "total_searches": 39993,
+      "searches_without_price": 6571,
+      "with_price_share": 39992.835696,
+      "without_price_share": 0.164304
+    },
+    {
+      "country_name": "Portugal",
+      "total_searches": 36689,
+      "searches_without_price": 5799,
+      "with_price_share": 36688.841942,
+      "without_price_share": 0.158058
+    },
+    {
+      "country_name": "Lithuania",
+      "total_searches": 32018,
+      "searches_without_price": 21415,
+      "with_price_share": 32017.331157,
+      "without_price_share": 0.668843
+    },
+    {
+      "country_name": "Croatia",
+      "total_searches": 30526,
+      "searches_without_price": 14238,
+      "with_price_share": 30525.533578,
+      "without_price_share": 0.466422
+    },
+    {
+      "country_name": "Greece",
+      "total_searches": 28562,
+      "searches_without_price": 5537,
+      "with_price_share": 28561.806141,
+      "without_price_share": 0.193859
+    },
+    {
+      "country_name": "Georgia",
+      "total_searches": 25062,
+      "searches_without_price": 5409,
+      "with_price_share": 25061.784175,
+      "without_price_share": 0.215825
+    },
+    {
+      "country_name": "Estonia",
+      "total_searches": 17287,
+      "searches_without_price": 2646,
+      "with_price_share": 17286.846937,
+      "without_price_share": 0.153063
+    },
+    {
+      "country_name": "Latvia",
+      "total_searches": 16904,
+      "searches_without_price": 2776,
+      "with_price_share": 16903.835779,
+      "without_price_share": 0.164221
+    },
+    {
+      "country_name": "Montenegro",
+      "total_searches": 16874,
+      "searches_without_price": 9627,
+      "with_price_share": 16873.429477,
+      "without_price_share": 0.570523
+    },
+    {
+      "country_name": "Denmark",
+      "total_searches": 15592,
+      "searches_without_price": 15592,
+      "with_price_share": 15591,
+      "without_price_share": 1
+    },
+    {
+      "country_name": "Luxembourg",
+      "total_searches": 8929,
+      "searches_without_price": 1097,
+      "with_price_share": 8928.877142,
+      "without_price_share": 0.122858
+    },
+    {
+      "country_name": "Finland",
+      "total_searches": 7998,
+      "searches_without_price": 7998,
+      "with_price_share": 7997,
+      "without_price_share": 1
+    },
+    {
+      "country_name": "Slovenia",
+      "total_searches": 7983,
+      "searches_without_price": 1191,
+      "with_price_share": 7982.850808,
+      "without_price_share": 0.149192
+    },
+    {
+      "country_name": "Albania",
+      "total_searches": 6187,
+      "searches_without_price": 2651,
+      "with_price_share": 6186.571521,
+      "without_price_share": 0.428479
+    },
+    {
+      "country_name": "Sweden",
+      "total_searches": 4975,
+      "searches_without_price": 4975,
+      "with_price_share": 4974,
+      "without_price_share": 1
+    },
+    {
+      "country_name": "United Kingdom",
+      "total_searches": 3470,
+      "searches_without_price": 2239,
+      "with_price_share": 3469.354755,
+      "without_price_share": 0.645245
+    },
+    {
+      "country_name": "Serbia",
+      "total_searches": 2843,
+      "searches_without_price": 2843,
+      "with_price_share": 2842,
+      "without_price_share": 1
+    },
+    {
+      "country_name": "Norway",
+      "total_searches": 1655,
+      "searches_without_price": 1655,
+      "with_price_share": 1654,
+      "without_price_share": 1
+    },
+    {
+      "country_name": "Monaco",
+      "total_searches": 667,
+      "searches_without_price": 667,
+      "with_price_share": 666,
+      "without_price_share": 1
+    },
+    {
+      "country_name": "North Macedonia",
+      "total_searches": 421,
+      "searches_without_price": 260,
+      "with_price_share": 420.382423,
+      "without_price_share": 0.617577
+    },
+    {
+      "country_name": "Andorra",
+      "total_searches": 142,
+      "searches_without_price": 142,
+      "with_price_share": 141,
+      "without_price_share": 1
+    },
+    {
+      "country_name": "Belarus",
+      "total_searches": 19,
+      "searches_without_price": 19,
+      "with_price_share": 18,
+      "without_price_share": 1
+    },
+    {
+      "country_name": "Russia",
+      "total_searches": 2,
+      "searches_without_price": 2,
+      "with_price_share": 1,
+      "without_price_share": 1
+    }
+  ]
+}

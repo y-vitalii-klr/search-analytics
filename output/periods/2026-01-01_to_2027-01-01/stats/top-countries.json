@@ -1,0 +1,91 @@
+{
+  "metadata": {
+    "report_key": "top-countries",
+    "report_type": "top_countries",
+    "generated_at": "2026-07-08T09:27:17.020Z",
+    "period": {
+      "date_from": "2026-01-01",
+      "date_to": "2027-01-01"
+    },
+    "filters": {
+      "top_countries_limit": 10
+    }
+  },
+  "summary": {
+    "rows": 10,
+    "searches_total": 25728802,
+    "searches_without_price": 1783984
+  },
+  "data": [
+    {
+      "country_name": "Ukraine",
+      "total_searches": 13578242,
+      "searches_without_price": 828774,
+      "with_price_share": 13578241.938963,
+      "without_price_share": 0.061037
+    },
+    {
+      "country_name": "Germany",
+      "total_searches": 6854415,
+      "searches_without_price": 390942,
+      "with_price_share": 6854414.942965,
+      "without_price_share": 0.057035
+    },
+    {
+      "country_name": "Poland",
+      "total_searches": 2282010,
+      "searches_without_price": 265488,
+      "with_price_share": 2282009.88366,
+      "without_price_share": 0.11634
+    },
+    {
+      "country_name": "Czechia",
+      "total_searches": 1290341,
+      "searches_without_price": 78278,
+      "with_price_share": 1290340.939335,
+      "without_price_share": 0.060665
+    },
+    {
+      "country_name": "Spain",
+      "total_searches": 628191,
+      "searches_without_price": 52671,
+      "with_price_share": 628190.916154,
+      "without_price_share": 0.083846
+    },
+    {
+      "country_name": "Italy",
+      "total_searches": 308248,
+      "searches_without_price": 47359,
+      "with_price_share": 308247.846361,
+      "without_price_share": 0.153639
+    },
+    {
+      "country_name": "Moldova",
+      "total_searches": 281671,
+      "searches_without_price": 40818,
+      "with_price_share": 281670.855086,
+      "without_price_share": 0.144914
+    },
+    {
+      "country_name": "Slovakia",
+      "total_searches": 188627,
+      "searches_without_price": 34457,
+      "with_price_share": 188626.817327,
+      "without_price_share": 0.182673
+    },
+    {
+      "country_name": "Austria",
+      "total_searches": 171955,
+      "searches_without_price": 19638,
+      "with_price_share": 171954.885796,
+      "without_price_share": 0.114204
+    },
+    {
+      "country_name": "Bulgaria",
+      "total_searches": 145102,
+      "searches_without_price": 25559,
+      "with_price_share": 145101.823855,
+      "without_price_share": 0.176145
+    }
+  ]
+}

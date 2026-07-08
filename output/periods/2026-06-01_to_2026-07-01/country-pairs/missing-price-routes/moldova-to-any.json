@@ -1,0 +1,234 @@
+{
+  "metadata": {
+    "report_key": "country-pair-missing-price-routes-moldova-to-any",
+    "report_type": "country_pair_missing_price_routes",
+    "generated_at": "2026-07-08T09:28:24.458Z",
+    "period": {
+      "date_from": "2026-06-01",
+      "date_to": "2026-07-01"
+    },
+    "filters": {
+      "origin_country_name": "Moldova",
+      "destination_country_name": "Any",
+      "no_price_route_only": true,
+      "limit": 30
+    }
+  },
+  "summary": {
+    "rows": 30,
+    "searches_total": 5555,
+    "searches_without_price": 5555
+  },
+  "data": [
+    {
+      "origin_city_name": "Chisinau",
+      "destination_city_name": "Kharkiv",
+      "origin_country_name": "Moldova",
+      "destination_country_name": "Ukraine",
+      "count": 2341
+    },
+    {
+      "origin_city_name": "Chisinau",
+      "destination_city_name": "Zaporizhzhya",
+      "origin_country_name": "Moldova",
+      "destination_country_name": "Ukraine",
+      "count": 865
+    },
+    {
+      "origin_city_name": "Chisinau",
+      "destination_city_name": "Poltava",
+      "origin_country_name": "Moldova",
+      "destination_country_name": "Ukraine",
+      "count": 465
+    },
+    {
+      "origin_city_name": "Chisinau",
+      "destination_city_name": "Lviv",
+      "origin_country_name": "Moldova",
+      "destination_country_name": "Ukraine",
+      "count": 192
+    },
+    {
+      "origin_city_name": "Chisinau",
+      "destination_city_name": "Oleksandriia",
+      "origin_country_name": "Moldova",
+      "destination_country_name": "Ukraine",
+      "count": 162
+    },
+    {
+      "origin_city_name": "Drochia",
+      "destination_city_name": "Dnipro",
+      "origin_country_name": "Moldova",
+      "destination_country_name": "Ukraine",
+      "count": 136
+    },
+    {
+      "origin_city_name": "Chisinau",
+      "destination_city_name": "Chernivtsi",
+      "origin_country_name": "Moldova",
+      "destination_country_name": "Ukraine",
+      "count": 124
+    },
+    {
+      "origin_city_name": "Chisinau",
+      "destination_city_name": "Bila Tserkva",
+      "origin_country_name": "Moldova",
+      "destination_country_name": "Ukraine",
+      "count": 108
+    },
+    {
+      "origin_city_name": "Chisinau",
+      "destination_city_name": "Prague",
+      "origin_country_name": "Moldova",
+      "destination_country_name": "Czechia",
+      "count": 102
+    },
+    {
+      "origin_city_name": "Chisinau",
+      "destination_city_name": "Stuttgart",
+      "origin_country_name": "Moldova",
+      "destination_country_name": "Germany",
+      "count": 77
+    },
+    {
+      "origin_city_name": "Chisinau",
+      "destination_city_name": "Ivano-Frankivsk",
+      "origin_country_name": "Moldova",
+      "destination_country_name": "Ukraine",
+      "count": 70
+    },
+    {
+      "origin_city_name": "Chisinau",
+      "destination_city_name": "Berlin",
+      "origin_country_name": "Moldova",
+      "destination_country_name": "Germany",
+      "count": 66
+    },
+    {
+      "origin_city_name": "Chisinau",
+      "destination_city_name": "Madrid",
+      "origin_country_name": "Moldova",
+      "destination_country_name": "Spain",
+      "count": 65
+    },
+    {
+      "origin_city_name": "Chisinau",
+      "destination_city_name": "Rivne",
+      "origin_country_name": "Moldova",
+      "destination_country_name": "Ukraine",
+      "count": 64
+    },
+    {
+      "origin_city_name": "Chisinau",
+      "destination_city_name": "Munich",
+      "origin_country_name": "Moldova",
+      "destination_country_name": "Germany",
+      "count": 59
+    },
+    {
+      "origin_city_name": "Bălţi",
+      "destination_city_name": "Dnipro",
+      "origin_country_name": "Moldova",
+      "destination_country_name": "Ukraine",
+      "count": 58
+    },
+    {
+      "origin_city_name": "Chisinau",
+      "destination_city_name": "Nova Odesa",
+      "origin_country_name": "Moldova",
+      "destination_country_name": "Ukraine",
+      "count": 53
+    },
+    {
+      "origin_city_name": "Chisinau",
+      "destination_city_name": "Warsaw",
+      "origin_country_name": "Moldova",
+      "destination_country_name": "Poland",
+      "count": 53
+    },
+    {
+      "origin_city_name": "Chisinau",
+      "destination_city_name": "Batumi",
+      "origin_country_name": "Moldova",
+      "destination_country_name": "Georgia",
+      "count": 51
+    },
+    {
+      "origin_city_name": "Chisinau",
+      "destination_city_name": "Brasov",
+      "origin_country_name": "Moldova",
+      "destination_country_name": "Romania",
+      "count": 50
+    },
+    {
+      "origin_city_name": "Chisinau",
+      "destination_city_name": "Bucharest",
+      "origin_country_name": "Moldova",
+      "destination_country_name": "Romania",
+      "count": 47
+    },
+    {
+      "origin_city_name": "Chisinau",
+      "destination_city_name": "Kherson",
+      "origin_country_name": "Moldova",
+      "destination_country_name": "Ukraine",
+      "count": 47
+    },
+    {
+      "origin_city_name": "Chisinau",
+      "destination_city_name": "Istanbul",
+      "origin_country_name": "Moldova",
+      "destination_country_name": "Türkiye",
+      "count": 46
+    },
+    {
+      "origin_city_name": "Chisinau",
+      "destination_city_name": "Kamianske",
+      "origin_country_name": "Moldova",
+      "destination_country_name": "Ukraine",
+      "count": 41
+    },
+    {
+      "origin_city_name": "Chisinau",
+      "destination_city_name": "Frankfurt am Main",
+      "origin_country_name": "Moldova",
+      "destination_country_name": "Germany",
+      "count": 40
+    },
+    {
+      "origin_city_name": "Chisinau",
+      "destination_city_name": "Karlsruhe",
+      "origin_country_name": "Moldova",
+      "destination_country_name": "Germany",
+      "count": 37
+    },
+    {
+      "origin_city_name": "Chisinau",
+      "destination_city_name": "Düsseldorf",
+      "origin_country_name": "Moldova",
+      "destination_country_name": "Germany",
+      "count": 35
+    },
+    {
+      "origin_city_name": "Chisinau",
+      "destination_city_name": "Bremen",
+      "origin_country_name": "Moldova",
+      "destination_country_name": "Germany",
+      "count": 34
+    },
+    {
+      "origin_city_name": "Chisinau",
+      "destination_city_name": "Kamianets-Podilskyi",
+      "origin_country_name": "Moldova",
+      "destination_country_name": "Ukraine",
+      "count": 34
+    },
+    {
+      "origin_city_name": "Chisinau",
+      "destination_city_name": "Helsinki",
+      "origin_country_name": "Moldova",
+      "destination_country_name": "Finland",
+      "count": 33
+    }
+  ]
+}

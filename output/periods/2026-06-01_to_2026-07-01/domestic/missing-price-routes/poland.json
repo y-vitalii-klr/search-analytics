@@ -1,0 +1,173 @@
+{
+  "metadata": {
+    "report_key": "domestic-missing-price-routes-poland",
+    "report_type": "domestic_missing_price_routes",
+    "generated_at": "2026-07-08T09:28:24.458Z",
+    "period": {
+      "date_from": "2026-06-01",
+      "date_to": "2026-07-01"
+    },
+    "filters": {
+      "country_name": "Poland",
+      "no_price_route_only": true,
+      "limit": 30
+    }
+  },
+  "summary": {
+    "rows": 30,
+    "searches_total": 3539,
+    "searches_without_price": 3539
+  },
+  "data": [
+    {
+      "origin_city_name": "Przemyśl",
+      "destination_city_name": "Krakow",
+      "count": 705
+    },
+    {
+      "origin_city_name": "Krakow",
+      "destination_city_name": "Przemyśl",
+      "count": 353
+    },
+    {
+      "origin_city_name": "Przemyśl",
+      "destination_city_name": "Warsaw",
+      "count": 353
+    },
+    {
+      "origin_city_name": "Przemyśl",
+      "destination_city_name": "Katowice",
+      "count": 213
+    },
+    {
+      "origin_city_name": "Przemyśl",
+      "destination_city_name": "Wroclaw",
+      "count": 193
+    },
+    {
+      "origin_city_name": "Katowice",
+      "destination_city_name": "Przemyśl",
+      "count": 187
+    },
+    {
+      "origin_city_name": "Warsaw",
+      "destination_city_name": "Poznan",
+      "count": 109
+    },
+    {
+      "origin_city_name": "Gdańsk",
+      "destination_city_name": "Warsaw",
+      "count": 94
+    },
+    {
+      "origin_city_name": "Wroclaw",
+      "destination_city_name": "Przemyśl",
+      "count": 92
+    },
+    {
+      "origin_city_name": "Wroclaw",
+      "destination_city_name": "Warsaw",
+      "count": 81
+    },
+    {
+      "origin_city_name": "Warsaw",
+      "destination_city_name": "Przemyśl",
+      "count": 78
+    },
+    {
+      "origin_city_name": "Zamość",
+      "destination_city_name": "Wroclaw",
+      "count": 74
+    },
+    {
+      "origin_city_name": "Warsaw",
+      "destination_city_name": "Gdańsk",
+      "count": 71
+    },
+    {
+      "origin_city_name": "Chełm",
+      "destination_city_name": "Warsaw",
+      "count": 68
+    },
+    {
+      "origin_city_name": "Katowice",
+      "destination_city_name": "Warsaw",
+      "count": 67
+    },
+    {
+      "origin_city_name": "Katowice",
+      "destination_city_name": "Katowice",
+      "count": 65
+    },
+    {
+      "origin_city_name": "Katowice",
+      "destination_city_name": "Krakow",
+      "count": 65
+    },
+    {
+      "origin_city_name": "Krakow",
+      "destination_city_name": "Medyka",
+      "count": 61
+    },
+    {
+      "origin_city_name": "Lodz",
+      "destination_city_name": "Warsaw",
+      "count": 60
+    },
+    {
+      "origin_city_name": "Rzeszów",
+      "destination_city_name": "Krakow",
+      "count": 57
+    },
+    {
+      "origin_city_name": "Przemyśl",
+      "destination_city_name": "Zielona Góra",
+      "count": 54
+    },
+    {
+      "origin_city_name": "Wroclaw",
+      "destination_city_name": "Krakow",
+      "count": 54
+    },
+    {
+      "origin_city_name": "Przemyśl",
+      "destination_city_name": "Bielsko-Biala",
+      "count": 52
+    },
+    {
+      "origin_city_name": "Warsaw",
+      "destination_city_name": "Krakow",
+      "count": 52
+    },
+    {
+      "origin_city_name": "Lublin",
+      "destination_city_name": "Warsaw",
+      "count": 51
+    },
+    {
+      "origin_city_name": "Krakow",
+      "destination_city_name": "Krakow",
+      "count": 49
+    },
+    {
+      "origin_city_name": "Krakow",
+      "destination_city_name": "Lublin",
+      "count": 49
+    },
+    {
+      "origin_city_name": "Warsaw",
+      "destination_city_name": "Warsaw",
+      "count": 47
+    },
+    {
+      "origin_city_name": "Medyka",
+      "destination_city_name": "Krakow",
+      "count": 44
+    },
+    {
+      "origin_city_name": "Warsaw",
+      "destination_city_name": "Lodz",
+      "count": 41
+    }
+  ]
+}

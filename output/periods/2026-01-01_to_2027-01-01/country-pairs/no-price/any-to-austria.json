@@ -1,0 +1,374 @@
+{
+  "metadata": {
+    "report_key": "country-pair-no-price-any-to-austria",
+    "report_type": "country_pair_no_price",
+    "generated_at": "2026-07-08T09:27:17.020Z",
+    "period": {
+      "date_from": "2026-01-01",
+      "date_to": "2027-01-01"
+    },
+    "filters": {
+      "origin_country_name": "Any",
+      "destination_country_name": "Austria",
+      "has_price": false,
+      "limit": 50
+    }
+  },
+  "summary": {
+    "rows": 50,
+    "searches_total": 105867,
+    "searches_without_price": 71460
+  },
+  "data": [
+    {
+      "origin_city_name": "Kyiv",
+      "destination_city_name": "Vienna",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Austria",
+      "count": 8066
+    },
+    {
+      "origin_city_name": "Lviv",
+      "destination_city_name": "Vienna",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Austria",
+      "count": 7704
+    },
+    {
+      "origin_city_name": "Khmelnytskyi",
+      "destination_city_name": "Vienna",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Austria",
+      "count": 5280
+    },
+    {
+      "origin_city_name": "Dnipro",
+      "destination_city_name": "Vienna",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Austria",
+      "count": 4113
+    },
+    {
+      "origin_city_name": "Kharkiv",
+      "destination_city_name": "Vienna",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Austria",
+      "count": 3989
+    },
+    {
+      "origin_city_name": "Odesa",
+      "destination_city_name": "Vienna",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Austria",
+      "count": 3011
+    },
+    {
+      "origin_city_name": "Vinnytsia",
+      "destination_city_name": "Vienna",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Austria",
+      "count": 2164
+    },
+    {
+      "origin_city_name": "Kryvyi Rih",
+      "destination_city_name": "Vienna",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Austria",
+      "count": 1706
+    },
+    {
+      "origin_city_name": "Ternopil",
+      "destination_city_name": "Vienna",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Austria",
+      "count": 1584
+    },
+    {
+      "origin_city_name": "Uzhhorod",
+      "destination_city_name": "Vienna",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Austria",
+      "count": 1491
+    },
+    {
+      "origin_city_name": "Chernivtsi",
+      "destination_city_name": "Vienna",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Austria",
+      "count": 1320
+    },
+    {
+      "origin_city_name": "Poltava",
+      "destination_city_name": "Vienna",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Austria",
+      "count": 1287
+    },
+    {
+      "origin_city_name": "Kyiv",
+      "destination_city_name": "Graz",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Austria",
+      "count": 1201
+    },
+    {
+      "origin_city_name": "Ivano-Frankivsk",
+      "destination_city_name": "Vienna",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Austria",
+      "count": 1189
+    },
+    {
+      "origin_city_name": "Zaporizhzhya",
+      "destination_city_name": "Vienna",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Austria",
+      "count": 1188
+    },
+    {
+      "origin_city_name": "Cherkasy",
+      "destination_city_name": "Vienna",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Austria",
+      "count": 1186
+    },
+    {
+      "origin_city_name": "Mykolaiv",
+      "destination_city_name": "Vienna",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Austria",
+      "count": 1174
+    },
+    {
+      "origin_city_name": "Kropyvnytskyi",
+      "destination_city_name": "Vienna",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Austria",
+      "count": 1080
+    },
+    {
+      "origin_city_name": "Kremenchuk",
+      "destination_city_name": "Vienna",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Austria",
+      "count": 929
+    },
+    {
+      "origin_city_name": "Rivne",
+      "destination_city_name": "Vienna",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Austria",
+      "count": 868
+    },
+    {
+      "origin_city_name": "Lviv",
+      "destination_city_name": "Graz",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Austria",
+      "count": 857
+    },
+    {
+      "origin_city_name": "Zhytomyr",
+      "destination_city_name": "Vienna",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Austria",
+      "count": 693
+    },
+    {
+      "origin_city_name": "Uman",
+      "destination_city_name": "Vienna",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Austria",
+      "count": 670
+    },
+    {
+      "origin_city_name": "Kyiv",
+      "destination_city_name": "Linz",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Austria",
+      "count": 540
+    },
+    {
+      "origin_city_name": "Khmelnytskyi",
+      "destination_city_name": "Graz",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Austria",
+      "count": 539
+    },
+    {
+      "origin_city_name": "Kyiv",
+      "destination_city_name": "Innsbruck",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Austria",
+      "count": 512
+    },
+    {
+      "origin_city_name": "Lviv",
+      "destination_city_name": "Linz",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Austria",
+      "count": 509
+    },
+    {
+      "origin_city_name": "Dnipro",
+      "destination_city_name": "Graz",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Austria",
+      "count": 481
+    },
+    {
+      "origin_city_name": "Odesa",
+      "destination_city_name": "Graz",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Austria",
+      "count": 423
+    },
+    {
+      "origin_city_name": "Lutsk",
+      "destination_city_name": "Vienna",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Austria",
+      "count": 406
+    },
+    {
+      "origin_city_name": "Kharkiv",
+      "destination_city_name": "Graz",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Austria",
+      "count": 378
+    },
+    {
+      "origin_city_name": "Lviv",
+      "destination_city_name": "Innsbruck",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Austria",
+      "count": 354
+    },
+    {
+      "origin_city_name": "Haisyn",
+      "destination_city_name": "Vienna",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Austria",
+      "count": 350
+    },
+    {
+      "origin_city_name": "Prague",
+      "destination_city_name": "Vienna",
+      "origin_country_name": "Czechia",
+      "destination_country_name": "Austria",
+      "count": 319
+    },
+    {
+      "origin_city_name": "Khmelnytskyi",
+      "destination_city_name": "Linz",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Austria",
+      "count": 306
+    },
+    {
+      "origin_city_name": "Kherson",
+      "destination_city_name": "Vienna",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Austria",
+      "count": 295
+    },
+    {
+      "origin_city_name": "Chernihiv",
+      "destination_city_name": "Vienna",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Austria",
+      "count": 279
+    },
+    {
+      "origin_city_name": "Mukachevo",
+      "destination_city_name": "Vienna",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Austria",
+      "count": 266
+    },
+    {
+      "origin_city_name": "Sumy",
+      "destination_city_name": "Vienna",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Austria",
+      "count": 255
+    },
+    {
+      "origin_city_name": "Kamianets-Podilskyi",
+      "destination_city_name": "Vienna",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Austria",
+      "count": 244
+    },
+    {
+      "origin_city_name": "Kharkiv",
+      "destination_city_name": "Linz",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Austria",
+      "count": 239
+    },
+    {
+      "origin_city_name": "Stryi",
+      "destination_city_name": "Vienna",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Austria",
+      "count": 235
+    },
+    {
+      "origin_city_name": "Kryvyi Rih",
+      "destination_city_name": "Graz",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Austria",
+      "count": 231
+    },
+    {
+      "origin_city_name": "Munich",
+      "destination_city_name": "Vienna",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Austria",
+      "count": 224
+    },
+    {
+      "origin_city_name": "Przemyśl",
+      "destination_city_name": "Vienna",
+      "origin_country_name": "Poland",
+      "destination_country_name": "Austria",
+      "count": 224
+    },
+    {
+      "origin_city_name": "Bratislava",
+      "destination_city_name": "Vienna",
+      "origin_country_name": "Slovakia",
+      "destination_country_name": "Austria",
+      "count": 223
+    },
+    {
+      "origin_city_name": "Dnipro",
+      "destination_city_name": "Linz",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Austria",
+      "count": 208
+    },
+    {
+      "origin_city_name": "Warsaw",
+      "destination_city_name": "Vienna",
+      "origin_country_name": "Poland",
+      "destination_country_name": "Austria",
+      "count": 200
+    },
+    {
+      "origin_city_name": "Krakow",
+      "destination_city_name": "Vienna",
+      "origin_country_name": "Poland",
+      "destination_country_name": "Austria",
+      "count": 191
+    },
+    {
+      "origin_city_name": "Odesa",
+      "destination_city_name": "Linz",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Austria",
+      "count": 170
+    }
+  ]
+}

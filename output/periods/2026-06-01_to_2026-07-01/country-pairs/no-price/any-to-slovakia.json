@@ -1,0 +1,234 @@
+{
+  "metadata": {
+    "report_key": "country-pair-no-price-any-to-slovakia",
+    "report_type": "country_pair_no_price",
+    "generated_at": "2026-07-08T09:28:24.458Z",
+    "period": {
+      "date_from": "2026-06-01",
+      "date_to": "2026-07-01"
+    },
+    "filters": {
+      "origin_country_name": "Any",
+      "destination_country_name": "Slovakia",
+      "has_price": false,
+      "limit": 30
+    }
+  },
+  "summary": {
+    "rows": 30,
+    "searches_total": 31103,
+    "searches_without_price": 22009
+  },
+  "data": [
+    {
+      "origin_city_name": "Khmelnytskyi",
+      "destination_city_name": "Bratislava",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Slovakia",
+      "count": 1998
+    },
+    {
+      "origin_city_name": "Kyiv",
+      "destination_city_name": "Bratislava",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Slovakia",
+      "count": 1713
+    },
+    {
+      "origin_city_name": "Lviv",
+      "destination_city_name": "Bratislava",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Slovakia",
+      "count": 1430
+    },
+    {
+      "origin_city_name": "Dnipro",
+      "destination_city_name": "Bratislava",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Slovakia",
+      "count": 1350
+    },
+    {
+      "origin_city_name": "Kharkiv",
+      "destination_city_name": "Bratislava",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Slovakia",
+      "count": 1340
+    },
+    {
+      "origin_city_name": "Kryvyi Rih",
+      "destination_city_name": "Bratislava",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Slovakia",
+      "count": 1020
+    },
+    {
+      "origin_city_name": "Uzhhorod",
+      "destination_city_name": "Bratislava",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Slovakia",
+      "count": 961
+    },
+    {
+      "origin_city_name": "Kremenchuk",
+      "destination_city_name": "Bratislava",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Slovakia",
+      "count": 681
+    },
+    {
+      "origin_city_name": "Kropyvnytskyi",
+      "destination_city_name": "Bratislava",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Slovakia",
+      "count": 586
+    },
+    {
+      "origin_city_name": "Vinnytsia",
+      "destination_city_name": "Bratislava",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Slovakia",
+      "count": 555
+    },
+    {
+      "origin_city_name": "Sumy",
+      "destination_city_name": "Bratislava",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Slovakia",
+      "count": 430
+    },
+    {
+      "origin_city_name": "Cherkasy",
+      "destination_city_name": "Bratislava",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Slovakia",
+      "count": 421
+    },
+    {
+      "origin_city_name": "Poltava",
+      "destination_city_name": "Bratislava",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Slovakia",
+      "count": 409
+    },
+    {
+      "origin_city_name": "Lutsk",
+      "destination_city_name": "Bratislava",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Slovakia",
+      "count": 405
+    },
+    {
+      "origin_city_name": "Uman",
+      "destination_city_name": "Bratislava",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Slovakia",
+      "count": 383
+    },
+    {
+      "origin_city_name": "Kyiv",
+      "destination_city_name": "Košice",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Slovakia",
+      "count": 351
+    },
+    {
+      "origin_city_name": "Ternopil",
+      "destination_city_name": "Bratislava",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Slovakia",
+      "count": 330
+    },
+    {
+      "origin_city_name": "Uzhhorod",
+      "destination_city_name": "Košice",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Slovakia",
+      "count": 288
+    },
+    {
+      "origin_city_name": "Starokostiantyniv",
+      "destination_city_name": "Bratislava",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Slovakia",
+      "count": 261
+    },
+    {
+      "origin_city_name": "Odesa",
+      "destination_city_name": "Bratislava",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Slovakia",
+      "count": 260
+    },
+    {
+      "origin_city_name": "Zaporizhzhya",
+      "destination_city_name": "Bratislava",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Slovakia",
+      "count": 217
+    },
+    {
+      "origin_city_name": "Dnipro",
+      "destination_city_name": "Košice",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Slovakia",
+      "count": 211
+    },
+    {
+      "origin_city_name": "Kharkiv",
+      "destination_city_name": "Košice",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Slovakia",
+      "count": 195
+    },
+    {
+      "origin_city_name": "Zvenyhorodka",
+      "destination_city_name": "Bratislava",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Slovakia",
+      "count": 193
+    },
+    {
+      "origin_city_name": "Khmelnytskyi",
+      "destination_city_name": "Košice",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Slovakia",
+      "count": 186
+    },
+    {
+      "origin_city_name": "Rivne",
+      "destination_city_name": "Bratislava",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Slovakia",
+      "count": 147
+    },
+    {
+      "origin_city_name": "Lviv",
+      "destination_city_name": "Košice",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Slovakia",
+      "count": 135
+    },
+    {
+      "origin_city_name": "Mukachevo",
+      "destination_city_name": "Košice",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Slovakia",
+      "count": 121
+    },
+    {
+      "origin_city_name": "Ivano-Frankivsk",
+      "destination_city_name": "Bratislava",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Slovakia",
+      "count": 118
+    },
+    {
+      "origin_city_name": "Kropyvnytskyi",
+      "destination_city_name": "Košice",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Slovakia",
+      "count": 115
+    }
+  ]
+}

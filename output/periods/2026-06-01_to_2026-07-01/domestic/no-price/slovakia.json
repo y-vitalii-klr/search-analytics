@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "report_key": "domestic-no-price-slovakia",
+    "report_type": "domestic_no_price",
+    "generated_at": "2026-07-08T09:28:24.458Z",
+    "period": {
+      "date_from": "2026-06-01",
+      "date_to": "2026-07-01"
+    },
+    "filters": {
+      "country_name": "Slovakia",
+      "has_price": false,
+      "limit": 30
+    }
+  },
+  "summary": {
+    "rows": 17,
+    "searches_total": 167,
+    "searches_without_price": 167
+  },
+  "data": [
+    {
+      "origin_city_name": "Košice",
+      "destination_city_name": "Bratislava",
+      "count": 35
+    },
+    {
+      "origin_city_name": "Bratislava",
+      "destination_city_name": "Košice",
+      "count": 30
+    },
+    {
+      "origin_city_name": "Nitra",
+      "destination_city_name": "Bratislava",
+      "count": 21
+    },
+    {
+      "origin_city_name": "Bratislava",
+      "destination_city_name": "Bratislava",
+      "count": 17
+    },
+    {
+      "origin_city_name": "Košice",
+      "destination_city_name": "Trenčín",
+      "count": 14
+    },
+    {
+      "origin_city_name": "Bratislava",
+      "destination_city_name": "Nitra",
+      "count": 13
+    },
+    {
+      "origin_city_name": "Nitra",
+      "destination_city_name": "Košice",
+      "count": 10
+    },
+    {
+      "origin_city_name": "Bratislava",
+      "destination_city_name": "Žilina",
+      "count": 6
+    },
+    {
+      "origin_city_name": "Bratislava",
+      "destination_city_name": "Trnava",
+      "count": 5
+    },
+    {
+      "origin_city_name": "Žilina",
+      "destination_city_name": "Bratislava",
+      "count": 4
+    },
+    {
+      "origin_city_name": "Ružomberok",
+      "destination_city_name": "Bratislava",
+      "count": 3
+    },
+    {
+      "origin_city_name": "Bratislava",
+      "destination_city_name": "Ružomberok",
+      "count": 2
+    },
+    {
+      "origin_city_name": "Poprad",
+      "destination_city_name": "Poprad",
+      "count": 2
+    },
+    {
+      "origin_city_name": "Prešov",
+      "destination_city_name": "Košice",
+      "count": 2
+    },
+    {
+      "origin_city_name": "Košice",
+      "destination_city_name": "Poprad",
+      "count": 1
+    },
+    {
+      "origin_city_name": "Košice",
+      "destination_city_name": "Trnava",
+      "count": 1
+    },
+    {
+      "origin_city_name": "Trnava",
+      "destination_city_name": "Bratislava",
+      "count": 1
+    }
+  ]
+}

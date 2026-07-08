@@ -1,0 +1,234 @@
+{
+  "metadata": {
+    "report_key": "country-pair-no-price-ukraine-to-czechia",
+    "report_type": "country_pair_no_price",
+    "generated_at": "2026-07-08T09:28:24.458Z",
+    "period": {
+      "date_from": "2026-06-01",
+      "date_to": "2026-07-01"
+    },
+    "filters": {
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Czechia",
+      "has_price": false,
+      "limit": 30
+    }
+  },
+  "summary": {
+    "rows": 30,
+    "searches_total": 161196,
+    "searches_without_price": 23571
+  },
+  "data": [
+    {
+      "origin_city_name": "Dnipro",
+      "destination_city_name": "Pilsen",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Czechia",
+      "count": 533
+    },
+    {
+      "origin_city_name": "Mykolaiv",
+      "destination_city_name": "Pilsen",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Czechia",
+      "count": 498
+    },
+    {
+      "origin_city_name": "Kyiv",
+      "destination_city_name": "Prague",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Czechia",
+      "count": 492
+    },
+    {
+      "origin_city_name": "Zaporizhzhya",
+      "destination_city_name": "Pilsen",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Czechia",
+      "count": 481
+    },
+    {
+      "origin_city_name": "Mykolaiv",
+      "destination_city_name": "Ostrava",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Czechia",
+      "count": 399
+    },
+    {
+      "origin_city_name": "Odesa",
+      "destination_city_name": "Pilsen",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Czechia",
+      "count": 352
+    },
+    {
+      "origin_city_name": "Odesa",
+      "destination_city_name": "Prague",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Czechia",
+      "count": 352
+    },
+    {
+      "origin_city_name": "Kropyvnytskyi",
+      "destination_city_name": "Pilsen",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Czechia",
+      "count": 309
+    },
+    {
+      "origin_city_name": "Voznesensk",
+      "destination_city_name": "Ostrava",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Czechia",
+      "count": 306
+    },
+    {
+      "origin_city_name": "Pivdennoukrainsk",
+      "destination_city_name": "Pilsen",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Czechia",
+      "count": 295
+    },
+    {
+      "origin_city_name": "Odesa",
+      "destination_city_name": "Pardubice",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Czechia",
+      "count": 284
+    },
+    {
+      "origin_city_name": "Odesa",
+      "destination_city_name": "Brno",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Czechia",
+      "count": 261
+    },
+    {
+      "origin_city_name": "Mykolaiv",
+      "destination_city_name": "Prague",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Czechia",
+      "count": 260
+    },
+    {
+      "origin_city_name": "Lviv",
+      "destination_city_name": "Prague",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Czechia",
+      "count": 242
+    },
+    {
+      "origin_city_name": "Pervomaisk",
+      "destination_city_name": "Brno",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Czechia",
+      "count": 224
+    },
+    {
+      "origin_city_name": "Kyiv",
+      "destination_city_name": "Liberec",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Czechia",
+      "count": 220
+    },
+    {
+      "origin_city_name": "Khmelnytskyi",
+      "destination_city_name": "Prague",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Czechia",
+      "count": 200
+    },
+    {
+      "origin_city_name": "Kharkiv",
+      "destination_city_name": "Liberec",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Czechia",
+      "count": 192
+    },
+    {
+      "origin_city_name": "Kyiv",
+      "destination_city_name": "Karlovy Vary",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Czechia",
+      "count": 192
+    },
+    {
+      "origin_city_name": "Dnipro",
+      "destination_city_name": "Prague",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Czechia",
+      "count": 189
+    },
+    {
+      "origin_city_name": "Kharkiv",
+      "destination_city_name": "Prague",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Czechia",
+      "count": 188
+    },
+    {
+      "origin_city_name": "Kremenchuk",
+      "destination_city_name": "Prague",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Czechia",
+      "count": 187
+    },
+    {
+      "origin_city_name": "Voznesensk",
+      "destination_city_name": "Prague",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Czechia",
+      "count": 186
+    },
+    {
+      "origin_city_name": "Kryvyi Rih",
+      "destination_city_name": "Pilsen",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Czechia",
+      "count": 182
+    },
+    {
+      "origin_city_name": "Lutsk",
+      "destination_city_name": "Prague",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Czechia",
+      "count": 178
+    },
+    {
+      "origin_city_name": "Kharkiv",
+      "destination_city_name": "Pilsen",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Czechia",
+      "count": 174
+    },
+    {
+      "origin_city_name": "Pervomaisk",
+      "destination_city_name": "Prague",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Czechia",
+      "count": 156
+    },
+    {
+      "origin_city_name": "Vinnytsia",
+      "destination_city_name": "Prague",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Czechia",
+      "count": 154
+    },
+    {
+      "origin_city_name": "Poltava",
+      "destination_city_name": "Pilsen",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Czechia",
+      "count": 151
+    },
+    {
+      "origin_city_name": "Khmelnytskyi",
+      "destination_city_name": "Karlovy Vary",
+      "origin_country_name": "Ukraine",
+      "destination_country_name": "Czechia",
+      "count": 149
+    }
+  ]
+}

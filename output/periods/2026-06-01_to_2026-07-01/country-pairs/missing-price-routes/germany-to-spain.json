@@ -1,0 +1,234 @@
+{
+  "metadata": {
+    "report_key": "country-pair-missing-price-routes-germany-to-spain",
+    "report_type": "country_pair_missing_price_routes",
+    "generated_at": "2026-07-08T09:28:24.458Z",
+    "period": {
+      "date_from": "2026-06-01",
+      "date_to": "2026-07-01"
+    },
+    "filters": {
+      "origin_country_name": "Germany",
+      "destination_country_name": "Spain",
+      "no_price_route_only": true,
+      "limit": 30
+    }
+  },
+  "summary": {
+    "rows": 30,
+    "searches_total": 1183,
+    "searches_without_price": 1183
+  },
+  "data": [
+    {
+      "origin_city_name": "Berlin",
+      "destination_city_name": "Barcelona",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Spain",
+      "count": 153
+    },
+    {
+      "origin_city_name": "Stuttgart",
+      "destination_city_name": "Barcelona",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Spain",
+      "count": 106
+    },
+    {
+      "origin_city_name": "Munich",
+      "destination_city_name": "Barcelona",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Spain",
+      "count": 77
+    },
+    {
+      "origin_city_name": "Bielefeld",
+      "destination_city_name": "Barcelona",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Spain",
+      "count": 72
+    },
+    {
+      "origin_city_name": "Hanover",
+      "destination_city_name": "Barcelona",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Spain",
+      "count": 65
+    },
+    {
+      "origin_city_name": "Munich",
+      "destination_city_name": "Valencia",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Spain",
+      "count": 58
+    },
+    {
+      "origin_city_name": "Stuttgart",
+      "destination_city_name": "Alicante",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Spain",
+      "count": 45
+    },
+    {
+      "origin_city_name": "Munich",
+      "destination_city_name": "Málaga",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Spain",
+      "count": 42
+    },
+    {
+      "origin_city_name": "Dresden",
+      "destination_city_name": "Barcelona",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Spain",
+      "count": 39
+    },
+    {
+      "origin_city_name": "Dresden",
+      "destination_city_name": "Málaga",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Spain",
+      "count": 38
+    },
+    {
+      "origin_city_name": "Stuttgart",
+      "destination_city_name": "Valencia",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Spain",
+      "count": 34
+    },
+    {
+      "origin_city_name": "Berlin",
+      "destination_city_name": "Alicante",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Spain",
+      "count": 33
+    },
+    {
+      "origin_city_name": "Karlsruhe",
+      "destination_city_name": "Barcelona",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Spain",
+      "count": 32
+    },
+    {
+      "origin_city_name": "Frankfurt am Main",
+      "destination_city_name": "Barcelona",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Spain",
+      "count": 31
+    },
+    {
+      "origin_city_name": "Frankfurt am Main",
+      "destination_city_name": "Madrid",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Spain",
+      "count": 30
+    },
+    {
+      "origin_city_name": "Stuttgart",
+      "destination_city_name": "Benidorm",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Spain",
+      "count": 28
+    },
+    {
+      "origin_city_name": "Frankfurt am Main",
+      "destination_city_name": "Alicante",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Spain",
+      "count": 25
+    },
+    {
+      "origin_city_name": "Nuremberg",
+      "destination_city_name": "Barcelona",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Spain",
+      "count": 25
+    },
+    {
+      "origin_city_name": "Cologne",
+      "destination_city_name": "Barcelona",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Spain",
+      "count": 24
+    },
+    {
+      "origin_city_name": "Stuttgart",
+      "destination_city_name": "Madrid",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Spain",
+      "count": 23
+    },
+    {
+      "origin_city_name": "Chemnitz",
+      "destination_city_name": "Barcelona",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Spain",
+      "count": 22
+    },
+    {
+      "origin_city_name": "Düsseldorf",
+      "destination_city_name": "Valencia",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Spain",
+      "count": 22
+    },
+    {
+      "origin_city_name": "Essen",
+      "destination_city_name": "Alicante",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Spain",
+      "count": 22
+    },
+    {
+      "origin_city_name": "Berlin",
+      "destination_city_name": "Valencia",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Spain",
+      "count": 21
+    },
+    {
+      "origin_city_name": "Leipzig",
+      "destination_city_name": "Barcelona",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Spain",
+      "count": 21
+    },
+    {
+      "origin_city_name": "Dresden",
+      "destination_city_name": "Madrid",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Spain",
+      "count": 20
+    },
+    {
+      "origin_city_name": "Hanover",
+      "destination_city_name": "Gijón",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Spain",
+      "count": 20
+    },
+    {
+      "origin_city_name": "Ulm",
+      "destination_city_name": "Barcelona",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Spain",
+      "count": 19
+    },
+    {
+      "origin_city_name": "Hanover",
+      "destination_city_name": "Madrid",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Spain",
+      "count": 18
+    },
+    {
+      "origin_city_name": "Karlsruhe",
+      "destination_city_name": "Valencia",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Spain",
+      "count": 18
+    }
+  ]
+}

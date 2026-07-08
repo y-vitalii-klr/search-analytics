@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "report_key": "domestic-no-price-austria",
+    "report_type": "domestic_no_price",
+    "generated_at": "2026-07-08T09:28:24.458Z",
+    "period": {
+      "date_from": "2026-06-01",
+      "date_to": "2026-07-01"
+    },
+    "filters": {
+      "country_name": "Austria",
+      "has_price": false,
+      "limit": 30
+    }
+  },
+  "summary": {
+    "rows": 9,
+    "searches_total": 103,
+    "searches_without_price": 103
+  },
+  "data": [
+    {
+      "origin_city_name": "Vienna",
+      "destination_city_name": "Klagenfurt am Wörthersee",
+      "count": 36
+    },
+    {
+      "origin_city_name": "Vienna",
+      "destination_city_name": "Innsbruck",
+      "count": 22
+    },
+    {
+      "origin_city_name": "Vienna",
+      "destination_city_name": "Vienna",
+      "count": 15
+    },
+    {
+      "origin_city_name": "Vienna",
+      "destination_city_name": "Linz",
+      "count": 11
+    },
+    {
+      "origin_city_name": "Graz",
+      "destination_city_name": "Vienna",
+      "count": 6
+    },
+    {
+      "origin_city_name": "Klagenfurt am Wörthersee",
+      "destination_city_name": "Vienna",
+      "count": 6
+    },
+    {
+      "origin_city_name": "Vienna",
+      "destination_city_name": "Graz",
+      "count": 4
+    },
+    {
+      "origin_city_name": "Innsbruck",
+      "destination_city_name": "Vienna",
+      "count": 2
+    },
+    {
+      "origin_city_name": "Kufstein",
+      "destination_city_name": "Vienna",
+      "count": 1
+    }
+  ]
+}

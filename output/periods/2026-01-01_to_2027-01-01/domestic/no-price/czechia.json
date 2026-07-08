@@ -1,0 +1,273 @@
+{
+  "metadata": {
+    "report_key": "domestic-no-price-czechia",
+    "report_type": "domestic_no_price",
+    "generated_at": "2026-07-08T09:27:17.020Z",
+    "period": {
+      "date_from": "2026-01-01",
+      "date_to": "2027-01-01"
+    },
+    "filters": {
+      "country_name": "Czechia",
+      "has_price": false,
+      "limit": 50
+    }
+  },
+  "summary": {
+    "rows": 50,
+    "searches_total": 5633,
+    "searches_without_price": 5633
+  },
+  "data": [
+    {
+      "origin_city_name": "Brno",
+      "destination_city_name": "Prague",
+      "count": 439
+    },
+    {
+      "origin_city_name": "Pilsen",
+      "destination_city_name": "Prague",
+      "count": 421
+    },
+    {
+      "origin_city_name": "Karlovy Vary",
+      "destination_city_name": "Prague",
+      "count": 338
+    },
+    {
+      "origin_city_name": "Ostrava",
+      "destination_city_name": "Prague",
+      "count": 274
+    },
+    {
+      "origin_city_name": "Prague",
+      "destination_city_name": "Prague",
+      "count": 246
+    },
+    {
+      "origin_city_name": "Prague",
+      "destination_city_name": "Pilsen",
+      "count": 234
+    },
+    {
+      "origin_city_name": "Prague",
+      "destination_city_name": "Brno",
+      "count": 228
+    },
+    {
+      "origin_city_name": "Pilsen",
+      "destination_city_name": "Brno",
+      "count": 177
+    },
+    {
+      "origin_city_name": "Prague",
+      "destination_city_name": "Ostrava",
+      "count": 143
+    },
+    {
+      "origin_city_name": "Prague",
+      "destination_city_name": "Karlovy Vary",
+      "count": 137
+    },
+    {
+      "origin_city_name": "Olomouc",
+      "destination_city_name": "Prague",
+      "count": 123
+    },
+    {
+      "origin_city_name": "Ostrava",
+      "destination_city_name": "Brno",
+      "count": 123
+    },
+    {
+      "origin_city_name": "Brno",
+      "destination_city_name": "Pilsen",
+      "count": 107
+    },
+    {
+      "origin_city_name": "Ostrava",
+      "destination_city_name": "Pilsen",
+      "count": 100
+    },
+    {
+      "origin_city_name": "Pilsen",
+      "destination_city_name": "Pilsen",
+      "count": 99
+    },
+    {
+      "origin_city_name": "Brno",
+      "destination_city_name": "Olomouc",
+      "count": 80
+    },
+    {
+      "origin_city_name": "Brno",
+      "destination_city_name": "Brno",
+      "count": 76
+    },
+    {
+      "origin_city_name": "Ostrava",
+      "destination_city_name": "Ostrava",
+      "count": 68
+    },
+    {
+      "origin_city_name": "Prague",
+      "destination_city_name": "Liberec",
+      "count": 64
+    },
+    {
+      "origin_city_name": "Prague",
+      "destination_city_name": "České Budějovice",
+      "count": 53
+    },
+    {
+      "origin_city_name": "Mladá Boleslav",
+      "destination_city_name": "Prague",
+      "count": 49
+    },
+    {
+      "origin_city_name": "Pilsen",
+      "destination_city_name": "Ostrava",
+      "count": 49
+    },
+    {
+      "origin_city_name": "Pilsen",
+      "destination_city_name": "Karlovy Vary",
+      "count": 47
+    },
+    {
+      "origin_city_name": "Brno",
+      "destination_city_name": "Jihlava",
+      "count": 45
+    },
+    {
+      "origin_city_name": "Prague",
+      "destination_city_name": "Mladá Boleslav",
+      "count": 42
+    },
+    {
+      "origin_city_name": "Pilsen",
+      "destination_city_name": "Jihlava",
+      "count": 41
+    },
+    {
+      "origin_city_name": "Hradec Kralove",
+      "destination_city_name": "Prague",
+      "count": 38
+    },
+    {
+      "origin_city_name": "Prague",
+      "destination_city_name": "Hradec Kralove",
+      "count": 35
+    },
+    {
+      "origin_city_name": "Hradec Kralove",
+      "destination_city_name": "Ostrava",
+      "count": 31
+    },
+    {
+      "origin_city_name": "Prague",
+      "destination_city_name": "Olomouc",
+      "count": 31
+    },
+    {
+      "origin_city_name": "České Budějovice",
+      "destination_city_name": "Prague",
+      "count": 31
+    },
+    {
+      "origin_city_name": "Klatovy",
+      "destination_city_name": "Pilsen",
+      "count": 30
+    },
+    {
+      "origin_city_name": "Prague",
+      "destination_city_name": "Jihlava",
+      "count": 26
+    },
+    {
+      "origin_city_name": "Cheb",
+      "destination_city_name": "Prague",
+      "count": 25
+    },
+    {
+      "origin_city_name": "Jihlava",
+      "destination_city_name": "Prague",
+      "count": 25
+    },
+    {
+      "origin_city_name": "Mladá Boleslav",
+      "destination_city_name": "Brno",
+      "count": 24
+    },
+    {
+      "origin_city_name": "Olomouc",
+      "destination_city_name": "Brno",
+      "count": 24
+    },
+    {
+      "origin_city_name": "Prague",
+      "destination_city_name": "Mariánské Lázně",
+      "count": 23
+    },
+    {
+      "origin_city_name": "Prague",
+      "destination_city_name": "Pardubice",
+      "count": 23
+    },
+    {
+      "origin_city_name": "Mladá Boleslav",
+      "destination_city_name": "Český Krumlov",
+      "count": 22
+    },
+    {
+      "origin_city_name": "Ostrava",
+      "destination_city_name": "Jihlava",
+      "count": 22
+    },
+    {
+      "origin_city_name": "Pilsen",
+      "destination_city_name": "Klatovy",
+      "count": 22
+    },
+    {
+      "origin_city_name": "Brno",
+      "destination_city_name": "Prostějov",
+      "count": 21
+    },
+    {
+      "origin_city_name": "Pilsen",
+      "destination_city_name": "Humpolec",
+      "count": 21
+    },
+    {
+      "origin_city_name": "Brno",
+      "destination_city_name": "Hradec Kralove",
+      "count": 20
+    },
+    {
+      "origin_city_name": "Frýdek-Místek",
+      "destination_city_name": "Ostrava",
+      "count": 20
+    },
+    {
+      "origin_city_name": "Olomouc",
+      "destination_city_name": "Zlín",
+      "count": 20
+    },
+    {
+      "origin_city_name": "Pardubice",
+      "destination_city_name": "Ostrava",
+      "count": 19
+    },
+    {
+      "origin_city_name": "Jihlava",
+      "destination_city_name": "Jihlava",
+      "count": 18
+    },
+    {
+      "origin_city_name": "Prague",
+      "destination_city_name": "Chomutov",
+      "count": 18
+    }
+  ]
+}

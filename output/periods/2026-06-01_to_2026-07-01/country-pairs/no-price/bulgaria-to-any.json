@@ -1,0 +1,234 @@
+{
+  "metadata": {
+    "report_key": "country-pair-no-price-bulgaria-to-any",
+    "report_type": "country_pair_no_price",
+    "generated_at": "2026-07-08T09:28:24.458Z",
+    "period": {
+      "date_from": "2026-06-01",
+      "date_to": "2026-07-01"
+    },
+    "filters": {
+      "origin_country_name": "Bulgaria",
+      "destination_country_name": "Any",
+      "has_price": false,
+      "limit": 30
+    }
+  },
+  "summary": {
+    "rows": 30,
+    "searches_total": 10507,
+    "searches_without_price": 4258
+  },
+  "data": [
+    {
+      "origin_city_name": "Sofia",
+      "destination_city_name": "Kyiv",
+      "origin_country_name": "Bulgaria",
+      "destination_country_name": "Ukraine",
+      "count": 620
+    },
+    {
+      "origin_city_name": "Varna",
+      "destination_city_name": "Dnipro",
+      "origin_country_name": "Bulgaria",
+      "destination_country_name": "Ukraine",
+      "count": 266
+    },
+    {
+      "origin_city_name": "Sofia",
+      "destination_city_name": "Zhashkiv",
+      "origin_country_name": "Bulgaria",
+      "destination_country_name": "Ukraine",
+      "count": 198
+    },
+    {
+      "origin_city_name": "Sofia",
+      "destination_city_name": "Odesa",
+      "origin_country_name": "Bulgaria",
+      "destination_country_name": "Ukraine",
+      "count": 154
+    },
+    {
+      "origin_city_name": "Sofia",
+      "destination_city_name": "Khmelnytskyi",
+      "origin_country_name": "Bulgaria",
+      "destination_country_name": "Ukraine",
+      "count": 131
+    },
+    {
+      "origin_city_name": "Sunny Beach",
+      "destination_city_name": "Dnipro",
+      "origin_country_name": "Bulgaria",
+      "destination_country_name": "Ukraine",
+      "count": 128
+    },
+    {
+      "origin_city_name": "Plovdiv",
+      "destination_city_name": "Kyiv",
+      "origin_country_name": "Bulgaria",
+      "destination_country_name": "Ukraine",
+      "count": 106
+    },
+    {
+      "origin_city_name": "Burgas",
+      "destination_city_name": "Kyiv",
+      "origin_country_name": "Bulgaria",
+      "destination_country_name": "Ukraine",
+      "count": 82
+    },
+    {
+      "origin_city_name": "Varna",
+      "destination_city_name": "Kharkiv",
+      "origin_country_name": "Bulgaria",
+      "destination_country_name": "Ukraine",
+      "count": 71
+    },
+    {
+      "origin_city_name": "Sofia",
+      "destination_city_name": "Kropyvnytskyi",
+      "origin_country_name": "Bulgaria",
+      "destination_country_name": "Ukraine",
+      "count": 69
+    },
+    {
+      "origin_city_name": "Sunny Beach",
+      "destination_city_name": "Kharkiv",
+      "origin_country_name": "Bulgaria",
+      "destination_country_name": "Ukraine",
+      "count": 68
+    },
+    {
+      "origin_city_name": "Sunny Beach",
+      "destination_city_name": "Istanbul",
+      "origin_country_name": "Bulgaria",
+      "destination_country_name": "Türkiye",
+      "count": 61
+    },
+    {
+      "origin_city_name": "Golden Sands",
+      "destination_city_name": "Kryvyi Rih",
+      "origin_country_name": "Bulgaria",
+      "destination_country_name": "Ukraine",
+      "count": 57
+    },
+    {
+      "origin_city_name": "Varna",
+      "destination_city_name": "Rivne",
+      "origin_country_name": "Bulgaria",
+      "destination_country_name": "Ukraine",
+      "count": 57
+    },
+    {
+      "origin_city_name": "Sofia",
+      "destination_city_name": "Lviv",
+      "origin_country_name": "Bulgaria",
+      "destination_country_name": "Ukraine",
+      "count": 48
+    },
+    {
+      "origin_city_name": "Sofia",
+      "destination_city_name": "Athens",
+      "origin_country_name": "Bulgaria",
+      "destination_country_name": "Greece",
+      "count": 46
+    },
+    {
+      "origin_city_name": "Plovdiv",
+      "destination_city_name": "Chernivtsi",
+      "origin_country_name": "Bulgaria",
+      "destination_country_name": "Ukraine",
+      "count": 44
+    },
+    {
+      "origin_city_name": "Sunny Beach",
+      "destination_city_name": "Poltava",
+      "origin_country_name": "Bulgaria",
+      "destination_country_name": "Ukraine",
+      "count": 41
+    },
+    {
+      "origin_city_name": "Varna",
+      "destination_city_name": "Istanbul",
+      "origin_country_name": "Bulgaria",
+      "destination_country_name": "Türkiye",
+      "count": 41
+    },
+    {
+      "origin_city_name": "Pomorie",
+      "destination_city_name": "Kryvyi Rih",
+      "origin_country_name": "Bulgaria",
+      "destination_country_name": "Ukraine",
+      "count": 37
+    },
+    {
+      "origin_city_name": "Burgas",
+      "destination_city_name": "Kharkiv",
+      "origin_country_name": "Bulgaria",
+      "destination_country_name": "Ukraine",
+      "count": 36
+    },
+    {
+      "origin_city_name": "Varna",
+      "destination_city_name": "Dubno",
+      "origin_country_name": "Bulgaria",
+      "destination_country_name": "Ukraine",
+      "count": 35
+    },
+    {
+      "origin_city_name": "Burgas",
+      "destination_city_name": "Poltava",
+      "origin_country_name": "Bulgaria",
+      "destination_country_name": "Ukraine",
+      "count": 34
+    },
+    {
+      "origin_city_name": "Nessebar",
+      "destination_city_name": "Bucharest",
+      "origin_country_name": "Bulgaria",
+      "destination_country_name": "Romania",
+      "count": 34
+    },
+    {
+      "origin_city_name": "Sofia",
+      "destination_city_name": "Dnipro",
+      "origin_country_name": "Bulgaria",
+      "destination_country_name": "Ukraine",
+      "count": 32
+    },
+    {
+      "origin_city_name": "Varna",
+      "destination_city_name": "Lviv",
+      "origin_country_name": "Bulgaria",
+      "destination_country_name": "Ukraine",
+      "count": 32
+    },
+    {
+      "origin_city_name": "Burgas",
+      "destination_city_name": "Dnipro",
+      "origin_country_name": "Bulgaria",
+      "destination_country_name": "Ukraine",
+      "count": 31
+    },
+    {
+      "origin_city_name": "Plovdiv",
+      "destination_city_name": "Odesa",
+      "origin_country_name": "Bulgaria",
+      "destination_country_name": "Ukraine",
+      "count": 30
+    },
+    {
+      "origin_city_name": "Sofia",
+      "destination_city_name": "Thessaloniki",
+      "origin_country_name": "Bulgaria",
+      "destination_country_name": "Greece",
+      "count": 30
+    },
+    {
+      "origin_city_name": "Varna",
+      "destination_city_name": "Poltava",
+      "origin_country_name": "Bulgaria",
+      "destination_country_name": "Ukraine",
+      "count": 30
+    }
+  ]
+}

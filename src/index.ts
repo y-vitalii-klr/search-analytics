@@ -5,8 +5,9 @@ import { create_clickhouse_client, run_query } from './clickhouse.client.js';
 import { get_config } from './config.js';
 import {
   create_manifest_entry,
-  reset_output_directory,
+  reset_period_directory,
   write_manifest_file,
+  write_period_catalog,
   write_report_file,
 } from './file-writer.js';
 import {
@@ -44,6 +45,24 @@ function get_slug(value: string): string {
     .toLowerCase()
     .replace(/[^a-z0-9]+/g, '-')
     .replace(/^-+|-+$/g, '');
+}
+
+function get_period_slug(
+  date_from: string | null,
+  date_to: string | null,
+): string {
+  if (!date_from && !date_to) {
+    return 'all-time';
+  }
+
+  const normalized_from = (date_from ?? 'open')
+    .replace(/[^0-9a-zA-Z]+/g, '-')
+    .toLowerCase();
+  const normalized_to = (date_to ?? 'open')
+    .replace(/[^0-9a-zA-Z]+/g, '-')
+    .toLowerCase();
+
+  return `${normalized_from}_to_${normalized_to}`;
 }
 
 function get_summary_from_rows(
@@ -273,10 +292,13 @@ async function create_missing_price_report(
 async function main(): Promise<void> {
   const config = get_config();
   const output_directory = path.join(process.cwd(), config.output_directory);
+  const period_slug = get_period_slug(config.date_from, config.date_to);
+  const period_output_directory = await reset_period_directory(
+    output_directory,
+    period_slug,
+  );
   const generated_at = new Date().toISOString();
   const query_client = create_clickhouse_client(config);
-
-  await reset_output_directory(output_directory);
 
   const top_countries_result = build_top_countries_query(config);
   const top_countries_rows = normalize_country_rows(
@@ -289,6 +311,7 @@ async function main(): Promise<void> {
   const top_countries = top_countries_rows.map((row) => row.country_name);
 
   const manifest: ManifestFile = {
+    period_slug,
     metadata: {
       generated_at,
       period: {
@@ -302,7 +325,7 @@ async function main(): Promise<void> {
     reports: [],
   };
 
-  await write_report_file(output_directory, 'stats/top-countries.json', {
+  await write_report_file(period_output_directory, 'stats/top-countries.json', {
     metadata: {
       report_key: 'top-countries',
       report_type: 'top_countries',
@@ -360,7 +383,7 @@ async function main(): Promise<void> {
     const domestic_no_price_key = `domestic-no-price-${country_slug}`;
 
     await write_report_file(
-      output_directory,
+      period_output_directory,
       domestic_no_price_path,
       create_route_report(
         domestic_no_price_key,
@@ -403,7 +426,7 @@ async function main(): Promise<void> {
     const domestic_top_queries_key = `domestic-top-queries-${country_slug}`;
 
     await write_report_file(
-      output_directory,
+      period_output_directory,
       domestic_top_queries_path,
       create_route_report(
         domestic_top_queries_key,
@@ -440,7 +463,7 @@ async function main(): Promise<void> {
     );
 
     await create_missing_price_report(
-      output_directory,
+      period_output_directory,
       manifest,
       `domestic-missing-price-routes-${country_slug}`,
       'domestic_missing_price_routes',
@@ -513,7 +536,7 @@ async function main(): Promise<void> {
       );
 
       await create_route_report_bundle(
-        output_directory,
+        period_output_directory,
         manifest,
         generated_at,
         config.date_from,
@@ -555,7 +578,7 @@ async function main(): Promise<void> {
       );
 
       await create_missing_price_report(
-        output_directory,
+        period_output_directory,
         manifest,
         `country-pair-missing-price-routes-${pair_slug}`,
         'country_pair_missing_price_routes',
@@ -621,7 +644,7 @@ async function main(): Promise<void> {
     );
 
     await create_route_report_bundle(
-      output_directory,
+      period_output_directory,
       manifest,
       generated_at,
       config.date_from,
@@ -663,7 +686,7 @@ async function main(): Promise<void> {
     );
 
     await create_missing_price_report(
-      output_directory,
+      period_output_directory,
       manifest,
       `country-pair-missing-price-routes-${country_slug}-to-any`,
       'country_pair_missing_price_routes',
@@ -724,7 +747,7 @@ async function main(): Promise<void> {
     );
 
     await create_route_report_bundle(
-      output_directory,
+      period_output_directory,
       manifest,
       generated_at,
       config.date_from,
@@ -766,7 +789,7 @@ async function main(): Promise<void> {
     );
 
     await create_missing_price_report(
-      output_directory,
+      period_output_directory,
       manifest,
       `country-pair-missing-price-routes-any-to-${country_slug}`,
       'country_pair_missing_price_routes',
@@ -796,7 +819,7 @@ async function main(): Promise<void> {
   );
 
   await write_report_file(
-    output_directory,
+    period_output_directory,
     'stats/country-coverage.json',
     create_country_report(
       'country-coverage',
@@ -830,7 +853,7 @@ async function main(): Promise<void> {
   );
   const global_stats_summary = global_stats_rows[0];
 
-  await write_report_file(output_directory, 'stats/global.json', {
+  await write_report_file(period_output_directory, 'stats/global.json', {
     metadata: {
       report_key: 'global-stats',
       report_type: 'global_stats',
@@ -872,7 +895,7 @@ async function main(): Promise<void> {
   );
 
   await write_report_file(
-    output_directory,
+    period_output_directory,
     'stats/origin-country-distribution.json',
     create_country_report(
       'origin-country-distribution',
@@ -909,7 +932,7 @@ async function main(): Promise<void> {
   );
 
   await write_report_file(
-    output_directory,
+    period_output_directory,
     'stats/destination-country-distribution.json',
     create_country_report(
       'destination-country-distribution',
@@ -933,7 +956,8 @@ async function main(): Promise<void> {
     ),
   );
 
-  await write_manifest_file(output_directory, manifest);
+  await write_manifest_file(period_output_directory, manifest);
+  await write_period_catalog(output_directory, period_slug);
   await query_client.close();
 }
 

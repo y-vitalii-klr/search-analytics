@@ -1,0 +1,233 @@
+{
+  "metadata": {
+    "report_key": "country-pair-top-queries-italy-to-any",
+    "report_type": "country_pair_top_queries",
+    "generated_at": "2026-07-08T09:28:24.458Z",
+    "period": {
+      "date_from": "2026-06-01",
+      "date_to": "2026-07-01"
+    },
+    "filters": {
+      "origin_country_name": "Italy",
+      "destination_country_name": "Any",
+      "limit": 30
+    }
+  },
+  "summary": {
+    "rows": 30,
+    "searches_total": 18717,
+    "searches_without_price": 12186
+  },
+  "data": [
+    {
+      "origin_city_name": "Naples",
+      "destination_city_name": "Lviv",
+      "origin_country_name": "Italy",
+      "destination_country_name": "Ukraine",
+      "count": 781
+    },
+    {
+      "origin_city_name": "Rome",
+      "destination_city_name": "Vinnytsia",
+      "origin_country_name": "Italy",
+      "destination_country_name": "Ukraine",
+      "count": 611
+    },
+    {
+      "origin_city_name": "Rome",
+      "destination_city_name": "Lviv",
+      "origin_country_name": "Italy",
+      "destination_country_name": "Ukraine",
+      "count": 571
+    },
+    {
+      "origin_city_name": "Milan",
+      "destination_city_name": "Kyiv",
+      "origin_country_name": "Italy",
+      "destination_country_name": "Ukraine",
+      "count": 328
+    },
+    {
+      "origin_city_name": "Naples",
+      "destination_city_name": "Kharkiv",
+      "origin_country_name": "Italy",
+      "destination_country_name": "Ukraine",
+      "count": 321
+    },
+    {
+      "origin_city_name": "Trieste",
+      "destination_city_name": "Vinnytsia",
+      "origin_country_name": "Italy",
+      "destination_country_name": "Ukraine",
+      "count": 313
+    },
+    {
+      "origin_city_name": "Rome",
+      "destination_city_name": "Kharkiv",
+      "origin_country_name": "Italy",
+      "destination_country_name": "Ukraine",
+      "count": 312
+    },
+    {
+      "origin_city_name": "Milan",
+      "destination_city_name": "Lviv",
+      "origin_country_name": "Italy",
+      "destination_country_name": "Ukraine",
+      "count": 301
+    },
+    {
+      "origin_city_name": "Rome",
+      "destination_city_name": "Kyiv",
+      "origin_country_name": "Italy",
+      "destination_country_name": "Ukraine",
+      "count": 298
+    },
+    {
+      "origin_city_name": "Genoa",
+      "destination_city_name": "Lviv",
+      "origin_country_name": "Italy",
+      "destination_country_name": "Ukraine",
+      "count": 297
+    },
+    {
+      "origin_city_name": "Naples",
+      "destination_city_name": "Khmelnytskyi",
+      "origin_country_name": "Italy",
+      "destination_country_name": "Ukraine",
+      "count": 273
+    },
+    {
+      "origin_city_name": "Rimini",
+      "destination_city_name": "Lviv",
+      "origin_country_name": "Italy",
+      "destination_country_name": "Ukraine",
+      "count": 269
+    },
+    {
+      "origin_city_name": "Venice",
+      "destination_city_name": "Lviv",
+      "origin_country_name": "Italy",
+      "destination_country_name": "Ukraine",
+      "count": 239
+    },
+    {
+      "origin_city_name": "Genoa",
+      "destination_city_name": "Khmelnytskyi",
+      "origin_country_name": "Italy",
+      "destination_country_name": "Ukraine",
+      "count": 234
+    },
+    {
+      "origin_city_name": "Naples",
+      "destination_city_name": "Kyiv",
+      "origin_country_name": "Italy",
+      "destination_country_name": "Ukraine",
+      "count": 231
+    },
+    {
+      "origin_city_name": "Trieste",
+      "destination_city_name": "Kryvyi Rih",
+      "origin_country_name": "Italy",
+      "destination_country_name": "Ukraine",
+      "count": 212
+    },
+    {
+      "origin_city_name": "Rimini",
+      "destination_city_name": "Kyiv",
+      "origin_country_name": "Italy",
+      "destination_country_name": "Ukraine",
+      "count": 205
+    },
+    {
+      "origin_city_name": "Genoa",
+      "destination_city_name": "Kyiv",
+      "origin_country_name": "Italy",
+      "destination_country_name": "Ukraine",
+      "count": 203
+    },
+    {
+      "origin_city_name": "Padua",
+      "destination_city_name": "Kyiv",
+      "origin_country_name": "Italy",
+      "destination_country_name": "Ukraine",
+      "count": 189
+    },
+    {
+      "origin_city_name": "Udine",
+      "destination_city_name": "Kyiv",
+      "origin_country_name": "Italy",
+      "destination_country_name": "Ukraine",
+      "count": 186
+    },
+    {
+      "origin_city_name": "Bologna",
+      "destination_city_name": "Lviv",
+      "origin_country_name": "Italy",
+      "destination_country_name": "Ukraine",
+      "count": 179
+    },
+    {
+      "origin_city_name": "Bologna",
+      "destination_city_name": "Kyiv",
+      "origin_country_name": "Italy",
+      "destination_country_name": "Ukraine",
+      "count": 169
+    },
+    {
+      "origin_city_name": "Venice",
+      "destination_city_name": "Kyiv",
+      "origin_country_name": "Italy",
+      "destination_country_name": "Ukraine",
+      "count": 166
+    },
+    {
+      "origin_city_name": "Genoa",
+      "destination_city_name": "Kharkiv",
+      "origin_country_name": "Italy",
+      "destination_country_name": "Ukraine",
+      "count": 163
+    },
+    {
+      "origin_city_name": "Venice",
+      "destination_city_name": "Khmelnytskyi",
+      "origin_country_name": "Italy",
+      "destination_country_name": "Ukraine",
+      "count": 159
+    },
+    {
+      "origin_city_name": "Naples",
+      "destination_city_name": "Kryvyi Rih",
+      "origin_country_name": "Italy",
+      "destination_country_name": "Ukraine",
+      "count": 157
+    },
+    {
+      "origin_city_name": "Udine",
+      "destination_city_name": "Lviv",
+      "origin_country_name": "Italy",
+      "destination_country_name": "Ukraine",
+      "count": 154
+    },
+    {
+      "origin_city_name": "Milan",
+      "destination_city_name": "Dnipro",
+      "origin_country_name": "Italy",
+      "destination_country_name": "Ukraine",
+      "count": 148
+    },
+    {
+      "origin_city_name": "Florence",
+      "destination_city_name": "Lviv",
+      "origin_country_name": "Italy",
+      "destination_country_name": "Ukraine",
+      "count": 136
+    },
+    {
+      "origin_city_name": "Padua",
+      "destination_city_name": "Kryvyi Rih",
+      "origin_country_name": "Italy",
+      "destination_country_name": "Ukraine",
+      "count": 129
+    }
+  ]
+}
