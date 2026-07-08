@@ -2,7 +2,7 @@
   "metadata": {
     "report_key": "country-pair-missing-price-routes-germany-to-poland",
     "report_type": "country_pair_missing_price_routes",
-    "generated_at": "2026-07-08T09:11:33.734Z",
+    "generated_at": "2026-07-08T09:21:20.254Z",
     "period": {
       "date_from": "2026-01-01",
       "date_to": "2027-01-01"
@@ -11,13 +11,13 @@
       "origin_country_name": "Germany",
       "destination_country_name": "Poland",
       "no_price_route_only": true,
-      "limit": 30
+      "limit": 50
     }
   },
   "summary": {
-    "rows": 30,
-    "searches_total": 17698,
-    "searches_without_price": 17698
+    "rows": 50,
+    "searches_total": 22652,
+    "searches_without_price": 22652
   },
   "data": [
     {
@@ -229,6 +229,146 @@
       "origin_country_name": "Germany",
       "destination_country_name": "Poland",
       "count": 312
+    },
+    {
+      "origin_city_name": "Zwickau",
+      "destination_city_name": "Warsaw",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Poland",
+      "count": 297
+    },
+    {
+      "origin_city_name": "Bielefeld",
+      "destination_city_name": "Przemyśl",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Poland",
+      "count": 286
+    },
+    {
+      "origin_city_name": "Cologne",
+      "destination_city_name": "Krakow",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Poland",
+      "count": 284
+    },
+    {
+      "origin_city_name": "Bremen",
+      "destination_city_name": "Przemyśl",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Poland",
+      "count": 278
+    },
+    {
+      "origin_city_name": "Frankfurt am Main",
+      "destination_city_name": "Poznan",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Poland",
+      "count": 275
+    },
+    {
+      "origin_city_name": "Mannheim",
+      "destination_city_name": "Warsaw",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Poland",
+      "count": 273
+    },
+    {
+      "origin_city_name": "Dortmund",
+      "destination_city_name": "Wroclaw",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Poland",
+      "count": 265
+    },
+    {
+      "origin_city_name": "Dresden",
+      "destination_city_name": "Krakow",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Poland",
+      "count": 255
+    },
+    {
+      "origin_city_name": "Erfurt",
+      "destination_city_name": "Warsaw",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Poland",
+      "count": 251
+    },
+    {
+      "origin_city_name": "Magdeburg",
+      "destination_city_name": "Warsaw",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Poland",
+      "count": 241
+    },
+    {
+      "origin_city_name": "Augsburg",
+      "destination_city_name": "Warsaw",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Poland",
+      "count": 239
+    },
+    {
+      "origin_city_name": "Frankfurt am Main",
+      "destination_city_name": "Wroclaw",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Poland",
+      "count": 238
+    },
+    {
+      "origin_city_name": "Hamburg",
+      "destination_city_name": "Krakow",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Poland",
+      "count": 234
+    },
+    {
+      "origin_city_name": "Dortmund",
+      "destination_city_name": "Krakow",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Poland",
+      "count": 232
+    },
+    {
+      "origin_city_name": "Dresden",
+      "destination_city_name": "Warsaw",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Poland",
+      "count": 229
+    },
+    {
+      "origin_city_name": "Hamburg",
+      "destination_city_name": "Lodz",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Poland",
+      "count": 224
+    },
+    {
+      "origin_city_name": "Ulm",
+      "destination_city_name": "Warsaw",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Poland",
+      "count": 218
+    },
+    {
+      "origin_city_name": "Berlin",
+      "destination_city_name": "Wroclaw",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Poland",
+      "count": 215
+    },
+    {
+      "origin_city_name": "Hanover",
+      "destination_city_name": "Krakow",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Poland",
+      "count": 210
+    },
+    {
+      "origin_city_name": "Leipzig",
+      "destination_city_name": "Wroclaw",
+      "origin_country_name": "Germany",
+      "destination_country_name": "Poland",
+      "count": 210
     }
   ]
 }

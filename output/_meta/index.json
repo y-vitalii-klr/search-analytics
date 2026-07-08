@@ -1,19 +1,24 @@
 {
   "metadata": {
-    "generated_at": "2026-07-08T09:11:33.734Z",
+    "generated_at": "2026-07-08T09:21:20.254Z",
     "period": {
       "date_from": "2026-01-01",
       "date_to": "2027-01-01"
     },
-    "top_countries_limit": 5,
-    "top_rows_limit": 30
+    "top_countries_limit": 10,
+    "top_rows_limit": 50
   },
   "countries": [
     "Ukraine",
     "Germany",
     "Poland",
     "Czechia",
-    "Spain"
+    "Spain",
+    "Italy",
+    "Moldova",
+    "Slovakia",
+    "Austria",
+    "Bulgaria"
   ],
   "reports": [
     {
@@ -127,6 +132,111 @@
       "file_path": "domestic/missing-price-routes/spain.json",
       "origin_country_name": "Spain",
       "destination_country_name": "Spain"
+    },
+    {
+      "report_key": "domestic-no-price-italy",
+      "report_type": "domestic_no_price",
+      "file_path": "domestic/no-price/italy.json",
+      "origin_country_name": "Italy",
+      "destination_country_name": "Italy"
+    },
+    {
+      "report_key": "domestic-top-queries-italy",
+      "report_type": "domestic_top_queries",
+      "file_path": "domestic/top-queries/italy.json",
+      "origin_country_name": "Italy",
+      "destination_country_name": "Italy"
+    },
+    {
+      "report_key": "domestic-missing-price-routes-italy",
+      "report_type": "domestic_missing_price_routes",
+      "file_path": "domestic/missing-price-routes/italy.json",
+      "origin_country_name": "Italy",
+      "destination_country_name": "Italy"
+    },
+    {
+      "report_key": "domestic-no-price-moldova",
+      "report_type": "domestic_no_price",
+      "file_path": "domestic/no-price/moldova.json",
+      "origin_country_name": "Moldova",
+      "destination_country_name": "Moldova"
+    },
+    {
+      "report_key": "domestic-top-queries-moldova",
+      "report_type": "domestic_top_queries",
+      "file_path": "domestic/top-queries/moldova.json",
+      "origin_country_name": "Moldova",
+      "destination_country_name": "Moldova"
+    },
+    {
+      "report_key": "domestic-missing-price-routes-moldova",
+      "report_type": "domestic_missing_price_routes",
+      "file_path": "domestic/missing-price-routes/moldova.json",
+      "origin_country_name": "Moldova",
+      "destination_country_name": "Moldova"
+    },
+    {
+      "report_key": "domestic-no-price-slovakia",
+      "report_type": "domestic_no_price",
+      "file_path": "domestic/no-price/slovakia.json",
+      "origin_country_name": "Slovakia",
+      "destination_country_name": "Slovakia"
+    },
+    {
+      "report_key": "domestic-top-queries-slovakia",
+      "report_type": "domestic_top_queries",
+      "file_path": "domestic/top-queries/slovakia.json",
+      "origin_country_name": "Slovakia",
+      "destination_country_name": "Slovakia"
+    },
+    {
+      "report_key": "domestic-missing-price-routes-slovakia",
+      "report_type": "domestic_missing_price_routes",
+      "file_path": "domestic/missing-price-routes/slovakia.json",
+      "origin_country_name": "Slovakia",
+      "destination_country_name": "Slovakia"
+    },
+    {
+      "report_key": "domestic-no-price-austria",
+      "report_type": "domestic_no_price",
+      "file_path": "domestic/no-price/austria.json",
+      "origin_country_name": "Austria",
+      "destination_country_name": "Austria"
+    },
+    {
+      "report_key": "domestic-top-queries-austria",
+      "report_type": "domestic_top_queries",
+      "file_path": "domestic/top-queries/austria.json",
+      "origin_country_name": "Austria",
+      "destination_country_name": "Austria"
+    },
+    {
+      "report_key": "domestic-missing-price-routes-austria",
+      "report_type": "domestic_missing_price_routes",
+      "file_path": "domestic/missing-price-routes/austria.json",
+      "origin_country_name": "Austria",
+      "destination_country_name": "Austria"
+    },
+    {
+      "report_key": "domestic-no-price-bulgaria",
+      "report_type": "domestic_no_price",
+      "file_path": "domestic/no-price/bulgaria.json",
+      "origin_country_name": "Bulgaria",
+      "destination_country_name": "Bulgaria"
+    },
+    {
+      "report_key": "domestic-top-queries-bulgaria",
+      "report_type": "domestic_top_queries",
+      "file_path": "domestic/top-queries/bulgaria.json",
+      "origin_country_name": "Bulgaria",
+      "destination_country_name": "Bulgaria"
+    },
+    {
+      "report_key": "domestic-missing-price-routes-bulgaria",
+      "report_type": "domestic_missing_price_routes",
+      "file_path": "domestic/missing-price-routes/bulgaria.json",
+      "origin_country_name": "Bulgaria",
+      "destination_country_name": "Bulgaria"
     },
     {
       "report_key": "country-pair-no-price-ukraine-to-germany",
@@ -547,6 +657,216 @@
       "file_path": "country-pairs/missing-price-routes/spain-to-czechia.json",
       "origin_country_name": "Spain",
       "destination_country_name": "Czechia"
+    },
+    {
+      "report_key": "country-pair-no-price-italy-to-any",
+      "report_type": "country_pair_no_price",
+      "file_path": "country-pairs/no-price/italy-to-any.json",
+      "origin_country_name": "Italy",
+      "destination_country_name": "Any"
+    },
+    {
+      "report_key": "country-pair-top-queries-italy-to-any",
+      "report_type": "country_pair_top_queries",
+      "file_path": "country-pairs/top-queries/italy-to-any.json",
+      "origin_country_name": "Italy",
+      "destination_country_name": "Any"
+    },
+    {
+      "report_key": "country-pair-missing-price-routes-italy-to-any",
+      "report_type": "country_pair_missing_price_routes",
+      "file_path": "country-pairs/missing-price-routes/italy-to-any.json",
+      "origin_country_name": "Italy",
+      "destination_country_name": "Any"
+    },
+    {
+      "report_key": "country-pair-no-price-any-to-italy",
+      "report_type": "country_pair_no_price",
+      "file_path": "country-pairs/no-price/any-to-italy.json",
+      "origin_country_name": "Any",
+      "destination_country_name": "Italy"
+    },
+    {
+      "report_key": "country-pair-top-queries-any-to-italy",
+      "report_type": "country_pair_top_queries",
+      "file_path": "country-pairs/top-queries/any-to-italy.json",
+      "origin_country_name": "Any",
+      "destination_country_name": "Italy"
+    },
+    {
+      "report_key": "country-pair-missing-price-routes-any-to-italy",
+      "report_type": "country_pair_missing_price_routes",
+      "file_path": "country-pairs/missing-price-routes/any-to-italy.json",
+      "origin_country_name": "Any",
+      "destination_country_name": "Italy"
+    },
+    {
+      "report_key": "country-pair-no-price-moldova-to-any",
+      "report_type": "country_pair_no_price",
+      "file_path": "country-pairs/no-price/moldova-to-any.json",
+      "origin_country_name": "Moldova",
+      "destination_country_name": "Any"
+    },
+    {
+      "report_key": "country-pair-top-queries-moldova-to-any",
+      "report_type": "country_pair_top_queries",
+      "file_path": "country-pairs/top-queries/moldova-to-any.json",
+      "origin_country_name": "Moldova",
+      "destination_country_name": "Any"
+    },
+    {
+      "report_key": "country-pair-missing-price-routes-moldova-to-any",
+      "report_type": "country_pair_missing_price_routes",
+      "file_path": "country-pairs/missing-price-routes/moldova-to-any.json",
+      "origin_country_name": "Moldova",
+      "destination_country_name": "Any"
+    },
+    {
+      "report_key": "country-pair-no-price-any-to-moldova",
+      "report_type": "country_pair_no_price",
+      "file_path": "country-pairs/no-price/any-to-moldova.json",
+      "origin_country_name": "Any",
+      "destination_country_name": "Moldova"
+    },
+    {
+      "report_key": "country-pair-top-queries-any-to-moldova",
+      "report_type": "country_pair_top_queries",
+      "file_path": "country-pairs/top-queries/any-to-moldova.json",
+      "origin_country_name": "Any",
+      "destination_country_name": "Moldova"
+    },
+    {
+      "report_key": "country-pair-missing-price-routes-any-to-moldova",
+      "report_type": "country_pair_missing_price_routes",
+      "file_path": "country-pairs/missing-price-routes/any-to-moldova.json",
+      "origin_country_name": "Any",
+      "destination_country_name": "Moldova"
+    },
+    {
+      "report_key": "country-pair-no-price-slovakia-to-any",
+      "report_type": "country_pair_no_price",
+      "file_path": "country-pairs/no-price/slovakia-to-any.json",
+      "origin_country_name": "Slovakia",
+      "destination_country_name": "Any"
+    },
+    {
+      "report_key": "country-pair-top-queries-slovakia-to-any",
+      "report_type": "country_pair_top_queries",
+      "file_path": "country-pairs/top-queries/slovakia-to-any.json",
+      "origin_country_name": "Slovakia",
+      "destination_country_name": "Any"
+    },
+    {
+      "report_key": "country-pair-missing-price-routes-slovakia-to-any",
+      "report_type": "country_pair_missing_price_routes",
+      "file_path": "country-pairs/missing-price-routes/slovakia-to-any.json",
+      "origin_country_name": "Slovakia",
+      "destination_country_name": "Any"
+    },
+    {
+      "report_key": "country-pair-no-price-any-to-slovakia",
+      "report_type": "country_pair_no_price",
+      "file_path": "country-pairs/no-price/any-to-slovakia.json",
+      "origin_country_name": "Any",
+      "destination_country_name": "Slovakia"
+    },
+    {
+      "report_key": "country-pair-top-queries-any-to-slovakia",
+      "report_type": "country_pair_top_queries",
+      "file_path": "country-pairs/top-queries/any-to-slovakia.json",
+      "origin_country_name": "Any",
+      "destination_country_name": "Slovakia"
+    },
+    {
+      "report_key": "country-pair-missing-price-routes-any-to-slovakia",
+      "report_type": "country_pair_missing_price_routes",
+      "file_path": "country-pairs/missing-price-routes/any-to-slovakia.json",
+      "origin_country_name": "Any",
+      "destination_country_name": "Slovakia"
+    },
+    {
+      "report_key": "country-pair-no-price-austria-to-any",
+      "report_type": "country_pair_no_price",
+      "file_path": "country-pairs/no-price/austria-to-any.json",
+      "origin_country_name": "Austria",
+      "destination_country_name": "Any"
+    },
+    {
+      "report_key": "country-pair-top-queries-austria-to-any",
+      "report_type": "country_pair_top_queries",
+      "file_path": "country-pairs/top-queries/austria-to-any.json",
+      "origin_country_name": "Austria",
+      "destination_country_name": "Any"
+    },
+    {
+      "report_key": "country-pair-missing-price-routes-austria-to-any",
+      "report_type": "country_pair_missing_price_routes",
+      "file_path": "country-pairs/missing-price-routes/austria-to-any.json",
+      "origin_country_name": "Austria",
+      "destination_country_name": "Any"
+    },
+    {
+      "report_key": "country-pair-no-price-any-to-austria",
+      "report_type": "country_pair_no_price",
+      "file_path": "country-pairs/no-price/any-to-austria.json",
+      "origin_country_name": "Any",
+      "destination_country_name": "Austria"
+    },
+    {
+      "report_key": "country-pair-top-queries-any-to-austria",
+      "report_type": "country_pair_top_queries",
+      "file_path": "country-pairs/top-queries/any-to-austria.json",
+      "origin_country_name": "Any",
+      "destination_country_name": "Austria"
+    },
+    {
+      "report_key": "country-pair-missing-price-routes-any-to-austria",
+      "report_type": "country_pair_missing_price_routes",
+      "file_path": "country-pairs/missing-price-routes/any-to-austria.json",
+      "origin_country_name": "Any",
+      "destination_country_name": "Austria"
+    },
+    {
+      "report_key": "country-pair-no-price-bulgaria-to-any",
+      "report_type": "country_pair_no_price",
+      "file_path": "country-pairs/no-price/bulgaria-to-any.json",
+      "origin_country_name": "Bulgaria",
+      "destination_country_name": "Any"
+    },
+    {
+      "report_key": "country-pair-top-queries-bulgaria-to-any",
+      "report_type": "country_pair_top_queries",
+      "file_path": "country-pairs/top-queries/bulgaria-to-any.json",
+      "origin_country_name": "Bulgaria",
+      "destination_country_name": "Any"
+    },
+    {
+      "report_key": "country-pair-missing-price-routes-bulgaria-to-any",
+      "report_type": "country_pair_missing_price_routes",
+      "file_path": "country-pairs/missing-price-routes/bulgaria-to-any.json",
+      "origin_country_name": "Bulgaria",
+      "destination_country_name": "Any"
+    },
+    {
+      "report_key": "country-pair-no-price-any-to-bulgaria",
+      "report_type": "country_pair_no_price",
+      "file_path": "country-pairs/no-price/any-to-bulgaria.json",
+      "origin_country_name": "Any",
+      "destination_country_name": "Bulgaria"
+    },
+    {
+      "report_key": "country-pair-top-queries-any-to-bulgaria",
+      "report_type": "country_pair_top_queries",
+      "file_path": "country-pairs/top-queries/any-to-bulgaria.json",
+      "origin_country_name": "Any",
+      "destination_country_name": "Bulgaria"
+    },
+    {
+      "report_key": "country-pair-missing-price-routes-any-to-bulgaria",
+      "report_type": "country_pair_missing_price_routes",
+      "file_path": "country-pairs/missing-price-routes/any-to-bulgaria.json",
+      "origin_country_name": "Any",
+      "destination_country_name": "Bulgaria"
     },
     {
       "report_key": "country-coverage",

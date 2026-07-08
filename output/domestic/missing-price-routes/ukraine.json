@@ -2,7 +2,7 @@
   "metadata": {
     "report_key": "domestic-missing-price-routes-ukraine",
     "report_type": "domestic_missing_price_routes",
-    "generated_at": "2026-07-08T09:11:33.734Z",
+    "generated_at": "2026-07-08T09:21:20.254Z",
     "period": {
       "date_from": "2026-01-01",
       "date_to": "2027-01-01"
@@ -10,13 +10,13 @@
     "filters": {
       "country_name": "Ukraine",
       "no_price_route_only": true,
-      "limit": 30
+      "limit": 50
     }
   },
   "summary": {
-    "rows": 30,
-    "searches_total": 47940,
-    "searches_without_price": 47940
+    "rows": 50,
+    "searches_total": 59857,
+    "searches_without_price": 59857
   },
   "data": [
     {
@@ -72,7 +72,7 @@
     {
       "origin_city_name": "Kyiv",
       "destination_city_name": "Uzhhorod",
-      "count": 1782
+      "count": 1786
     },
     {
       "origin_city_name": "Kyiv",
@@ -168,6 +168,106 @@
       "origin_city_name": "Kharkiv",
       "destination_city_name": "Zaporizhzhya",
       "count": 729
+    },
+    {
+      "origin_city_name": "Odesa",
+      "destination_city_name": "Rivne",
+      "count": 727
+    },
+    {
+      "origin_city_name": "Uzhhorod",
+      "destination_city_name": "Kharkiv",
+      "count": 703
+    },
+    {
+      "origin_city_name": "Kyiv",
+      "destination_city_name": "Chernihiv",
+      "count": 696
+    },
+    {
+      "origin_city_name": "Odesa",
+      "destination_city_name": "Poltava",
+      "count": 672
+    },
+    {
+      "origin_city_name": "Kharkiv",
+      "destination_city_name": "Yaremche",
+      "count": 654
+    },
+    {
+      "origin_city_name": "Kyiv",
+      "destination_city_name": "Kyiv",
+      "count": 652
+    },
+    {
+      "origin_city_name": "Poltava",
+      "destination_city_name": "Dnipro",
+      "count": 592
+    },
+    {
+      "origin_city_name": "Vinnytsia",
+      "destination_city_name": "Uzhhorod",
+      "count": 588
+    },
+    {
+      "origin_city_name": "Odesa",
+      "destination_city_name": "Mykolaiv",
+      "count": 578
+    },
+    {
+      "origin_city_name": "Zaporizhzhya",
+      "destination_city_name": "Kharkiv",
+      "count": 573
+    },
+    {
+      "origin_city_name": "Dnipro",
+      "destination_city_name": "Dnipro",
+      "count": 569
+    },
+    {
+      "origin_city_name": "Dnipro",
+      "destination_city_name": "Cherkasy",
+      "count": 560
+    },
+    {
+      "origin_city_name": "Poltava",
+      "destination_city_name": "Chernivtsi",
+      "count": 560
+    },
+    {
+      "origin_city_name": "Lviv",
+      "destination_city_name": "Chernihiv",
+      "count": 556
+    },
+    {
+      "origin_city_name": "Kharkiv",
+      "destination_city_name": "Lutsk",
+      "count": 552
+    },
+    {
+      "origin_city_name": "Poltava",
+      "destination_city_name": "Ivano-Frankivsk",
+      "count": 547
+    },
+    {
+      "origin_city_name": "Kryvyi Rih",
+      "destination_city_name": "Rivne",
+      "count": 546
+    },
+    {
+      "origin_city_name": "Kryvyi Rih",
+      "destination_city_name": "Truskavets",
+      "count": 536
+    },
+    {
+      "origin_city_name": "Kremenchuk",
+      "destination_city_name": "Ivano-Frankivsk",
+      "count": 529
+    },
+    {
+      "origin_city_name": "Kyiv",
+      "destination_city_name": "Truskavets",
+      "count": 523
     }
   ]
 }

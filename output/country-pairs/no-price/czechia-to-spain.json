@@ -2,7 +2,7 @@
   "metadata": {
     "report_key": "country-pair-no-price-czechia-to-spain",
     "report_type": "country_pair_no_price",
-    "generated_at": "2026-07-08T09:11:33.734Z",
+    "generated_at": "2026-07-08T09:21:20.254Z",
     "period": {
       "date_from": "2026-01-01",
       "date_to": "2027-01-01"
@@ -11,11 +11,11 @@
       "origin_country_name": "Czechia",
       "destination_country_name": "Spain",
       "has_price": false,
-      "limit": 30
+      "limit": 50
     }
   },
   "summary": {
-    "rows": 30,
+    "rows": 50,
     "searches_total": 1547,
     "searches_without_price": 1547
   },
@@ -229,6 +229,146 @@
       "origin_country_name": "Czechia",
       "destination_country_name": "Spain",
       "count": 9
+    },
+    {
+      "origin_city_name": "Mladá Boleslav",
+      "destination_city_name": "Málaga",
+      "origin_country_name": "Czechia",
+      "destination_country_name": "Spain",
+      "count": 8
+    },
+    {
+      "origin_city_name": "Prague",
+      "destination_city_name": "Girona",
+      "origin_country_name": "Czechia",
+      "destination_country_name": "Spain",
+      "count": 7
+    },
+    {
+      "origin_city_name": "Olomouc",
+      "destination_city_name": "Madrid",
+      "origin_country_name": "Czechia",
+      "destination_country_name": "Spain",
+      "count": 5
+    },
+    {
+      "origin_city_name": "Pilsen",
+      "destination_city_name": "Torrevieja",
+      "origin_country_name": "Czechia",
+      "destination_country_name": "Spain",
+      "count": 5
+    },
+    {
+      "origin_city_name": "Prague",
+      "destination_city_name": "Bilbao",
+      "origin_country_name": "Czechia",
+      "destination_country_name": "Spain",
+      "count": 5
+    },
+    {
+      "origin_city_name": "Prague",
+      "destination_city_name": "Seville",
+      "origin_country_name": "Czechia",
+      "destination_country_name": "Spain",
+      "count": 5
+    },
+    {
+      "origin_city_name": "Brno",
+      "destination_city_name": "Pontevedra",
+      "origin_country_name": "Czechia",
+      "destination_country_name": "Spain",
+      "count": 4
+    },
+    {
+      "origin_city_name": "Ostrava",
+      "destination_city_name": "Madrid",
+      "origin_country_name": "Czechia",
+      "destination_country_name": "Spain",
+      "count": 4
+    },
+    {
+      "origin_city_name": "Pardubice",
+      "destination_city_name": "Barcelona",
+      "origin_country_name": "Czechia",
+      "destination_country_name": "Spain",
+      "count": 4
+    },
+    {
+      "origin_city_name": "Pardubice",
+      "destination_city_name": "Girona",
+      "origin_country_name": "Czechia",
+      "destination_country_name": "Spain",
+      "count": 4
+    },
+    {
+      "origin_city_name": "Brno",
+      "destination_city_name": "Seville",
+      "origin_country_name": "Czechia",
+      "destination_country_name": "Spain",
+      "count": 3
+    },
+    {
+      "origin_city_name": "Ostrava",
+      "destination_city_name": "Barcelona",
+      "origin_country_name": "Czechia",
+      "destination_country_name": "Spain",
+      "count": 3
+    },
+    {
+      "origin_city_name": "Pardubice",
+      "destination_city_name": "Alicante",
+      "origin_country_name": "Czechia",
+      "destination_country_name": "Spain",
+      "count": 3
+    },
+    {
+      "origin_city_name": "Prague",
+      "destination_city_name": "A Coruña",
+      "origin_country_name": "Czechia",
+      "destination_country_name": "Spain",
+      "count": 3
+    },
+    {
+      "origin_city_name": "Teplice",
+      "destination_city_name": "Mos",
+      "origin_country_name": "Czechia",
+      "destination_country_name": "Spain",
+      "count": 3
+    },
+    {
+      "origin_city_name": "České Budějovice",
+      "destination_city_name": "Barcelona",
+      "origin_country_name": "Czechia",
+      "destination_country_name": "Spain",
+      "count": 3
+    },
+    {
+      "origin_city_name": "Brno",
+      "destination_city_name": "Marbella",
+      "origin_country_name": "Czechia",
+      "destination_country_name": "Spain",
+      "count": 2
+    },
+    {
+      "origin_city_name": "Brno",
+      "destination_city_name": "Torrevieja",
+      "origin_country_name": "Czechia",
+      "destination_country_name": "Spain",
+      "count": 2
+    },
+    {
+      "origin_city_name": "Cheb",
+      "destination_city_name": "Barcelona",
+      "origin_country_name": "Czechia",
+      "destination_country_name": "Spain",
+      "count": 2
+    },
+    {
+      "origin_city_name": "Jihlava",
+      "destination_city_name": "Madrid",
+      "origin_country_name": "Czechia",
+      "destination_country_name": "Spain",
+      "count": 2
     }
   ]
 }

@@ -44,26 +44,42 @@ export function build_top_countries_query(config: EnvConfig): QueryDefinition {
 
   return {
     query: `
-      WITH base AS (
+      WITH routes AS (
+        SELECT
+          origin_country_name,
+          destination_country_name,
+          origin_city_name,
+          destination_city_name,
+          count() AS route_searches_total,
+          countIf(min_price IS NOT NULL) AS route_searches_with_price
+        FROM ${config.clickhouse_table}
+        ${where_clause.query}
+        GROUP BY
+          origin_country_name,
+          destination_country_name,
+          origin_city_name,
+          destination_city_name
+      ),
+      base AS (
         SELECT
           arrayJoin(
             arrayDistinct([origin_country_name, destination_country_name])
           ) AS country_name,
-          min_price
-        FROM ${config.clickhouse_table}
-        ${where_clause.query}
+          route_searches_total,
+          route_searches_with_price
+        FROM routes
       )
       SELECT
         country_name,
-        count() AS total_searches,
-        countIf(min_price IS NULL) AS searches_without_price,
+        sum(route_searches_total) AS total_searches,
+        sumIf(route_searches_total, route_searches_with_price = 0) AS searches_without_price,
         ${get_share_expression(
-          'count() - countIf(min_price IS NULL)',
-          'count()',
+          'sum(route_searches_total) - sumIf(route_searches_total, route_searches_with_price = 0)',
+          'sum(route_searches_total)',
         )} AS with_price_share,
         ${get_share_expression(
-          'countIf(min_price IS NULL)',
-          'count()',
+          'sumIf(route_searches_total, route_searches_with_price = 0)',
+          'sum(route_searches_total)',
         )} AS without_price_share
       FROM base
       WHERE country_name != ''
@@ -459,20 +475,36 @@ export function build_country_distribution_query(
 
   return {
     query: `
+      WITH routes AS (
+        SELECT
+          origin_country_name,
+          destination_country_name,
+          origin_city_name,
+          destination_city_name,
+          count() AS route_searches_total,
+          countIf(min_price IS NOT NULL) AS route_searches_with_price
+        FROM ${config.clickhouse_table}
+        ${where_clause.query}
+        GROUP BY
+          origin_country_name,
+          destination_country_name,
+          origin_city_name,
+          destination_city_name
+      )
       SELECT
         ${country_column} AS country_name,
-        count() AS total_searches,
-        countIf(min_price IS NULL) AS searches_without_price,
+        sum(route_searches_total) AS total_searches,
+        sumIf(route_searches_total, route_searches_with_price = 0) AS searches_without_price,
         ${get_share_expression(
-          'count() - countIf(min_price IS NULL)',
-          'count()',
+          'sum(route_searches_total) - sumIf(route_searches_total, route_searches_with_price = 0)',
+          'sum(route_searches_total)',
         )} AS with_price_share,
         ${get_share_expression(
-          'countIf(min_price IS NULL)',
-          'count()',
+          'sumIf(route_searches_total, route_searches_with_price = 0)',
+          'sum(route_searches_total)',
         )} AS without_price_share
-      FROM ${config.clickhouse_table}
-      ${where_clause.query ? `${where_clause.query} AND` : 'WHERE'}
+      FROM routes
+      WHERE
         ${country_column} != ''
       GROUP BY ${country_column}
       ORDER BY total_searches DESC, country_name ASC
@@ -490,26 +522,42 @@ export function build_country_stats_query(
 
   return {
     query: `
-      WITH base AS (
+      WITH routes AS (
+        SELECT
+          origin_country_name,
+          destination_country_name,
+          origin_city_name,
+          destination_city_name,
+          count() AS route_searches_total,
+          countIf(min_price IS NOT NULL) AS route_searches_with_price
+        FROM ${config.clickhouse_table}
+        ${where_clause.query}
+        GROUP BY
+          origin_country_name,
+          destination_country_name,
+          origin_city_name,
+          destination_city_name
+      ),
+      base AS (
         SELECT
           arrayJoin(
             arrayDistinct([origin_country_name, destination_country_name])
           ) AS country_name,
-          min_price
-        FROM ${config.clickhouse_table}
-        ${where_clause.query}
+          route_searches_total,
+          route_searches_with_price
+        FROM routes
       )
       SELECT
         country_name,
-        count() AS total_searches,
-        countIf(min_price IS NULL) AS searches_without_price,
+        sum(route_searches_total) AS total_searches,
+        sumIf(route_searches_total, route_searches_with_price = 0) AS searches_without_price,
         ${get_share_expression(
-          'count() - countIf(min_price IS NULL)',
-          'count()',
+          'sum(route_searches_total) - sumIf(route_searches_total, route_searches_with_price = 0)',
+          'sum(route_searches_total)',
         )} AS with_price_share,
         ${get_share_expression(
-          'countIf(min_price IS NULL)',
-          'count()',
+          'sumIf(route_searches_total, route_searches_with_price = 0)',
+          'sum(route_searches_total)',
         )} AS without_price_share
       FROM base
       WHERE country_name IN (${country_names_list})
@@ -525,20 +573,35 @@ export function build_global_stats_query(config: EnvConfig): QueryDefinition {
 
   return {
     query: `
+      WITH routes AS (
+        SELECT
+          origin_country_name,
+          destination_country_name,
+          origin_city_name,
+          destination_city_name,
+          count() AS route_searches_total,
+          countIf(min_price IS NOT NULL) AS route_searches_with_price
+        FROM ${config.clickhouse_table}
+        ${where_clause.query}
+        GROUP BY
+          origin_country_name,
+          destination_country_name,
+          origin_city_name,
+          destination_city_name
+      )
       SELECT
         'global' AS scope,
-        count() AS total_searches,
-        countIf(min_price IS NULL) AS searches_without_price,
+        sum(route_searches_total) AS total_searches,
+        sumIf(route_searches_total, route_searches_with_price = 0) AS searches_without_price,
         ${get_share_expression(
-          'count() - countIf(min_price IS NULL)',
-          'count()',
+          'sum(route_searches_total) - sumIf(route_searches_total, route_searches_with_price = 0)',
+          'sum(route_searches_total)',
         )} AS with_price_share,
         ${get_share_expression(
-          'countIf(min_price IS NULL)',
-          'count()',
+          'sumIf(route_searches_total, route_searches_with_price = 0)',
+          'sum(route_searches_total)',
         )} AS without_price_share
-      FROM ${config.clickhouse_table}
-      ${where_clause.query}
+      FROM routes
     `,
     query_params: where_clause.query_params,
   };

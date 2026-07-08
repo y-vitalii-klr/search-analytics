@@ -1,4 +1,4 @@
-import { Card, Col, Row, Space, Table, Typography } from 'antd';
+import { Alert, Card, Col, Row, Space, Table, Typography } from 'antd';
 
 import { ReportChart } from '../components/report-chart';
 import { StatsCards } from '../components/stats-cards';
@@ -10,6 +10,8 @@ import {
 } from '../lib/format';
 import { reports_store } from '../store/reports-store';
 import type { CountryCoverageRow } from '../types';
+
+const COUNTRY_DISTRIBUTION_LIMIT = 10;
 
 export function OverviewPage() {
   const global_report = reports_store.get_global_stats();
@@ -35,21 +37,32 @@ export function OverviewPage() {
     ),
   }));
   const origin_country_pie_data =
-    (origin_country_distribution_report?.data ?? []).map((row) => ({
-      label: row.country_name,
-      value: row.total_searches,
-    }));
+    (origin_country_distribution_report?.data ?? [])
+      .slice(0, COUNTRY_DISTRIBUTION_LIMIT)
+      .map((row) => ({
+        label: row.country_name,
+        value: row.total_searches,
+      }));
   const destination_country_pie_data =
-    (destination_country_distribution_report?.data ?? []).map((row) => ({
-      label: row.country_name,
-      value: row.total_searches,
-    }));
+    (destination_country_distribution_report?.data ?? [])
+      .slice(0, COUNTRY_DISTRIBUTION_LIMIT)
+      .map((row) => ({
+        label: row.country_name,
+        value: row.total_searches,
+      }));
 
   return (
     <Space direction="vertical" size={24} style={{ width: '100%' }}>
       <Typography.Title level={3} style={{ margin: 0 }}>
         Загальна статистика
       </Typography.Title>
+
+      <Alert
+        type="info"
+        showIcon
+        message="Пояснення"
+        description="Цей розділ показує загальний обсяг пошуків, частку пошуків без ціни, покриття по країнах і розподіл пошуків за країнами відправлення та призначення. Покриття по країнах тут рахується за маршрутами, для яких у вибраному періоді взагалі не було жодного запису з ціною. Для кругових діаграм за країнами показуються лише топ 10 країн, щоб графіки залишалися читабельними."
+      />
 
       <StatsCards
         stats={[

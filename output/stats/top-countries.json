@@ -2,55 +2,90 @@
   "metadata": {
     "report_key": "top-countries",
     "report_type": "top_countries",
-    "generated_at": "2026-07-08T09:11:33.734Z",
+    "generated_at": "2026-07-08T09:21:20.254Z",
     "period": {
       "date_from": "2026-01-01",
       "date_to": "2027-01-01"
     },
     "filters": {
-      "top_countries_limit": 5
+      "top_countries_limit": 10
     }
   },
   "summary": {
-    "rows": 5,
-    "searches_total": 24629632,
-    "searches_without_price": 8019153
+    "rows": 10,
+    "searches_total": 25727443,
+    "searches_without_price": 1783928
   },
   "data": [
     {
       "country_name": "Ukraine",
-      "total_searches": 13576265,
-      "searches_without_price": 4602926,
-      "with_price_share": 13576264.660958,
-      "without_price_share": 0.339042
+      "total_searches": 13577509,
+      "searches_without_price": 828746,
+      "with_price_share": 13577508.938962,
+      "without_price_share": 0.061038
     },
     {
       "country_name": "Germany",
-      "total_searches": 6853526,
-      "searches_without_price": 1986911,
-      "with_price_share": 6853525.710089,
-      "without_price_share": 0.289911
+      "total_searches": 6854081,
+      "searches_without_price": 390937,
+      "with_price_share": 6854080.942963,
+      "without_price_share": 0.057037
     },
     {
       "country_name": "Poland",
-      "total_searches": 2281660,
-      "searches_without_price": 687214,
-      "with_price_share": 2281659.69881,
-      "without_price_share": 0.30119
+      "total_searches": 2281908,
+      "searches_without_price": 265485,
+      "with_price_share": 2281907.883657,
+      "without_price_share": 0.116343
     },
     {
       "country_name": "Czechia",
-      "total_searches": 1290099,
-      "searches_without_price": 365733,
-      "with_price_share": 1290098.716508,
-      "without_price_share": 0.283492
+      "total_searches": 1290235,
+      "searches_without_price": 78259,
+      "with_price_share": 1290234.939345,
+      "without_price_share": 0.060655
     },
     {
       "country_name": "Spain",
-      "total_searches": 628082,
-      "searches_without_price": 376369,
-      "with_price_share": 628081.400765,
-      "without_price_share": 0.599235
+      "total_searches": 628141,
+      "searches_without_price": 52671,
+      "with_price_share": 628140.916148,
+      "without_price_share": 0.083852
+    },
+    {
+      "country_name": "Italy",
+      "total_searches": 308239,
+      "searches_without_price": 47359,
+      "with_price_share": 308238.846356,
+      "without_price_share": 0.153644
+    },
+    {
+      "country_name": "Moldova",
+      "total_searches": 281664,
+      "searches_without_price": 40818,
+      "with_price_share": 281663.855083,
+      "without_price_share": 0.144917
+    },
+    {
+      "country_name": "Slovakia",
+      "total_searches": 188622,
+      "searches_without_price": 34457,
+      "with_price_share": 188621.817322,
+      "without_price_share": 0.182678
+    },
+    {
+      "country_name": "Austria",
+      "total_searches": 171949,
+      "searches_without_price": 19638,
+      "with_price_share": 171948.885792,
+      "without_price_share": 0.114208
+    },
+    {
+      "country_name": "Bulgaria",
+      "total_searches": 145095,
+      "searches_without_price": 25558,
+      "with_price_share": 145094.823853,
+      "without_price_share": 0.176147
     }
   ]
 }

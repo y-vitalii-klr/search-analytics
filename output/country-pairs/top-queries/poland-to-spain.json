@@ -2,7 +2,7 @@
   "metadata": {
     "report_key": "country-pair-top-queries-poland-to-spain",
     "report_type": "country_pair_top_queries",
-    "generated_at": "2026-07-08T09:11:33.734Z",
+    "generated_at": "2026-07-08T09:21:20.254Z",
     "period": {
       "date_from": "2026-01-01",
       "date_to": "2027-01-01"
@@ -10,11 +10,11 @@
     "filters": {
       "origin_country_name": "Poland",
       "destination_country_name": "Spain",
-      "limit": 30
+      "limit": 50
     }
   },
   "summary": {
-    "rows": 30,
+    "rows": 50,
     "searches_total": 7852,
     "searches_without_price": 6479
   },
@@ -228,6 +228,146 @@
       "origin_country_name": "Poland",
       "destination_country_name": "Spain",
       "count": 51
+    },
+    {
+      "origin_city_name": "Wroclaw",
+      "destination_city_name": "Pamplona",
+      "origin_country_name": "Poland",
+      "destination_country_name": "Spain",
+      "count": 51
+    },
+    {
+      "origin_city_name": "Wroclaw",
+      "destination_city_name": "Torrevieja",
+      "origin_country_name": "Poland",
+      "destination_country_name": "Spain",
+      "count": 48
+    },
+    {
+      "origin_city_name": "Szczecin",
+      "destination_city_name": "Alicante",
+      "origin_country_name": "Poland",
+      "destination_country_name": "Spain",
+      "count": 46
+    },
+    {
+      "origin_city_name": "Katowice",
+      "destination_city_name": "Madrid",
+      "origin_country_name": "Poland",
+      "destination_country_name": "Spain",
+      "count": 45
+    },
+    {
+      "origin_city_name": "Wroclaw",
+      "destination_city_name": "Bilbao",
+      "origin_country_name": "Poland",
+      "destination_country_name": "Spain",
+      "count": 45
+    },
+    {
+      "origin_city_name": "Poznan",
+      "destination_city_name": "Madrid",
+      "origin_country_name": "Poland",
+      "destination_country_name": "Spain",
+      "count": 43
+    },
+    {
+      "origin_city_name": "Krakow",
+      "destination_city_name": "Seville",
+      "origin_country_name": "Poland",
+      "destination_country_name": "Spain",
+      "count": 42
+    },
+    {
+      "origin_city_name": "Lodz",
+      "destination_city_name": "Barcelona",
+      "origin_country_name": "Poland",
+      "destination_country_name": "Spain",
+      "count": 42
+    },
+    {
+      "origin_city_name": "Krakow",
+      "destination_city_name": "Santander",
+      "origin_country_name": "Poland",
+      "destination_country_name": "Spain",
+      "count": 41
+    },
+    {
+      "origin_city_name": "Lodz",
+      "destination_city_name": "Valencia",
+      "origin_country_name": "Poland",
+      "destination_country_name": "Spain",
+      "count": 40
+    },
+    {
+      "origin_city_name": "Gdańsk",
+      "destination_city_name": "Barcelona",
+      "origin_country_name": "Poland",
+      "destination_country_name": "Spain",
+      "count": 37
+    },
+    {
+      "origin_city_name": "Rzeszów",
+      "destination_city_name": "Barcelona",
+      "origin_country_name": "Poland",
+      "destination_country_name": "Spain",
+      "count": 37
+    },
+    {
+      "origin_city_name": "Przemyśl",
+      "destination_city_name": "Málaga",
+      "origin_country_name": "Poland",
+      "destination_country_name": "Spain",
+      "count": 35
+    },
+    {
+      "origin_city_name": "Warsaw",
+      "destination_city_name": "Torrevieja",
+      "origin_country_name": "Poland",
+      "destination_country_name": "Spain",
+      "count": 33
+    },
+    {
+      "origin_city_name": "Poznan",
+      "destination_city_name": "Barcelona",
+      "origin_country_name": "Poland",
+      "destination_country_name": "Spain",
+      "count": 32
+    },
+    {
+      "origin_city_name": "Przemyśl",
+      "destination_city_name": "Torrevieja",
+      "origin_country_name": "Poland",
+      "destination_country_name": "Spain",
+      "count": 32
+    },
+    {
+      "origin_city_name": "Warsaw",
+      "destination_city_name": "Seville",
+      "origin_country_name": "Poland",
+      "destination_country_name": "Spain",
+      "count": 32
+    },
+    {
+      "origin_city_name": "Krakow",
+      "destination_city_name": "Donostia-San Sebastian",
+      "origin_country_name": "Poland",
+      "destination_country_name": "Spain",
+      "count": 31
+    },
+    {
+      "origin_city_name": "Lodz",
+      "destination_city_name": "Madrid",
+      "origin_country_name": "Poland",
+      "destination_country_name": "Spain",
+      "count": 31
+    },
+    {
+      "origin_city_name": "Torun",
+      "destination_city_name": "Barcelona",
+      "origin_country_name": "Poland",
+      "destination_country_name": "Spain",
+      "count": 30
     }
   ]
 }

@@ -1,0 +1,273 @@
+{
+  "metadata": {
+    "report_key": "domestic-no-price-bulgaria",
+    "report_type": "domestic_no_price",
+    "generated_at": "2026-07-08T09:21:20.254Z",
+    "period": {
+      "date_from": "2026-01-01",
+      "date_to": "2027-01-01"
+    },
+    "filters": {
+      "country_name": "Bulgaria",
+      "has_price": false,
+      "limit": 50
+    }
+  },
+  "summary": {
+    "rows": 50,
+    "searches_total": 705,
+    "searches_without_price": 705
+  },
+  "data": [
+    {
+      "origin_city_name": "Varna",
+      "destination_city_name": "Burgas",
+      "count": 45
+    },
+    {
+      "origin_city_name": "Varna",
+      "destination_city_name": "Sofia",
+      "count": 44
+    },
+    {
+      "origin_city_name": "Varna",
+      "destination_city_name": "Sunny Beach",
+      "count": 41
+    },
+    {
+      "origin_city_name": "Sofia",
+      "destination_city_name": "Sunny Beach",
+      "count": 30
+    },
+    {
+      "origin_city_name": "Sofia",
+      "destination_city_name": "Burgas",
+      "count": 29
+    },
+    {
+      "origin_city_name": "Sofia",
+      "destination_city_name": "Bansko",
+      "count": 26
+    },
+    {
+      "origin_city_name": "Obzor",
+      "destination_city_name": "Varna",
+      "count": 24
+    },
+    {
+      "origin_city_name": "Plovdiv",
+      "destination_city_name": "Sunny Beach",
+      "count": 24
+    },
+    {
+      "origin_city_name": "Sofia",
+      "destination_city_name": "Varna",
+      "count": 24
+    },
+    {
+      "origin_city_name": "Obzor",
+      "destination_city_name": "Burgas",
+      "count": 22
+    },
+    {
+      "origin_city_name": "Plovdiv",
+      "destination_city_name": "Sofia",
+      "count": 17
+    },
+    {
+      "origin_city_name": "Sunny Beach",
+      "destination_city_name": "Sofia",
+      "count": 15
+    },
+    {
+      "origin_city_name": "Burgas",
+      "destination_city_name": "Sofia",
+      "count": 13
+    },
+    {
+      "origin_city_name": "Sveti Vlas",
+      "destination_city_name": "Sveti Vlas",
+      "count": 13
+    },
+    {
+      "origin_city_name": "Bansko",
+      "destination_city_name": "Sofia",
+      "count": 12
+    },
+    {
+      "origin_city_name": "Burgas",
+      "destination_city_name": "Ruse",
+      "count": 11
+    },
+    {
+      "origin_city_name": "Nessebar",
+      "destination_city_name": "Varna",
+      "count": 11
+    },
+    {
+      "origin_city_name": "Baltchik",
+      "destination_city_name": "Varna",
+      "count": 10
+    },
+    {
+      "origin_city_name": "Albena",
+      "destination_city_name": "Albena",
+      "count": 9
+    },
+    {
+      "origin_city_name": "Plovdiv",
+      "destination_city_name": "Varna",
+      "count": 9
+    },
+    {
+      "origin_city_name": "Sofia",
+      "destination_city_name": "Plovdiv",
+      "count": 9
+    },
+    {
+      "origin_city_name": "Sunny Beach",
+      "destination_city_name": "Sunny Beach",
+      "count": 9
+    },
+    {
+      "origin_city_name": "Burgas",
+      "destination_city_name": "Nessebar",
+      "count": 8
+    },
+    {
+      "origin_city_name": "Nessebar",
+      "destination_city_name": "Sofia",
+      "count": 8
+    },
+    {
+      "origin_city_name": "Sveti Vlas",
+      "destination_city_name": "Sofia",
+      "count": 8
+    },
+    {
+      "origin_city_name": "Varna",
+      "destination_city_name": "Nessebar",
+      "count": 8
+    },
+    {
+      "origin_city_name": "Burgas",
+      "destination_city_name": "Aheloy",
+      "count": 7
+    },
+    {
+      "origin_city_name": "Burgas",
+      "destination_city_name": "Plovdiv",
+      "count": 7
+    },
+    {
+      "origin_city_name": "Burgas",
+      "destination_city_name": "Varna",
+      "count": 7
+    },
+    {
+      "origin_city_name": "Golden Sands",
+      "destination_city_name": "Nessebar",
+      "count": 7
+    },
+    {
+      "origin_city_name": "Sofia",
+      "destination_city_name": "Nessebar",
+      "count": 7
+    },
+    {
+      "origin_city_name": "Kazanluk",
+      "destination_city_name": "Plovdiv",
+      "count": 6
+    },
+    {
+      "origin_city_name": "Nessebar",
+      "destination_city_name": "Burgas",
+      "count": 6
+    },
+    {
+      "origin_city_name": "Sunny Beach",
+      "destination_city_name": "Kranevo",
+      "count": 6
+    },
+    {
+      "origin_city_name": "Sunny Beach",
+      "destination_city_name": "Nessebar",
+      "count": 6
+    },
+    {
+      "origin_city_name": "Varna",
+      "destination_city_name": "Plovdiv",
+      "count": 6
+    },
+    {
+      "origin_city_name": "Golden Sands",
+      "destination_city_name": "Sofia",
+      "count": 5
+    },
+    {
+      "origin_city_name": "Golden Sands",
+      "destination_city_name": "Sunny Beach",
+      "count": 5
+    },
+    {
+      "origin_city_name": "Kazanluk",
+      "destination_city_name": "Stara Zagora",
+      "count": 5
+    },
+    {
+      "origin_city_name": "Kranevo",
+      "destination_city_name": "Varna",
+      "count": 5
+    },
+    {
+      "origin_city_name": "Nessebar",
+      "destination_city_name": "Nessebar",
+      "count": 5
+    },
+    {
+      "origin_city_name": "Sofia",
+      "destination_city_name": "Aheloy",
+      "count": 5
+    },
+    {
+      "origin_city_name": "Sunny Beach",
+      "destination_city_name": "Ravda",
+      "count": 5
+    },
+    {
+      "origin_city_name": "Varna",
+      "destination_city_name": "Kranevo",
+      "count": 5
+    },
+    {
+      "origin_city_name": "Golden Sands",
+      "destination_city_name": "Golden Sands",
+      "count": 4
+    },
+    {
+      "origin_city_name": "Kazanluk",
+      "destination_city_name": "Veliko Tarnovo",
+      "count": 4
+    },
+    {
+      "origin_city_name": "Sofia",
+      "destination_city_name": "Sveti Vlas",
+      "count": 4
+    },
+    {
+      "origin_city_name": "Sunny Beach",
+      "destination_city_name": "Burgas",
+      "count": 4
+    },
+    {
+      "origin_city_name": "Byala",
+      "destination_city_name": "Nessebar",
+      "count": 3
+    },
+    {
+      "origin_city_name": "Dobrich",
+      "destination_city_name": "Nessebar",
+      "count": 3
+    }
+  ]
+}

@@ -2,7 +2,7 @@
   "metadata": {
     "report_key": "country-pair-no-price-czechia-to-poland",
     "report_type": "country_pair_no_price",
-    "generated_at": "2026-07-08T09:11:33.734Z",
+    "generated_at": "2026-07-08T09:21:20.254Z",
     "period": {
       "date_from": "2026-01-01",
       "date_to": "2027-01-01"
@@ -11,11 +11,11 @@
       "origin_country_name": "Czechia",
       "destination_country_name": "Poland",
       "has_price": false,
-      "limit": 30
+      "limit": 50
     }
   },
   "summary": {
-    "rows": 30,
+    "rows": 50,
     "searches_total": 9533,
     "searches_without_price": 7688
   },
@@ -229,6 +229,146 @@
       "origin_country_name": "Czechia",
       "destination_country_name": "Poland",
       "count": 50
+    },
+    {
+      "origin_city_name": "Hradec Kralove",
+      "destination_city_name": "Krakow",
+      "origin_country_name": "Czechia",
+      "destination_country_name": "Poland",
+      "count": 49
+    },
+    {
+      "origin_city_name": "Jihlava",
+      "destination_city_name": "Wroclaw",
+      "origin_country_name": "Czechia",
+      "destination_country_name": "Poland",
+      "count": 48
+    },
+    {
+      "origin_city_name": "Pilsen",
+      "destination_city_name": "Gdańsk",
+      "origin_country_name": "Czechia",
+      "destination_country_name": "Poland",
+      "count": 48
+    },
+    {
+      "origin_city_name": "Hradec Kralove",
+      "destination_city_name": "Wroclaw",
+      "origin_country_name": "Czechia",
+      "destination_country_name": "Poland",
+      "count": 46
+    },
+    {
+      "origin_city_name": "Brno",
+      "destination_city_name": "Szczecin",
+      "origin_country_name": "Czechia",
+      "destination_country_name": "Poland",
+      "count": 42
+    },
+    {
+      "origin_city_name": "Olomouc",
+      "destination_city_name": "Jarosław",
+      "origin_country_name": "Czechia",
+      "destination_country_name": "Poland",
+      "count": 42
+    },
+    {
+      "origin_city_name": "Ostrava",
+      "destination_city_name": "Wroclaw",
+      "origin_country_name": "Czechia",
+      "destination_country_name": "Poland",
+      "count": 41
+    },
+    {
+      "origin_city_name": "Pilsen",
+      "destination_city_name": "Częstochowa",
+      "origin_country_name": "Czechia",
+      "destination_country_name": "Poland",
+      "count": 40
+    },
+    {
+      "origin_city_name": "Brno",
+      "destination_city_name": "Gdańsk",
+      "origin_country_name": "Czechia",
+      "destination_country_name": "Poland",
+      "count": 39
+    },
+    {
+      "origin_city_name": "Ostrava",
+      "destination_city_name": "Rzeszów",
+      "origin_country_name": "Czechia",
+      "destination_country_name": "Poland",
+      "count": 37
+    },
+    {
+      "origin_city_name": "Brno",
+      "destination_city_name": "Lodz",
+      "origin_country_name": "Czechia",
+      "destination_country_name": "Poland",
+      "count": 36
+    },
+    {
+      "origin_city_name": "Olomouc",
+      "destination_city_name": "Krakow",
+      "origin_country_name": "Czechia",
+      "destination_country_name": "Poland",
+      "count": 36
+    },
+    {
+      "origin_city_name": "Karlovy Vary",
+      "destination_city_name": "Przemyśl",
+      "origin_country_name": "Czechia",
+      "destination_country_name": "Poland",
+      "count": 33
+    },
+    {
+      "origin_city_name": "Ostrava",
+      "destination_city_name": "Gorzów Wielkopolski",
+      "origin_country_name": "Czechia",
+      "destination_country_name": "Poland",
+      "count": 33
+    },
+    {
+      "origin_city_name": "Ostrava",
+      "destination_city_name": "Lodz",
+      "origin_country_name": "Czechia",
+      "destination_country_name": "Poland",
+      "count": 33
+    },
+    {
+      "origin_city_name": "Pardubice",
+      "destination_city_name": "Przemyśl",
+      "origin_country_name": "Czechia",
+      "destination_country_name": "Poland",
+      "count": 33
+    },
+    {
+      "origin_city_name": "Hradec Kralove",
+      "destination_city_name": "Warsaw",
+      "origin_country_name": "Czechia",
+      "destination_country_name": "Poland",
+      "count": 29
+    },
+    {
+      "origin_city_name": "Prague",
+      "destination_city_name": "Bydgoszcz",
+      "origin_country_name": "Czechia",
+      "destination_country_name": "Poland",
+      "count": 29
+    },
+    {
+      "origin_city_name": "Hradec Kralove",
+      "destination_city_name": "Poznan",
+      "origin_country_name": "Czechia",
+      "destination_country_name": "Poland",
+      "count": 28
+    },
+    {
+      "origin_city_name": "Liberec",
+      "destination_city_name": "Przemyśl",
+      "origin_country_name": "Czechia",
+      "destination_country_name": "Poland",
+      "count": 28
     }
   ]
 }

@@ -2,7 +2,7 @@
   "metadata": {
     "report_key": "domestic-missing-price-routes-spain",
     "report_type": "domestic_missing_price_routes",
-    "generated_at": "2026-07-08T09:11:33.734Z",
+    "generated_at": "2026-07-08T09:21:20.254Z",
     "period": {
       "date_from": "2026-01-01",
       "date_to": "2027-01-01"
@@ -10,13 +10,13 @@
     "filters": {
       "country_name": "Spain",
       "no_price_route_only": true,
-      "limit": 30
+      "limit": 50
     }
   },
   "summary": {
-    "rows": 30,
-    "searches_total": 1447,
-    "searches_without_price": 1447
+    "rows": 50,
+    "searches_total": 1868,
+    "searches_without_price": 1868
   },
   "data": [
     {
@@ -168,6 +168,106 @@
       "origin_city_name": "Figueres",
       "destination_city_name": "Valencia",
       "count": 28
+    },
+    {
+      "origin_city_name": "Barcelona",
+      "destination_city_name": "Murcia",
+      "count": 27
+    },
+    {
+      "origin_city_name": "Gijón",
+      "destination_city_name": "Barcelona",
+      "count": 26
+    },
+    {
+      "origin_city_name": "Tarragona",
+      "destination_city_name": "Málaga",
+      "count": 26
+    },
+    {
+      "origin_city_name": "Valencia",
+      "destination_city_name": "Málaga",
+      "count": 24
+    },
+    {
+      "origin_city_name": "Bilbao",
+      "destination_city_name": "Madrid",
+      "count": 23
+    },
+    {
+      "origin_city_name": "Madrid",
+      "destination_city_name": "Valencia",
+      "count": 23
+    },
+    {
+      "origin_city_name": "Bilbao",
+      "destination_city_name": "Donostia-San Sebastian",
+      "count": 21
+    },
+    {
+      "origin_city_name": "Málaga",
+      "destination_city_name": "Torrevieja",
+      "count": 21
+    },
+    {
+      "origin_city_name": "Torrevieja",
+      "destination_city_name": "Marbella",
+      "count": 21
+    },
+    {
+      "origin_city_name": "Valencia",
+      "destination_city_name": "Benidorm",
+      "count": 21
+    },
+    {
+      "origin_city_name": "Benidorm",
+      "destination_city_name": "Málaga",
+      "count": 20
+    },
+    {
+      "origin_city_name": "Valencia",
+      "destination_city_name": "Torrevieja",
+      "count": 20
+    },
+    {
+      "origin_city_name": "Alicante",
+      "destination_city_name": "Madrid",
+      "count": 19
+    },
+    {
+      "origin_city_name": "Alicante",
+      "destination_city_name": "Málaga",
+      "count": 19
+    },
+    {
+      "origin_city_name": "Madrid",
+      "destination_city_name": "Alicante",
+      "count": 19
+    },
+    {
+      "origin_city_name": "Málaga",
+      "destination_city_name": "Barcelona",
+      "count": 19
+    },
+    {
+      "origin_city_name": "Barcelona",
+      "destination_city_name": "Málaga",
+      "count": 18
+    },
+    {
+      "origin_city_name": "Madrid",
+      "destination_city_name": "Logroño",
+      "count": 18
+    },
+    {
+      "origin_city_name": "Oviedo",
+      "destination_city_name": "Gijón",
+      "count": 18
+    },
+    {
+      "origin_city_name": "Zaragoza",
+      "destination_city_name": "Madrid",
+      "count": 18
     }
   ]
 }

@@ -69,12 +69,12 @@ export default function App() {
             selectedKeys={[active_page]}
             onClick={(event) => set_active_page(event.key as PageKey)}
             items={[
+              { key: 'overview', label: 'Загальна статистика' },
               { key: 'no_price', label: 'Топ без цін' },
               {
                 key: 'missing_price_routes',
                 label: 'Маршрути без жодної ціни',
               },
-              { key: 'overview', label: 'Загальна статистика' },
               { key: 'top_queries', label: 'Топ запитів' },
             ]}
           />

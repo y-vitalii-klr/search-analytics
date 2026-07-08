@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useState } from 'react';
 
 import {
+  Alert,
   Card,
   Col,
   Empty,
@@ -22,6 +23,7 @@ import type { ManifestEntry, ReportMode, RouteRow } from '../types';
 
 interface ReportBrowserProps {
   title: string;
+  description: string;
   domestic_report_type: string;
   international_report_type: string;
   include_without_price: boolean;
@@ -48,6 +50,7 @@ function get_route_label(row: RouteRow): string {
 
 export function ReportBrowser({
   title,
+  description,
   domestic_report_type,
   international_report_type,
   include_without_price,
@@ -126,6 +129,13 @@ export function ReportBrowser({
           onChange={(value) => set_report_mode(value as ReportMode)}
         />
       </Flex>
+
+      <Alert
+        type="info"
+        showIcon
+        message="Пояснення"
+        description={description}
+      />
 
       <Card>
         <Space direction="vertical" size={16} style={{ width: '100%' }}>
